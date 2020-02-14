@@ -31,7 +31,8 @@ Rather than being focused on political documents, Moradi chose to focus on biome
 Anna Kazantseva, and Stan Szpakowicz also had similar work with summarizing short stories. Their work can be found here: {\small\url{https://www.aclweb.org/anthology/J10-1003.pdf}}. Their team took a unique approach, whereas they made sure their reader knew certain details about the literature they were reading. The pro to this choice is that you are ensuring that your reader has some level of understanding at the end of the summary, even if the summary is less than ideal. The con to this approach is that a reader may have to have an understanding of the document before it’s summarizes, which could potentially contradict the point of a summary.  
 
 \section{Your approach}
-The approach that we shall attempt is to apply an LDA algorithm to the corpus of daily United States Congressional records to produce a topic model. Previous implementation and research into the strengths of an LDA topic model have shown that it functions well for data where there are some known labels or topics to exist. We expect to be able to apply this algorithm and experiment with fine tuning of its parameters as well as the location and size of what we consider to be documents.
+The approach that we shall employ will rely on an LDA algorithm we have researched. We will apply this algorithm to the corpus of daily United States Congressional records of House and Senate discussions. Using this algorithm, important topic models will be produced. We ultimately chose this algorithm because of it's a fairly straightforward approach to the issue of topic modeling, and its well researched strengths. Specifically, previous implementations of LDA topic models have shown to function well for data where there are some known labels or topics to exist within the corpus being used. \\
+This is integral for our program, as the topic models play an important role in summarizing the data. We expect to be able to apply this algorithm and experiment with fine tuning of its parameters as well as the location and size of what we consider to be documents to produce a list of topics related to them for the average person to search. This will factor into our pre-processing stage, and will take up the bulk of our program. Once we have our LDA model down, and we are producing correct topic models, we will spend our time honing our interface to give the user the best summarization of the topic models. 
 
 \subsection{Milestones \& Schedule}
 
@@ -43,11 +44,22 @@ The approach that we shall attempt is to apply an LDA algorithm to the corpus of
 \end{enumerate}
 
 \section{Data}
-The data that this will run on will be transcripts from \href{https://www.congress.gov/congressional-record}(the United States Congress). The LDA algorithm is an unsupervised learning algorithm and thus does not require a training set persay. However, there will be testing done on small increments of a day's transcript throughout the length of the project. This data is freely available for download from congress.gov and is the main focus of our work. Its contents are records of politicians discussing issues stored in PDF format. This can be parsed using pdfminer, a Python library.
+When choosing our data set, we made sure that our data would be readily accessible and plentiful. A personal requirement for the data set, was our data had to be something that is relatable, something interesting, and something that could matter to a lot of people. The data that this will run on will be transcripts from congressional-record the United States Congress. \\
+The LDA algorithm is an unsupervised learning algorithm and thus does not require a training set persay. However, there will be testing done on small increments of a day's transcript throughout the length of the project. This data is freely available for download from congress.gov and is the main focus of our work. Its contents are records of politicians discussing issues stored in PDF format. This can be parsed using pdfminer, a Python library.
 
 \section{Tools}
-We intend to apply and fine tune gensim's LDA topic modeler. For preprocessing we shall experiment with utilizing NLTK's stemming, lemmatization, stopword removal, and extracting the text itself with pdfminer. 
-
+We will be using various tools to execute our program. Below is an outline of the tools we intend to utilize and what they will be responsible for.
+\subsection{Corpus Retrieval}
+We intend to utilize Python libraries to retrieve pdfs on demand from the live website: \url{Congress.Gov}. We specifically beleive that either the library "wget" or "requests" shall be appropriate for our needs. We believe, given additional opporunity for development, that we could utilize a database where the processed plain text portion of the pdfs could be stored.
+\subsection{Preprocessing}
+There are many libraries for assisting with preprocessing in the Python language. To strip the text out of pdf format we intend to utilize the "pdfminer" library, which also offers additional features which we believe will prove useful for understanding the structure of the corpus. Specifically, we intend to utilize the ability of pdfminer to recognize sections of pdf documents and extract headers in a way that we might leverage in our model.\\
+After pdfminer has extracted our corpus, we intend to perform remainder of our preprocessing with the Python library "nltk". Nltk supports tokenization, stemming, lemmatization, among other useful preprocessing features.
+\subsection{LDA Application}
+ The Python library "Gensim" offers many features for language modeling. We are interested in using its LDA function to retrieve a list of topics from our corpora. Since Gensim is an open source library we believe that, if given time and need, we could integrate techniques not currently part of its implementation such that it might be better fitted for our needs in modeling a brief summarization of our corpora.
+ \subsection{Data Visualization}
+  We believe that data visualization is an integral piece to understanding the output of something as complex as topic modeling. Thus, we intend to utilize "matplotlib", a Python library to tabulate our results. We also hope that we may be able to integrate the library "pyLDAvis" to create more visually interesting results.\\
+  If given enough time, we also hope to present our project as a usable application where a user may keep track of select topics that they may receive alerts on when they come up in the Congressional conversation. We believe that this would be a very useful tool for a reports on these conversations which are not often discussed or reported with minimal bias in modern American news media.
+  
 \bibliographystyle{apalike}
 \footnotesize
 \bibliography{yourbib}
