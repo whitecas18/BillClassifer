@@ -3,63 +3,50 @@
 \usepackage{times}
 \usepackage{latexsym}
 \usepackage{graphicx}
-
+\usepackage{hyperref}
 \usepackage{url}
 
 \aclfinalcopy 
 
-\title{Your proposed project title here}
-
-\author{First Author \\
-  {\tt email@domain} \\\And
-  Second Author \\
-  {\tt email@domain} \\\And
-  Third Author \\
-  {\tt email@domain} \\\And
-  Fourth Author \\
-  {\tt email@domain} \\}
-  
-% \setlength\textwidth{16.0cm}
+\title{Summarizing Political Discussion Forums}
+   
+\author{
+  \begin{tabular}[t]{c@{\extracolsep{1em}}c}
+    Shay Merchant   & {\tt merchants18@students.ecu.edu} \\ 
+    Cason White     & {\tt whitecas18@students.ecu.edu} \\
+    Dillon Roberts  & {\tt robertsd13@students.ecu.edu}\\
+    Jacob Craiglow  & {\tt craiglowj16@students.ecu.edu}\\
+  \end{tabular}
+} 
 \date{}
-
 \begin{document}
 \maketitle
-
 \section{Introduction}
-Tell us what problem you're going to work on. Provide some motivation for your idea: why is it interesting? Does it have any practical significance? 
-
-Some general guidelines for this proposal document: 2-4 pages, due Wednesday February 12 (submit the PDF via Canvas, and the \LaTeX source code for the proposal through a \textbf{pull request} in GitLab). Please do not insert random figures or tables to artificially increase the number of pages; it's almost always blatantly obvious when this happens and thus easy to detect. Also remember that we will be providing feedback on this proposal, and we can give better feedback the more specific and informative your document is. Finally, please use this \LaTeX template to write your proposal.
+The general audience for most government documents are politicians. This often leads to proposals, speeches, Senate and Congress bills being wrought with confusion for the everyday person. Besides the technical nature of these documents, the texts can be extremely lengthy, and deceptively titled. A couple examples of this deception, whether intended or not, is the Patriot Act and Citizen’s United. The Patriot Act expanded government surveillance privileges, and Citizen’s United lifted the cap on what corporations could donate to politicians. Our goal is to remove the confusion of these documents and make a program which can summarize these documents in a more digestible format.  
 
 \section{Related work}
-Have others worked on this idea or related ideas? Clearly describe the approaches of at least two other papers, along with some pros and cons. To look for relevant papers, check out the top NLP conferences (e.g., ACL, EMNLP, NAACL, TACL). Make sure to properly cite them. You can cite a paper parenthetically like this~\cite{andrew2007scalable} or use the citation as a proper noun, as in ``\newcite{borsch2011} show that...'' If you're not familiar with \LaTeX, you'll have to add entries to \emph{yourbib.bib} to get them to show up when you cite them. 
+Milad Moradi’s group worked on a similar program. A link to his work can be found here: {\small\url{https://www.sciencedirect.com/science/article/pii/S1532046418302156?via%3Dihub}\\}
+Rather than being focused on political documents, Moradi chose to focus on biomedical texts. Like us, Moradi outlines how the challenge they had to overcome was the different diseases and subcategories of biomedical texts which can affect the way a text is formatted. Moradi’s approach was to tackle summarization in 4 steps. Preprocessing, topic extraction, sentence clustering and summary generation. The pros of this approach is that it is concise and relatively simple to implement. The cons could be that a simple approach may take out some important language and context out of the original text to summarize it.  
+
+Anna Kazantseva, and Stan Szpakowicz also had similar work with summarizing short stories. Their work can be found here: {\small\url{https://www.aclweb.org/anthology/J10-1003.pdf}}. Their team took a unique approach, whereas they made sure their reader knew certain details about the literature they were reading. The pro to this choice is that you are ensuring that your reader has some level of understanding at the end of the summary, even if the summary is less than ideal. The con to this approach is that a reader may have to have an understanding of the document before it’s summarizes, which could potentially contradict the point of a summary.  
 
 \section{Your approach}
-How do you plan to solve the problem you chose? Will you approach it differently from previous work or do you plan to try to replicate an existing paper?\footnote{If you choose replication, remember that you have to implement the majority of the code yourself! Do not just copy the authors' Github code.} Remember that this project should take $\sim 2.5$ months of work!
-
-\paragraph{What baseline algorithms will you use?}
-A baseline algorithm is one that is very simple and trivial to implement. For example, “predict the most common class,” or “tag all capitalized words as names,” or “select the first sentence in the document”. Sometimes it can be difficult to get a fancy algorithm to beat a baseline. “Always ask yourself, ‘What’s the simplest experiment I could do to (in)validate my hypothesis?’ Talented researchers have a knack for coming up with simple baselines.”
+The approach that we shall attempt is to apply an LDA algorithm to the corpus of daily United States Congressional records to produce a topic model. Previous implementation and research into the strengths of an LDA topic model have shown that it functions well for data where there are some known labels or topics to exist. We expect to be able to apply this algorithm and experiment with fine tuning of its parameters as well as the location and size of what we consider to be documents.
 
 \subsection{Milestones \& Schedule}
-Divide your project into subtasks and estimate how much time each will take. If your group plans to divide subtasks amongst itself, also write who will be responsible for each milestone. If you plan to work on everything together, please say so here. Definitely budget some time for writing the progress report and final report, as well as performing an in-depth analysis of any models you build and/or data you collect. Sample schedule below:
+
 \begin{enumerate}
     \item Acquire, analyze, and preprocess data (2 weeks)
-    \item Build models for task (4 weeks)
-    \item Analyze the output of the model, do an error analysis (2 weeks)
-    \item Work on final report and presentation (2 weeks)
+    \item Build LDA modeler (3 weeks)
+    \item Fine-tune , do an error analysis (3 weeks)
+    \item Develop Presentation (2 weeks)
 \end{enumerate}
 
-\begin{figure}[t]
-    \centering
-    \includegraphics[width=0.5\textwidth]{figs/sentence.png}
-    \caption{Please feel free to include figures \emph{that are relevant}! If you want your figure to span both columns, use \emph{figure*} instead of \emph{figure}.}
-    \label{fig:example}
-\end{figure}
-
 \section{Data}
-What text data do you plan to use in your project? Where will you get it from? Will you be annotating text yourselves? Convince us that it is available for you, and that you can easily get it, and that it is appropriate for the task and research questions you care about.
+The data that this will run on will be transcripts from \href{https://www.congress.gov/congressional-record}(the United States Congress). The LDA algorithm is an unsupervised learning algorithm and thus does not require a training set persay. However, there will be testing done on small increments of a day's transcript throughout the length of the project. This data is freely available for download from congress.gov and is the main focus of our work. Its contents are records of politicians discussing issues stored in PDF format. This can be parsed using pdfminer, a Python library.
 
 \section{Tools}
-What existing libraries or toolkits are you going to use? Some questions to think about: will you be doing any preprocessing of your data such as tokenization or parsing? Will you be training logistic regression models? Will you be using deep learning libraries? Will you need to use any services for GPUs?\footnote{if so, check out \url{https://colab.research.google.com}!} Do you need to use crowdsourcing?
+We intend to apply and fine tune gensim's LDA topic modeler. For preprocessing we shall experiment with utilizing NLTK's stemming, lemmatization, stopword removal, and extracting the text itself with pdfminer. 
 
 \bibliographystyle{apalike}
 \footnotesize
