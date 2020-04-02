@@ -1,0 +1,237 @@
+import matplotlib.pyplot as plt
+from __future__ import division  # this line is important to avoid unexpected behavior from division
+import os
+import zipfile
+import math
+import time
+import operator
+from collections import defaultdict, Counter
+
+PATH_TO_DATA = os.getcwd()   # path to the data directory
+FIRE_LABEL = 'fire'
+GOV_LABEL = 'gov'
+ENVIRO_LABEL = 'enviro'
+HEALTH_LABEL = 'health'
+TRAIN_DIR = os.path.join(PATH_TO_DATA, "train")
+TEST_DIR = os.path.join(PATH_TO_DATA, "test")
+
+
+
+def tokenize_doc(doc):
+
+    bow = defaultdict(float)
+    tokens = doc.split()
+    lowered_tokens = map(lambda t: t.lower(), tokens)
+    for token in lowered_tokens:
+        bow[token] += 1.0
+    return dict(bow)
+
+
+
+def n_word_types(word_counts):
+    
+    return len(word_counts)
+    pass
+
+
+def n_word_tokens(word_counts):
+
+    counter = 0;
+
+    for keys in word_counts:
+        counter += word_counts.get(keys)
+        
+    return counter
+
+    pass
+
+
+
+
+###### NAIVE BAYES BLOCK ######
+
+class NaiveBayes:
+    
+    """A Naive Bayes model for text classification."""
+
+    def __init__(self, path_to_data, tokenizer):
+        # Vocabulary is a set that stores every word seen in the training data
+        self.vocab = set()
+        self.path_to_data = path_to_data
+        self.tokenize_doc = tokenizer
+        self.train_dir = os.path.join(path_to_data, "train")
+        self.test_dir = os.path.join(path_to_data, "test")
+        # class_total_doc_counts is a dictionary that maps a class (i.e., pos/neg) to
+        # the number of documents in the trainning set of that class
+        self.class_total_doc_counts = { FIRE_LABEL: 0.0,
+                                        GOV_LABEL: 0.0, 
+                                        ENVIRO_LABEL: 0.0,
+                                        HEALTH_LABEL: 0.0}                }
+
+        # class_total_word_counts is a dictionary that maps a class (i.e., pos/neg) to
+        # the number of words in the training set in documents of that class
+        self.class_total_word_counts = { FIRE_LABEL: 0.0,
+                                        GOV_LABEL: 0.0, 
+                                        ENVIRO_LABEL: 0.0,
+                                        HEALTH_LABEL: 0.0} 
+
+        # class_word_counts is a dictionary of dictionaries. It maps a class (i.e.,
+        # pos/neg) to a dictionary of word counts. For example:
+        #    self.class_word_counts[POS_LABEL]['awesome']
+        # stores the number of times the word 'awesome' appears in documents
+        # of the positive class in the training documents.
+        self.class_word_counts = { FIRE_LABEL: defaultdict(float),
+                                   GOV_LABEL: defaultdict(float),
+                                   ENVIRO_LABEL: defaultdict(float),
+                                   HEALTH_LABEL: defaultdict(float) }
+
+    def train_model(self):
+        """
+        This function processes the entire training set using the global PATH
+        variable above.  It makes use of the tokenize_doc and update_model
+        functions you will implement.
+        """
+
+        pos_path = os.path.join(self.train_dir, POS_LABEL)
+        neg_path = os.path.join(self.train_dir, NEG_LABEL)
+        for (p, label) in [ (pos_path, POS_LABEL), (neg_path, NEG_LABEL) ]:
+            for f in os.listdir(p):
+                with open(os.path.join(p,f),'r') as doc:
+                    content = doc.read()
+                    self.tokenize_and_update_model(content, label)
+        self.report_statistics_after_training()
+
+    def report_statistics_after_training(self):
+        """
+        Report a number of statistics after training.
+        """
+
+        print ("REPORTING CORPUS STATISTICS")
+        print ("NUMBER OF DOCUMENTS IN POSITIVE CLASS:", self.class_total_doc_counts[POS_LABEL])
+        print ("NUMBER OF DOCUMENTS IN NEGATIVE CLASS:", self.class_total_doc_counts[NEG_LABEL])
+        print ("NUMBER OF TOKENS IN POSITIVE CLASS:", self.class_total_word_counts[POS_LABEL])
+        print ("NUMBER OF TOKENS IN NEGATIVE CLASS:", self.class_total_word_counts[NEG_LABEL])
+        print ("VOCABULARY SIZE: NUMBER OF UNIQUE WORDTYPES IN TRAINING CORPUS:", len(self.vocab))
+
+    def update_model(self, bow, label):
+      
+      
+        for k,v in bow.items():
+            self.class_word_counts[label][k] += v
+            self.vocab.add(k)
+
+        self.class_total_word_counts[label] = sum(self.class_word_counts[label].values())
+        self.class_total_doc_counts[label] += 1
+
+      
+    
+        pass
+        
+
+    def tokenize_and_update_model(self, doc, label):
+        bow = tokenize_doc(doc)
+        self.update_model(bow, label)
+      
+        pass
+
+
+    def top_n(self, label, n):
+        
+        return Counter(self.class_word_counts[label]).most_common(n)
+
+        pass
+    
+
+    def p_word_given_label(self, word, label):
+
+        return ((self.class_word_counts[label][word]) / (self.class_total_word_counts[label]))
+    
+        pass
+
+
+    def p_word_given_label_and_alpha(self, word, label, alpha):
+
+        return ((self.class_word_counts[label][word] + alpha) / (self.class_total_word_counts[label]))
+
+        pass
+        
+
+    def log_likelihood(self, bow, label, alpha):
+
+        sumNaive = 0
+
+        for k in bow:
+            sumNaive += math.log(self.p_word_given_label_and_alpha(k, label, alpha))
+
+        return sumNaive
+
+        pass
+
+
+    def log_prior(self, label):
+        
+        result = 0;
+        totDocCount = 0;
+
+        for k in self.class_total_doc_counts:
+            totDocCount += self.class_total_doc_counts[k]
+
+        return math.log(self.class_total_doc_counts[label]) / math.log(totDocCount)
+
+
+        pass
+
+
+    def unnormalized_log_posterior(self, bow, label, alpha):
+
+
+
+        return (self.log_prior(label) + self.log_likelihood(bow, label, alpha))
+
+        pass
+
+
+    def classify(self, bow, alpha):
+        
+        negClassPos = self.unnormalized_log_posterior(bow, NEG_LABEL, alpha)
+        posClassPos = self.unnormalized_log_posterior(bow, POS_LABEL, alpha)
+
+        if (negClassPos >= posClassPos):
+            return NEG_LABEL
+        else:
+            return POS_LABEL
+
+        pass
+        
+
+    def likelihood_ratio(self, word, alpha):
+        
+        return (self.p_word_given_label_and_alpha(word, POS_LABEL, alpha) / self.p_word_given_label_and_alpha(word, NEG_LABEL, alpha))
+
+        pass
+        
+
+    def evaluate_classifier_accuracy(self, alpha):
+      
+        """
+        DO NOT MODIFY THIS FUNCTION
+
+        alpha - pseudocount parameter.
+        This function should go through the test data, classify each instance and
+        compute the accuracy of the classifier (the fraction of classifications
+        the classifier gets right.
+        """
+        correct = 0.0
+        total = 0.0
+
+        pos_path = os.path.join(self.test_dir, POS_LABEL)
+        neg_path = os.path.join(self.test_dir, NEG_LABEL)
+        for (p, label) in [ (pos_path, POS_LABEL), (neg_path, NEG_LABEL) ]:
+            for f in os.listdir(p):
+                with open(os.path.join(p,f),'r') as doc:
+                    content = doc.read()
+                    bow = self.tokenize_doc(content)
+                    if self.classify(bow, alpha) == label:
+                        correct += 1.0
+                    total += 1.0
+        return 100 * correct / total
