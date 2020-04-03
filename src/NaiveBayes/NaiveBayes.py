@@ -42,9 +42,6 @@ def n_word_tokens(word_counts):
     return counter
 
 
-
-
-
 ###### NAIVE BAYES BLOCK ######
 
 class NaiveBayes:
@@ -96,7 +93,7 @@ class NaiveBayes:
         
         for (p, label) in [ (fire_path, FIRE_LABEL), (gov_path, GOV_LABEL), (enviro_path, ENVIRO_LABEL), (health_path, HEALTH_LABEL) ]:
             for f in os.listdir(p):
-                with open(os.path.join(p,f),'r') as doc:
+                with open(os.path.join(p,f),'r',encoding="utf8") as doc:
                     content = doc.read()
                     self.tokenize_and_update_model(content, label)
         self.report_statistics_after_training()
@@ -192,13 +189,35 @@ class NaiveBayes:
         
     def classify(self, bow, alpha):
             
-        
         fireClassPos = self.unnormalized_log_posterior(bow, FIRE_LABEL, alpha)
         govClassPos = self.unnormalized_log_posterior(bow, GOV_LABEL, alpha)
         enviroClassPos = self.unnormalized_log_posterior(bow, ENVIRO_LABEL, alpha)
         healthClassPos = self.unnormalized_log_posterior(bow, HEALTH_LABEL, alpha)
         
-        classDict = {FIRE_LABEL:firstClassPos, GOV_LABEL:govClassPos, ENVIRO_LABEL: enviroClassPos,HEALTH_LABEL:healthClassPos}
+        classDict = {FIRE_LABEL:fireClassPos, GOV_LABEL:govClassPos, ENVIRO_LABEL: enviroClassPos,HEALTH_LABEL:healthClassPos}
         return max(classDict.iteritems(), key=operator.itemgetter(1))[0]
 
-        
+
+
+nb = NaiveBayes(PATH_TO_DATA, tokenizer=tokenize_doc)
+nb.train_model()
+
+print ("TOP 10 WORDS FOR CLASS " + FIRE_LABEL + ":")
+for tok, count in nb.top_n(FIRE_LABEL, 10):
+    print ('', tok, count)
+print ()
+
+print ("TOP 10 WORDS FOR CLASS " + GOV_LABEL + ":")
+for tok, count in nb.top_n(GOV_LABEL, 10):
+    print ('', tok, count)
+print ()
+
+print ("TOP 10 WORDS FOR CLASS " + ENVIRO_LABEL + ":")
+for tok, count in nb.top_n(ENVIRO_LABEL, 10):
+    print ('', tok, count)
+print ()
+
+print ("TOP 10 WORDS FOR CLASS " + HEALTH_LABEL + ":")
+for tok, count in nb.top_n(HEALTH_LABEL, 10):
+    print ('', tok, count)
+print ()
