@@ -1,0 +1,503 @@
+[Congressional Bills 116th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1657 Reported in Senate (RS)]
+
+<DOC>
+
+
+
+
+
+                                                       Calendar No. 287
+116th CONGRESS
+  1st Session
+                                S. 1657
+
+ To provide assistance to combat the escalating burden of Lyme disease 
+        and other tick and vector-borne diseases and disorders.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                 May 23 (legislative day, May 22), 2019
+
+    Ms. Collins (for herself, Ms. Smith, Mr. King, Mrs. Capito, Mr. 
+ Blumenthal, Mrs. Hyde-Smith, Mr. Murphy, Mr. Boozman, Ms. Hassan, Mr. 
+ Braun, and Mr. Sanders) introduced the following bill; which was read 
+ twice and referred to the Committee on Health, Education, Labor, and 
+                                Pensions
+
+                            November 5, 2019
+
+              Reported by Mr. Alexander, with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide assistance to combat the escalating burden of Lyme disease 
+        and other tick and vector-borne diseases and disorders.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+<DELETED>SECTION 1. SHORT TITLE.</DELETED>
+
+<DELETED>    This Act may be cited as the ``Ticks: Identify, Control, 
+and Knockout Act'' or the ``TICK Act''.</DELETED>
+
+<DELETED>SEC. 2. OFFICE OF OVERSIGHT AND COORDINATION FOR VECTOR-BORNE 
+              DISEASE.</DELETED>
+
+<DELETED>    (a) Establishment.--The Secretary of Health and Human 
+Services (referred to in this Act as the ``Secretary'') shall establish 
+in the Office of the Secretary an Office of Oversight and Coordination 
+for Vector-Borne Diseases (referred to in this Act as the ``Office''), 
+to be headed by a director to be appointed by the Secretary.</DELETED>
+<DELETED>    (b) Duties of the Office.--</DELETED>
+        <DELETED>    (1) In general.--The Director of the Office 
+        shall--</DELETED>
+                <DELETED>    (A) oversee the creation and maintenance 
+                of a national strategy to address Lyme disease, and 
+                other tick and vector-borne diseases as provided for in 
+                paragraph (2); and</DELETED>
+                <DELETED>    (B) oversee and coordinate Lyme disease 
+                and other tick and vector-borne disease and disorder 
+                programs and activities across the agencies and offices 
+                of the Department of Health and Human Services and 
+                other Federal agencies outside of the Department of 
+                Health and Human Services, as appropriate.</DELETED>
+        <DELETED>    (2) National strategy.--</DELETED>
+                <DELETED>    (A) In general.--The Director of the 
+                Office shall provide for the conduct of an annual 
+                assessment of the progress of the United States in 
+                preparing for the escalating burden of Lyme disease and 
+                other tick and vector-borne diseases and disorders, 
+                including an assessment of all Federally funded 
+                programs and activities related to surveillance, 
+                diagnosis, treatment, education, or prevention, as well 
+                as implementation steps, and recommendations for 
+                priority actions, with appropriate benchmarks to 
+                measure progress, based on the assessment.</DELETED>
+                <DELETED>    (B) Non-federal perspectives.--In 
+                developing the strategy under subparagraph (A), and 
+                maintaining it, the Director shall consult with non-
+                Federal individuals with appropriate expertise, which 
+                may include--</DELETED>
+                        <DELETED>    (i) epidemiologists with 
+                        experience in surveillance, treatment, 
+                        education, or prevention of vector-borne 
+                        diseases;</DELETED>
+                        <DELETED>    (ii) representatives of national 
+                        patient advocacy and research organizations 
+                        that focus on vector-borne diseases, and those 
+                        that focus specifically on tick-borne disease 
+                        and have demonstrated experience in research, 
+                        data collection, or patient access to 
+                        care;</DELETED>
+                        <DELETED>    (iii) health information 
+                        technology experts or other information 
+                        management specialists;</DELETED>
+                        <DELETED>    (iv) clinicians, entomologists, 
+                        vector-management professionals, integrated 
+                        pest management professionals, public health 
+                        professionals, and others with expertise in 
+                        vector-borne disease, including Lyme disease or 
+                        other tick-borne diseases or disorders; 
+                        and</DELETED>
+                        <DELETED>    (v) research scientists with 
+                        experience conducting translational research or 
+                        utilizing surveillance systems for scientific 
+                        research purposes.</DELETED>
+<DELETED>    (c) Objective of the Office.--In carrying out subsection 
+(b), the Director of the Office shall facilitate and work to ensure the 
+accomplishment of the following activities:</DELETED>
+        <DELETED>    (1) Expansion and enhancement of epidemiological 
+        research and basic, translational, and clinical biological and 
+        biomedical research.</DELETED>
+        <DELETED>    (2) Expansion and improvement of tick 
+        surveillance, linking tick surveillance to surveillance of Lyme 
+        disease, and reporting of Lyme disease and other tick- and 
+        vector-borne diseases, including coinfections with agents of 
+        more than one tick or vector-borne diseases.</DELETED>
+        <DELETED>    (3) Development of effective diagnostic tests to 
+        accurately and timely diagnose Lyme disease and other tick- and 
+        vector-borne diseases, including direct detention 
+        tests.</DELETED>
+        <DELETED>    (4) Development of treatments to cure or improve 
+        the lives of those who are infected with Lyme disease or other 
+        tick-and vector-borne diseases or who suffer from a tick-
+        induced disorder (such as tick PIM programs).</DELETED>
+        <DELETED>    (5) Address the quality of patient care, treatment 
+        affordability, and public awareness of Lyme disease and other 
+        tick or vector-borne diseases.</DELETED>
+        <DELETED>    (6) Design and conduct clinical trials of 
+        sufficient size and duration to support clinical 
+        recommendations.</DELETED>
+        <DELETED>    (7) Systematic documentation of the experiences of 
+        health care professionals in diagnosing and treating tick- and 
+        vector-borne disease, including diagnostic and treatment 
+        outcomes.</DELETED>
+        <DELETED>    (8) Development and maintenance of one or more 
+        registries of patients and their experiences relating to 
+        exposure to, diagnosis for, and treatment of tick- and vector-
+        borne disease, including outcomes, such that the 
+        confidentiality and safety of patient data is 
+        protected.</DELETED>
+        <DELETED>    (9) Access to data and enable emerging 
+        technologies to improve patient care, sharing data with 
+        researchers and care providers.</DELETED>
+        <DELETED>    (10) Coordination with other Federal departments 
+        to address tick- and other vector-borne diseases including the 
+        Department of Defense, the Department of Agriculture, the 
+        Environmental Protection Agency, the Department of Interior, 
+        and the Department of Homeland Security.</DELETED>
+        <DELETED>    (11) Coordination with the Tick-Borne Disease 
+        Working Group established under section 2062 of the 21st 
+        Century Cures Act (42 U.S.C. 284s) to develop and implement 
+        recommendations.</DELETED>
+        <DELETED>    (12) Coordination with international bodies to 
+        integrate and inform the fight against Lyme disease, and other 
+        tick- and vector-borne diseases globally.</DELETED>
+
+<DELETED>SEC. 3. REGIONAL CENTERS OF EXCELLENCE IN TICK AND VECTOR-
+              BORNE DISEASES.</DELETED>
+
+<DELETED>    (a) In General.--The Secretary, in coordination with the 
+Director of the Centers for Disease Control and Prevention and the 
+heads of other agencies as appropriate, shall award grants, contracts, 
+or cooperative agreements to eligible entities (such as institutions of 
+higher education, State, tribal, and local health departments, 
+associations, or other appropriate entities) for the establishment or 
+support of Regional Centers of Excellence in Tick and Vector-Borne 
+Diseases. Such Regional Centers shall be designed to address Lyme 
+disease and other tick and vector-borne diseases by--</DELETED>
+        <DELETED>    (1) building collaboration between academia and 
+        public health agencies for surveillance, prevention and 
+        response to Lyme disease and other tick and vector-borne 
+        diseases;</DELETED>
+        <DELETED>    (2) providing training for public health 
+        entomologists to deal with Lyme disease and other tick and 
+        vector-borne diseases; and</DELETED>
+        <DELETED>    (3) conducting applied research to develop and 
+        validate prevention and control tools and methods, and to 
+        anticipate and respond to outbreaks of Lyme disease and other 
+        tick and vector-borne diseases.</DELETED>
+<DELETED>    (b) Eligibility.--To be eligible to receive a grant, 
+contract, or cooperative agreement under this section, an entity shall 
+prepare and submit to the Secretary an application at such time, in 
+such manner, and containing such agreements and information as the 
+Secretary may require, including a description of how the entity will--
+</DELETED>
+        <DELETED>    (1) coordinate, as applicable, with existing 
+        Federal, State, and tribal programs related to Lyme disease and 
+        other vector-borne diseases;</DELETED>
+        <DELETED>    (2) examine, evaluate, and promote evidence-based 
+        interventions for individuals with Lyme disease and other tick- 
+        and vector-borne diseases, including those in rural and 
+        underserved populations, and those who provide care for such 
+        individuals; and</DELETED>
+        <DELETED>    (3) prioritize activities relating to--</DELETED>
+                <DELETED>    (A) expanding efforts, as appropriate, to 
+                implement evidence-based practices to address Lyme 
+                disease and other tick- and vector-borne diseases, 
+                including through the training of State, local, and 
+                tribal public health officials and other health 
+                professionals on such practices;</DELETED>
+                <DELETED>    (B) supporting surveillance of vectors, 
+                and early detection and diagnosis of Lyme and other 
+                tick- and vector-borne diseases, including improving 
+                the quality and reliability of diagnostic tools at all 
+                stages of disease progression, and developing a Lyme 
+                disease test capable of distinguishing between past and 
+                active infections;</DELETED>
+                <DELETED>    (C) improving the safety and efficacy of 
+                any new, renewed, or modified human vaccine for Lyme 
+                disease, other tick- and vector-borne diseases, or a 
+                combination of such diseases;</DELETED>
+                <DELETED>    (D) developing a standardized screening 
+                protocol for Lyme disease and other tick- and vector-
+                borne diseases;</DELETED>
+                <DELETED>    (E) enhancing studies and activities on 
+                tick biology, disease ecology, and surveillance, and 
+                tick management; and</DELETED>
+                <DELETED>    (F) supporting other relevant activities 
+                identified by the Secretary or the Director of the 
+                Centers for Disease Control and Prevention, as 
+                appropriate.</DELETED>
+<DELETED>    (c) Considerations.--In awarding grants, contracts, and 
+cooperative agreements under this section, the Secretary shall 
+consider, among other factors, whether the entity--</DELETED>
+        <DELETED>    (1) provides services to rural areas or other 
+        underserved populations;</DELETED>
+        <DELETED>    (2) is able to build on an existing infrastructure 
+        of services and public health research;</DELETED>
+        <DELETED>    (3) is located in an area with a high prevalence, 
+        or in any area predicted to have a high prevalence, of Lyme 
+        disease or other tick- and vector-borne diseases; and</DELETED>
+        <DELETED>    (4) has experience with conducting research 
+        related to Lyme disease and other tick- and vector-borne 
+        diseases.</DELETED>
+<DELETED>    (d) Authorization of Appropriations.--For the purpose of 
+carrying out this section, there are authorized to be appropriated 
+$10,000,000 for each of fiscal years from 2021 through 2026. Amounts 
+appropriated shall be allocated under this section to diseases in a 
+manner that proportionately matches the disease burden of those 
+diseases in the United States, which shall be reassessed and adjusted 
+annually.</DELETED>
+
+<DELETED>SEC. 4. COOPERATIVE AGREEMENTS WITH THE CENTERS FOR DISEASE 
+              CONTROL AND PREVENTION.</DELETED>
+
+<DELETED>    (a) In General.--The Secretary, in coordination with the 
+Director of the Centers for Disease Control and Prevention and the 
+heads of other agencies, as appropriate, shall enter into cooperative 
+agreements between the Centers for Disease Control and Prevention and 
+health departments of States, political subdivisions of States, and 
+Indian tribes and tribal organizations, to address Lyme Disease and 
+other tick- and vector-borne diseases, and to support the development 
+and implementation of evidence-based research, interventions, and 
+treatment with respect to--</DELETED>
+        <DELETED>    (1) educating and informing the public, based on 
+        evidence-based public health research and data, about Lyme 
+        Disease and other vector-borne diseases;</DELETED>
+        <DELETED>    (2) supporting early detection and 
+        diagnosis;</DELETED>
+        <DELETED>    (3) supporting prevention;</DELETED>
+        <DELETED>    (4) improving treatment;</DELETED>
+        <DELETED>    (5) supporting care planning and management for 
+        individuals with Lyme disease and other tick- and vector-borne 
+        diseases; and</DELETED>
+        <DELETED>    (6) supporting other relevant activities 
+        identified by the Secretary or the Director of the Centers for 
+        Disease Control and Prevention, as appropriate.</DELETED>
+<DELETED>    (b) Eligibility.--To be eligible to enter into a 
+cooperative agreement under this section, an entity described in 
+subsection (a) shall prepare and submit to the Secretary an application 
+at such time, in such manner, and containing such information as the 
+Secretary may require, including a plan that describes--</DELETED>
+        <DELETED>    (1) how the applicant proposes to develop or 
+        expand programs to educate individuals through partnership 
+        engagement, workforce development, guidance and support for 
+        programmatic efforts, and evaluation with respect to Lyme 
+        disease and other tick- or vector-borne diseases, and how the 
+        applicant proposes to support other relevant activities 
+        identified by the Secretary or the Director of the Centers for 
+        Disease Control and Prevention, as appropriate;</DELETED>
+        <DELETED>    (2) the manner in which the applicant will 
+        coordinate with Federal, tribal, and State programs related to 
+        Lyme Disease and other vector-borne diseases, and appropriate 
+        State, tribal, and local agencies, as well as other relevant 
+        public and private organizations or agencies; and</DELETED>
+        <DELETED>    (3) the manner in which the applicant will 
+        evaluate the effectiveness of any program carried out under the 
+        cooperative agreement.</DELETED>
+<DELETED>    (c) Authorization of Appropriations.--For the purpose of 
+carrying out this section, there are authorized to be appropriated 
+$20,000,000 for each of fiscal years from (2021 through 2026). Amounts 
+appropriated shall be allocated under this section to diseases in a 
+manner that proportionately matches the disease burden of those 
+diseases in the United States, which shall be reassessed and adjusted 
+annually.</DELETED>
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Kay Hagan Tick Act''.
+
+SEC. 2. COMBATING VECTOR-BORNE DISEASES.
+
+    Title III of the Public Health Service Act is amended by inserting 
+after section 317T (42 U.S.C. 247b-22) the following:
+
+``SEC. 317U. NATIONAL STRATEGY AND REGIONAL CENTERS OF EXCELLENCE IN 
+              VECTOR-BORNE DISEASES.
+
+    ``(a) In General.--The Secretary, acting through the Assistant 
+Secretary for Health, shall--
+            ``(1) ensure the development and implementation of a 
+        national strategy to address vector-borne diseases, including 
+        tick-borne diseases, consistent with subsection (b); and
+            ``(2) coordinate programs and activities, including related 
+        to data collection, research, and the development of 
+        diagnostics, treatments, vaccines, and other related 
+        activities, to address vector-borne diseases, including tick-
+        borne diseases, across the Department of Health and Human 
+        Services and with other Federal agencies or departments, as 
+        appropriate.
+    ``(b) Strategy.--
+            ``(1) In general.--The Secretary, in coordination with the 
+        Secretary of Defense, the Secretary of Agriculture, the 
+        Administrator of the Environmental Protection Agency, the 
+        Secretary of the Interior, the Secretary of Veterans Affairs, 
+        the Secretary of Homeland Security, and others, as appropriate, 
+        shall develop a strategy to address gaps in Federal programs, 
+        and assess the progress of the United States in, addressing 
+        vector-borne diseases, including tick-borne diseases. Such 
+        strategy shall--
+                    ``(A) assess gaps and unnecessary duplication in 
+                federally funded programs and activities related to 
+                surveillance, diagnosis, treatment, education, 
+                pathogenesis, or prevention of vector-borne diseases, 
+                including tick-borne diseases, which may include taking 
+                into consideration relevant strategic plans made by 
+                other agencies;
+                    ``(B) identify gaps and unnecessary duplication 
+                with respect to--
+                            ``(i) epidemiological, basic, 
+                        translational, and clinical research on vector-
+                        borne diseases, including tick-borne diseases; 
+                        and
+                            ``(ii) vector surveillance, registries, and 
+                        disease monitoring, including coinfections with 
+                        agents of more than one vector-borne disease;
+                    ``(C) identify strategic goals related to 
+                addressing vector-borne diseases, including tick-borne 
+                diseases, including goals related to the development of 
+                diagnostics, treatments, vaccines, and other related 
+                measures, as appropriate, and benchmarks to measure 
+                progress;
+                    ``(D) identify ways to improve the care and 
+                treatment of individuals with vector-borne diseases, 
+                including tick-borne diseases, and to improve public 
+                awareness of such diseases; and
+                    ``(E) update such strategy biennially.
+            ``(2) Non-federal perspectives.--In developing and 
+        updating, as applicable, the strategy under paragraph (1), the 
+        Secretary shall--
+                    ``(A) coordinate with the Tick-Borne Disease 
+                Working Group established under section 2062 of the 
+                21st Century Cures Act (42 U.S.C. 284s), as 
+                appropriate; and
+                    ``(B) consult with non-Federal individuals with 
+                appropriate expertise, which may include--
+                            ``(i) epidemiologists with experience in 
+                        vector-borne diseases, including tick-borne 
+                        diseases;
+                            ``(ii) representatives of patient advocacy 
+                        and research organizations that focus on 
+                        vector-borne diseases, including those that 
+                        focus specifically on tick-borne diseases and 
+                        have demonstrated experience in related 
+                        research, public health, data collection, or 
+                        patient access to care;
+                            ``(iii) health information technology 
+                        experts or other information management 
+                        specialists;
+                            ``(iv) clinicians, entomologists, vector 
+                        management professionals, public health 
+                        professionals, and others with expertise in 
+                        vector-borne diseases, including tick-borne 
+                        diseases; and
+                            ``(v) researchers, including researchers 
+                        with experience conducting translational 
+                        research.
+    ``(c) Centers of Excellence.--The Secretary, in coordination with 
+the Director of the Centers for Disease Control and Prevention and the 
+heads of other agencies, as appropriate, shall award grants, contracts, 
+or cooperative agreements to institutions of higher education for the 
+establishment or continued support of regional centers of excellence in 
+vector-borne diseases to address vector-borne diseases, including tick-
+borne diseases, by--
+            ``(1) facilitating collaboration between academia and 
+        public health organizations for public health surveillance, 
+        prevention, and response activities related to vector-borne 
+        diseases, including tick-borne diseases;
+            ``(2) providing training for public health entomologists 
+        and other health care professionals, as appropriate, to address 
+        vector-borne diseases, including tick-borne diseases;
+            ``(3) conducting research to develop and validate 
+        prevention and control tools and methods, including evidence-
+        based and innovative, evidence-informed tools and methods to 
+        anticipate and respond to disease outbreaks; or
+            ``(4) preparing for and responding to outbreaks of vector-
+        borne diseases, including tick-borne diseases.
+    ``(d) Eligibility.--To be eligible to receive a grant, contract, or 
+cooperative agreement under subsection (c), an entity shall submit to 
+the Secretary an application at such time, in such manner, and 
+containing such information as the Secretary may require, including a 
+description of how the entity will conduct the activities described in 
+such subsection.
+    ``(e) Reports.--
+            ``(1) Program summary.--An entity receiving an award under 
+        subsection (c) shall, not later than one year after receiving 
+        such award, and annually thereafter, submit to the Secretary a 
+        summary of programs and activities funded under the award.
+            ``(2) Progress report.--Not later than 4 years after the 
+        date of enactment of this section, the Secretary shall submit 
+        to the Committee on Health, Education, Labor, and Pensions of 
+        the Senate and the Committee on Energy and Commerce of the 
+        House of Representatives, a report on the progress made in 
+        addressing vector-borne diseases, including tick-borne 
+        diseases, through activities carried out under this section.
+    ``(f) Authorization of Appropriations.--For the purpose of carrying 
+out this section, there are authorized to be appropriated $10,000,000 
+for each of fiscal years 2021 through 2025.''.
+
+SEC. 3. ENHANCING CAPACITY TO ADDRESS VECTOR-BORNE DISEASES.
+
+    (a) Enhanced Support.--Subtitle C of title XXVIII of the Public 
+Health Service Act (42 U.S.C. 300hh-31 et seq.) is amended by adding at 
+the end the following:
+
+``SEC. 2822. ENHANCED SUPPORT TO ASSIST HEALTH DEPARTMENTS IN 
+              ADDRESSING VECTOR-BORNE DISEASES.
+
+    ``(a) In General.--The Secretary, acting through the Director of 
+the Centers for Disease Control and Prevention, may enter into 
+cooperative agreements with health departments of States, political 
+subdivisions of States, and Indian Tribes and Tribal organizations in 
+areas at high risk of vector-borne diseases in order to increase 
+capacity to identify, report, prevent, and respond to such diseases and 
+related outbreaks.
+    ``(b) Eligibility.--To be eligible to enter into a cooperative 
+agreement under this section, an entity described in subsection (a) 
+shall prepare and submit to the Secretary an application at such time, 
+in such manner, and containing such information as the Secretary may 
+require, including a plan that describes--
+            ``(1) how the applicant proposes to develop or expand 
+        programs to address vector-borne diseases risks, including 
+        through--
+                    ``(A) related training and workforce development;
+                    ``(B) programmatic efforts to improve capacity to 
+                identify, report, prevent, and respond to such disease 
+                and related outbreaks; and
+                    ``(C) other relevant activities identified by the 
+                Director of the Centers for Disease Control and 
+                Prevention, as appropriate;
+            ``(2) the manner in which the applicant will coordinate 
+        with other Federal, Tribal, and State agencies and programs, as 
+        applicable, related to vector-borne diseases, as well as other 
+        relevant public and private organizations or agencies; and
+            ``(3) the manner in which the applicant will evaluate the 
+        effectiveness of any program carried out under the cooperative 
+        agreement.
+    ``(c) Authorization of Appropriations.--For the purposes of 
+carrying out this section, there are authorized to be appropriated 
+$20,000,000 for each of fiscal years 2021 through 2025.''.
+                                                       Calendar No. 287
+
+116th CONGRESS
+
+  1st Session
+
+                                S. 1657
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To provide assistance to combat the escalating burden of Lyme disease 
+        and other tick and vector-borne diseases and disorders.
+
+_______________________________________________________________________
+
+                            November 5, 2019
+
+                       Reported with an amendment

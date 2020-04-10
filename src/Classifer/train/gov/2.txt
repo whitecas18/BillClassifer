@@ -1,0 +1,184 @@
+[Congressional Bills 116th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2083 Referred in Senate (RFS)]
+
+<DOC>
+116th CONGRESS
+  1st Session
+                                H. R. 2083
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 11, 2019
+
+Received; read twice and referred to the Committee on Homeland Security 
+                        and Governmental Affairs
+
+                                 AN ACT
+
+
+ 
+To amend the Homeland Security Act of 2002 regarding the procurement of 
+certain items related to national security interests for Department of 
+   Homeland Security frontline operational components, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Homeland Procurement Reform Act'' or 
+the ``HOPR Act''.
+
+SEC. 2. REQUIREMENTS TO BUY CERTAIN ITEMS RELATED TO NATIONAL SECURITY 
+              INTERESTS ACCORDING TO CERTAIN CRITERIA.
+
+    (a) In General.--Subtitle D of title VIII of the Homeland Security 
+Act of 2002 (6 U.S.C. 391 et seq.) is amended by adding at the end the 
+following new section:
+
+``SEC. 836. REQUIREMENTS TO BUY CERTAIN ITEMS RELATED TO NATIONAL 
+              SECURITY INTERESTS.
+
+    ``(a) Requirement.--The Secretary shall ensure that any procurement 
+of covered items for a frontline operational component meets the 
+following criteria:
+            ``(1) To the maximum extent possible, not less than one-
+        third of funds obligated in a specific fiscal year for the 
+        procurement of such covered items shall be covered items that 
+        are manufactured in part or provided in the United States by 
+        entities that qualify as small business concerns (as such term 
+        is described under section 3 of the Small Business Act (15 
+        U.S.C. 632)).
+            ``(2) Each prime contractor, with respect to the 
+        procurement of such covered items, shall ensure, to the maximum 
+        extent practicable, the following:
+                    ``(A) Each first-tier subcontractor and end item 
+                manufacturer complies with the contractor code of 
+                business ethics and conduct under section 3509 of title 
+                41, United States Code, and the Federal Acquisition 
+                Regulation.
+                    ``(B) Each first-tier subcontractor and end-item 
+                manufacturer is in compliance with a standard 
+                identified by the Secretary as appropriate for quality, 
+                such as ISO 9001:2015 of the International Organization 
+                for Standardization.
+                    ``(C) The ability of a first-tier subcontractor to 
+                fulfill the terms of the contract is verified.
+            ``(3) Each supplier of such a covered item with an insignia 
+        (such as any patch, badge, or emblem) and each supplier of such 
+        an insignia, if such covered item with such insignia or such 
+        insignia, as the case may be, is not produced, applied, or 
+        assembled in the United States, shall--
+                    ``(A) store such covered item with such insignia or 
+                such insignia in a locked area;
+                    ``(B) report any pilferage or theft of such covered 
+                item with such insignia or such insignia occurring at 
+                any stage before delivery of such covered item with 
+                such insignia or such insignia; and
+                    ``(C) destroy any defective or unusable covered 
+                item with insignia or insignia in a manner established 
+                by the Secretary, and maintain records, for 3 years 
+                after the creation of such records, of such destruction 
+                that include the date of such destruction, a 
+                description of the covered item with insignia or 
+                insignia destroyed, the quantity of the covered item 
+                with insignia or insignia destroyed, and the method of 
+                destruction.
+    ``(b) Pricing.--The Secretary shall ensure that covered items are 
+purchased at a fair and reasonable price, consistent with the 
+procedures and guidelines specified in the Federal Acquisition 
+Regulation.
+    ``(c) Report.--Not later than 180 days after the date of the 
+enactment of this section and annually thereafter, the Secretary shall 
+provide to the Committee on Homeland Security, the Committee on 
+Oversight and Reform, and the Committee on Appropriations of the House 
+of Representatives, and the Committee on Homeland Security and 
+Governmental Affairs and the Committee on Appropriations of the Senate 
+a report on the following:
+            ``(1) Instances in which vendors have failed to meet 
+        deadlines for delivery of covered items and corrective actions 
+        taken by the Department in response to such instances.
+            ``(2) The status of efforts to carry out paragraph (1) of 
+        subsection (a).
+            ``(3) A description of how the Department ensures the 
+        compliance of each prime contractor with the requirements of 
+        paragraph (2) of subsection (a) and any instances of non-
+        compliance.
+    ``(d) Department Frontline Operational Component Described.--In 
+this section, the term `Department frontline operational component' 
+refers to any of the following components of the Department:
+            ``(1) United States Customs and Border Protection.
+            ``(2) United States Immigration and Customs Enforcement.
+            ``(3) The United States Secret Service.
+            ``(4) The Transportation Security Administration.
+            ``(5) The Cybersecurity and Infrastructure Security Agency.
+            ``(6) The Federal Protective Service.
+            ``(7) The Federal Emergency Management Agency.
+            ``(8) The Federal Law Enforcement Training Centers.
+    ``(e) Determination.--If the Secretary determines that compliance 
+with paragraph (1) of subsection (a) is impractical, the Secretary 
+shall, not later than 15 days after making such determination, submit 
+to the Committee on Homeland Security of the House of Representatives 
+and Committee on Homeland Security and Governmental Affairs of the 
+Senate an explanation relating to such determination and specifics 
+regarding what percentage of covered items will be procured by small 
+business concerns.
+    ``(f) Exception.--This section shall not apply to the purchase of 
+covered items by the Department to be used by the Department for 
+training purposes.
+    ``(g) Covered Item Described.--In this section, the term `covered 
+item' refers to any of the following with respect to a Department 
+frontline operational component:
+            ``(1) Body armor components intended to provide ballistic 
+        protection for an individual, consisting of one or more of the 
+        following:
+                    ``(A) Soft ballistic panels.
+                    ``(B) Hard ballistic plates.
+                    ``(C) Concealed armor carriers worn under a 
+                uniform.
+                    ``(D) External armor carriers worn over a uniform.
+            ``(2) Helmets that provide ballistic protection and other 
+        head protection and components.
+            ``(3) Protective eyewear.
+            ``(4) Rain gear, cold weather gear, other environmental and 
+        flame-resistant clothing.
+            ``(5) Footwear.
+            ``(6) Uniforms.
+            ``(7) Bags and packs.
+            ``(8) Holsters and tactical pouches.
+            ``(9) Patches, insignia, and embellishments.
+            ``(10) Respiratory protective masks.
+            ``(11) Chemical, biological, radiological, and nuclear 
+        protective gear.
+            ``(12) Hearing protection equipment.
+            ``(13) Any other critical safety item as determined 
+        appropriate by the Secretary.
+    ``(h) Effective Date.--This section applies with respect to a 
+contract entered into by the Department or any of its frontline 
+operational components on or after October 1, 2020.
+    ``(i) Sense of Congress.--It is the sense of Congress that the 
+Secretary should endeavor to ensure that the majority of covered items 
+for a frontline operational component procured by the Department are 
+manufactured in the United States by entities that qualify as small 
+business concerns.''.
+    (b) Study.--Not later than 1 year after the date of the enactment 
+of this Act, the Secretary of Homeland Security shall submit to the 
+Committee on Homeland Security of the House of Representatives and the 
+Committee on Homeland Security and Governmental Affairs of the Senate a 
+study of the adequacy of allowances provided to employees of Department 
+of Homeland Security frontline operational components (as such term is 
+described in section 836 of the Homeland Security Act of 2002, as added 
+by subsection (a)). Such study shall be informed by a Department-wide 
+survey of employees from across the Department who receive uniform 
+allowances that seeks to ascertain what, if any, improvements could be 
+made to the current uniform allowances and what, if any, impacts 
+current allowances have had on employee morale and retention. Such 
+study shall also consider increasing by 25 percent, at minimum, the 
+uniform allowance for first year employees and by 50 percent, at 
+minimum, the annual allowance for all other employees.
+    (c) Clerical Amendment.--The table of contents in section 1(b) of 
+the Homeland Security Act of 2002 is amended by inserting after the 
+item relating to section 835 the following new item:

@@ -1,0 +1,1534 @@
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 20, 2019
+
+     Received; read twice and referred to the Committee on Health, 
+                     Education, Labor, and Pensions
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To amend the Patient Protection and Affordable Care Act to provide for 
+         Federal Exchange outreach and educational activities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Strengthening Health Care and 
+Lowering Prescription Drug Costs Act''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents of this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+               TITLE I--LOWERING PRESCRIPTION DRUG COSTS
+
+  Subtitle A--Bringing Low-Cost Options and Competition While Keeping 
+                      Incentives for New Generics
+
+Sec. 101. Change conditions of first generic exclusivity to spur access 
+                            and competition.
+        Subtitle B--Protecting Consumer Access to Generic Drugs
+
+Sec. 111. Unlawful agreements.
+Sec. 112. Notice and certification of agreements.
+Sec. 113. Forfeiture of 180-day exclusivity period.
+Sec. 114. Commission litigation authority.
+Sec. 115. Statute of limitations.
+ Subtitle C--Creating and Restoring Equal Access to Equivalent Samples
+
+Sec. 121. Actions for delays of generic drugs and biosimilar biological 
+                            products.
+Sec. 122. REMS approval process for subsequent filers.
+Sec. 123. Rule of construction.
+  Subtitle D--Study on Role of Federal Assistance in Drug Development
+
+Sec. 131. Study on role of Federal assistance in drug development.
+                  Subtitle E--Pharmacy School Outreach
+
+Sec. 141. Pharmacy school outreach.
+                          Subtitle F--Reports
+
+Sec. 151. Effects of increases in prescription drug price.
+            TITLE II--HEALTH INSURANCE MARKET STABILIZATION
+
+Sec. 201. Preserving State option to implement health care 
+                            marketplaces.
+Sec. 202. Providing for additional requirements with respect to the 
+                            navigator program.
+Sec. 203. Federal Exchange outreach and educational activities and 
+                            annual enrollment targets.
+Sec. 204. Short-term limited duration insurance rule prohibition.
+Sec. 205. Protection of health insurance coverage in certain Exchanges.
+Sec. 206. Sense of Congress relating to the practice of silver loading.
+Sec. 207. Consumer outreach, education, and assistance.
+Sec. 208. GAO report.
+Sec. 209. Report on the effects of website maintenance during open 
+                            enrollment.
+                      TITLE III--BUDGETARY EFFECTS
+
+Sec. 301. Determination of budgetary effects.
+
+               TITLE I--LOWERING PRESCRIPTION DRUG COSTS
+
+  Subtitle A--Bringing Low-Cost Options and Competition While Keeping 
+                      Incentives for New Generics
+
+SEC. 101. CHANGE CONDITIONS OF FIRST GENERIC EXCLUSIVITY TO SPUR ACCESS 
+              AND COMPETITION.
+
+    Section 505(j)(5)(B)(iv) of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 355(j)(5)(B)(iv)) is amended--
+            (1) in subclause (I), by striking ``180 days after'' and 
+        all that follows through the period at the end and inserting 
+        the following: ``180 days after the earlier of--
+                                    ``(aa) the date of the first 
+                                commercial marketing of the drug 
+                                (including the commercial marketing of 
+                                the listed drug) by any first 
+                                applicant; or
+                                    ``(bb) the applicable date 
+                                specified in subclause (III).''; and
+            (2) by adding at the end the following new subclause:
+                            ``(III) Applicable date.--The applicable 
+                        date specified in this subclause, with respect 
+                        to an application for a drug described in 
+                        subclause (I), is the date on which each of the 
+                        following conditions is first met:
+                                    ``(aa) The approval of such an 
+                                application could be made effective, 
+                                but for the eligibility of a first 
+                                applicant for 180-day exclusivity under 
+                                this clause.
+                                    ``(bb) At least 30 months have 
+                                passed since the date of submission of 
+                                an application for the drug by at least 
+                                one first applicant.
+                                    ``(cc) Approval of an application 
+                                for the drug submitted by at least one 
+                                first applicant is not precluded under 
+                                clause (iii).
+                                    ``(dd) No application for the drug 
+                                submitted by any first applicant is 
+                                approved at the time the conditions 
+                                under items (aa), (bb), and (cc) are 
+                                all met, regardless of whether such an 
+                                application is subsequently 
+                                approved.''.
+
+        Subtitle B--Protecting Consumer Access to Generic Drugs
+
+SEC. 111. UNLAWFUL AGREEMENTS.
+
+    (a) Agreements Prohibited.--Subject to subsections (b) and (c), it 
+shall be unlawful for an NDA or BLA holder and a subsequent filer (or 
+for two subsequent filers) to enter into, or carry out, an agreement 
+resolving or settling a covered patent infringement claim on a final or 
+interim basis if under such agreement--
+            (1) a subsequent filer directly or indirectly receives from 
+        such holder (or in the case of such an agreement between two 
+        subsequent filers, the other subsequent filer) anything of 
+        value, including a license; and
+            (2) the subsequent filer agrees to limit or forego research 
+        on, or development, manufacturing, marketing, or sales, for any 
+        period of time, of the covered product that is the subject of 
+        the application described in subparagraph (A) or (B) of 
+        subsection (g)(8).
+    (b) Exclusion.--It shall not be unlawful under subsection (a) if a 
+party to an agreement described in such subsection demonstrates by 
+clear and convincing evidence that the value described in subsection 
+(a)(1) is compensation solely for other goods or services that the 
+subsequent filer has promised to provide.
+    (c) Limitation.--Nothing in this section shall prohibit an 
+agreement resolving or settling a covered patent infringement claim in 
+which the consideration granted by the NDA or BLA holder to the 
+subsequent filer (or from one subsequent filer to another) as part of 
+the resolution or settlement includes only one or more of the 
+following:
+            (1) The right to market the covered product that is the 
+        subject of the application described in subparagraph (A) or (B) 
+        of subsection (g)(8) in the United States before the expiration 
+        of--
+                    (A) any patent that is the basis of the covered 
+                patent infringement claim; or
+                    (B) any patent right or other statutory exclusivity 
+                that would prevent the marketing of such covered 
+                product.
+            (2) A payment for reasonable litigation expenses not to 
+        exceed $7.5 million in the aggregate.
+            (3) A covenant not to sue on any claim that such covered 
+        product infringes a patent.
+    (d) Enforcement by Federal Trade Commission.--
+            (1) General application.--The requirements of this section 
+        apply, according to their terms, to an NDA or BLA holder or 
+        subsequent filer that is--
+                    (A) a person, partnership, or corporation over 
+                which the Commission has authority pursuant to section 
+                5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 
+                45(a)(2)); or
+                    (B) a person, partnership, or corporation over 
+                which the Commission would have authority pursuant to 
+                such section but for the fact that such person, 
+                partnership, or corporation is not organized to carry 
+                on business for its own profit or that of its members.
+            (2) Unfair or deceptive acts or practices enforcement 
+        authority.--
+                    (A) In general.--A violation of this section shall 
+                be treated as an unfair or deceptive act or practice in 
+                violation of section 5(a)(1) of the Federal Trade 
+                Commission Act (15 U.S.C. 45(a)(1)).
+                    (B) Powers of commission.--Except as provided in 
+                subparagraph (C) and paragraphs (1)(B) and (3)--
+                            (i) the Commission shall enforce this 
+                        section in the same manner, by the same means, 
+                        and with the same jurisdiction, powers, and 
+                        duties as though all applicable terms and 
+                        provisions of the Federal Trade Commission Act 
+                        (15 U.S.C. 41 et seq.) were incorporated into 
+                        and made a part of this section; and
+                            (ii) any NDA or BLA holder or subsequent 
+                        filer that violates this section shall be 
+                        subject to the penalties and entitled to the 
+                        privileges and immunities provided in the 
+                        Federal Trade Commission Act.
+                    (C) Judicial review.--In the case of a cease and 
+                desist order issued by the Commission under section 5 
+                of the Federal Trade Commission Act (15 U.S.C. 45) for 
+                violation of this section, a party to such order may 
+                obtain judicial review of such order as provided in 
+                such section 5, except that--
+                            (i) such review may only be obtained in--
+                                    (I) the United States Court of 
+                                Appeals for the District of Columbia 
+                                Circuit;
+                                    (II) the United States Court of 
+                                Appeals for the circuit in which the 
+                                ultimate parent entity, as defined in 
+                                section 801.1(a)(3) of title 16, Code 
+                                of Federal Regulations, or any 
+                                successor thereto, of the NDA or BLA 
+                                holder (if any such holder is a party 
+                                to such order) is incorporated as of 
+                                the date that the application described 
+                                in subparagraph (A) or (B) of 
+                                subsection (g)(8) or an approved 
+                                application that is deemed to be a 
+                                license for a biological product under 
+                                section 351(k) of the Public Health 
+                                Service Act (42 U.S.C. 262(k)) pursuant 
+                                to section 7002(e)(4) of the Biologics 
+                                Price Competition and Innovation Act of 
+                                2009 (Public Law 111-148; 124 Stat. 
+                                817) is submitted to the Commissioner 
+                                of Food and Drugs; or
+                                    (III) the United States Court of 
+                                Appeals for the circuit in which the 
+                                ultimate parent entity, as so defined, 
+                                of any subsequent filer that is a party 
+                                to such order is incorporated as of the 
+                                date that the application described in 
+                                subparagraph (A) or (B) of subsection 
+                                (g)(8) is submitted to the Commissioner 
+                                of Food and Drugs; and
+                            (ii) the petition for review shall be filed 
+                        in the court not later than 30 days after such 
+                        order is served on the party seeking review.
+            (3) Additional enforcement authority.--
+                    (A) Civil penalty.--The Commission may commence a 
+                civil action to recover a civil penalty in a district 
+                court of the United States against any NDA or BLA 
+                holder or subsequent filer that violates this section.
+                    (B) Special rule for recovery of penalty if cease 
+                and desist order issued.--
+                            (i) In general.--If the Commission has 
+                        issued a cease and desist order in a proceeding 
+                        under section 5 of the Federal Trade Commission 
+                        Act (15 U.S.C. 45) for violation of this 
+                        section--
+                                    (I) the Commission may commence a 
+                                civil action under subparagraph (A) to 
+                                recover a civil penalty against any 
+                                party to such order at any time before 
+                                the expiration of the 1-year period 
+                                beginning on the date on which such 
+                                order becomes final under section 5(g) 
+                                of such Act (15 U.S.C. 45(g)); and
+                                    (II) in such civil action, the 
+                                findings of the Commission as to the 
+                                material facts in such proceeding shall 
+                                be conclusive, unless--
+                                            (aa) the terms of such 
+                                        order expressly provide that 
+                                        the Commission's findings shall 
+                                        not be conclusive; or
+                                            (bb) such order became 
+                                        final by reason of section 
+                                        5(g)(1) of such Act (15 U.S.C. 
+                                        45(g)(1)), in which case such 
+                                        findings shall be conclusive if 
+                                        supported by evidence.
+                            (ii) Relationship to penalty for violation 
+                        of an order.--The penalty provided in clause 
+                        (i) for violation of this section is separate 
+                        from and in addition to any penalty that may be 
+                        incurred for violation of an order of the 
+                        Commission under section 5(l) of the Federal 
+                        Trade Commission Act (15 U.S.C. 45(l)).
+                    (C) Amount of penalty.--
+                            (i) In general.--The amount of a civil 
+                        penalty imposed in a civil action under 
+                        subparagraph (A) on a party to an agreement 
+                        described in subsection (a) shall be sufficient 
+                        to deter violations of this section, but in no 
+                        event greater than--
+                                    (I) if such party is the NDA or BLA 
+                                holder (or, in the case of an agreement 
+                                between two subsequent filers, the 
+                                subsequent filer who gave the value 
+                                described in subsection (a)(1)), the 
+                                greater of--
+                                            (aa) three times the value 
+                                        received by such NDA or BLA 
+                                        holder (or by such subsequent 
+                                        filer) that is reasonably 
+                                        attributable to the violation 
+                                        of this section; or
+                                            (bb) three times the value 
+                                        given to the subsequent filer 
+                                        (or to the other subsequent 
+                                        filer) reasonably attributable 
+                                        to the violation of this 
+                                        section; and
+                                    (II) if such party is the 
+                                subsequent filer (or, in the case of an 
+                                agreement between two subsequent 
+                                filers, the subsequent filer who 
+                                received the value described in 
+                                subsection (a)(1)), 3 times the value 
+                                received by such subsequent filer that 
+                                is reasonably attributable to the 
+                                violation of this section.
+                            (ii) Factors for consideration.--In 
+                        determining such amount, the court shall take 
+                        into account--
+                                    (I) the nature, circumstances, 
+                                extent, and gravity of the violation;
+                                    (II) with respect to the violator, 
+                                the degree of culpability, any history 
+                                of violations, the ability to pay, any 
+                                effect on the ability to continue doing 
+                                business, profits earned by the NDA or 
+                                BLA holder (or, in the case of an 
+                                agreement between two subsequent 
+                                filers, the subsequent filer who gave 
+                                the value described in subsection 
+                                (a)(1)), compensation received by the 
+                                subsequent filer (or, in the case of an 
+                                agreement between two subsequent 
+                                filers, the subsequent filer who 
+                                received the value described in 
+                                subsection (a)(1)), and the amount of 
+                                commerce affected; and
+                                    (III) other matters that justice 
+                                requires.
+                    (D) Injunctions and other equitable relief.--In a 
+                civil action under subparagraph (A), the United States 
+                district courts are empowered to grant mandatory 
+                injunctions and such other and further equitable relief 
+                as they deem appropriate.
+            (4) Remedies in addition.--Remedies provided in this 
+        subsection are in addition to, and not in lieu of, any other 
+        remedy provided by Federal law.
+            (5) Preservation of authority of commission.--Nothing in 
+        this section shall be construed to affect any authority of the 
+        Commission under any other provision of law.
+    (e) Federal Trade Commission Rulemaking.--The Commission may, in 
+its discretion, by rule promulgated under section 553 of title 5, 
+United States Code, exempt from this section certain agreements 
+described in subsection (a) if the Commission finds such agreements to 
+be in furtherance of market competition and for the benefit of 
+consumers.
+    (f) Antitrust Laws.--Nothing in this section shall modify, impair, 
+limit, or supersede the applicability of the antitrust laws as defined 
+in subsection (a) of the first section of the Clayton Act (15 U.S.C. 
+12(a)), and of section 5 of the Federal Trade Commission Act (15 U.S.C. 
+45) to the extent that such section 5 applies to unfair methods of 
+competition. Nothing in this section shall modify, impair, limit, or 
+supersede the right of a subsequent filer to assert claims or 
+counterclaims against any person, under the antitrust laws or other 
+laws relating to unfair competition.
+    (g) Definitions.--In this section:
+            (1) Agreement resolving or settling a covered patent 
+        infringement claim.--The term ``agreement resolving or settling 
+        a covered patent infringement claim'' means any agreement 
+        that--
+                    (A) resolves or settles a covered patent 
+                infringement claim; or
+                    (B) is contingent upon, provides for a contingent 
+                condition for, or is otherwise related to the 
+                resolution or settlement of a covered patent 
+                infringement claim.
+            (2) Commission.--The term ``Commission'' means the Federal 
+        Trade Commission.
+            (3) Covered patent infringement claim.--The term ``covered 
+        patent infringement claim'' means an allegation made by the NDA 
+        or BLA holder to a subsequent filer (or, in the case of an 
+        agreement between two subsequent filers, by one subsequent 
+        filer to another), whether or not included in a complaint filed 
+        with a court of law, that--
+                    (A) the submission of the application described in 
+                subparagraph (A) or (B) of paragraph (9), or the 
+                manufacture, use, offering for sale, sale, or 
+                importation into the United States of a covered product 
+                that is the subject of such an application--
+                            (i) in the case of an agreement between an 
+                        NDA or BLA holder and a subsequent filer, 
+                        infringes any patent owned by, or exclusively 
+                        licensed to, the NDA or BLA holder of the 
+                        covered product; or
+                            (ii) in the case of an agreement between 
+                        two subsequent filers, infringes any patent 
+                        owned by the subsequent filer; or
+                    (B) in the case of an agreement between an NDA or 
+                BLA holder and a subsequent filer, the covered product 
+                to be manufactured under such application uses a 
+                covered product as claimed in a published patent 
+                application.
+            (4) Covered product.--The term ``covered product'' means a 
+        drug (as defined in section 201(g) of the Federal Food, Drug, 
+        and Cosmetic Act (21 U.S.C. 321(g))), including a biological 
+        product (as defined in section 351(i) of the Public Health 
+        Service Act (42 U.S.C. 262(i)).
+            (5) NDA or bla holder.--The term ``NDA or BLA holder'' 
+        means--
+                    (A) the holder of--
+                            (i) an approved new drug application filed 
+                        under section 505(b)(1) of the Federal Food, 
+                        Drug, and Cosmetic Act (21 U.S.C. 355(b)(1)) 
+                        for a covered product; or
+                            (ii) a biologics license application filed 
+                        under section 351(a) of the Public Health 
+                        Service Act (42 U.S.C. 262(a)) with respect to 
+                        a biological product;
+                    (B) a person owning or controlling enforcement of 
+                the patent on--
+                            (i) the list published under section 
+                        505(j)(7) of the Federal Food, Drug, and 
+                        Cosmetic Act (21 U.S.C. 355(j)(7)) in 
+                        connection with the application described in 
+                        subparagraph (A)(i); or
+                            (ii) any list published under section 351 
+                        of the Public Health Service Act (42 U.S.C. 
+                        262) comprised of patents associated with 
+                        biologics license applications filed under 
+                        section 351(a) of such Act (42 U.S.C. 262(a)); 
+                        or
+                    (C) the predecessors, subsidiaries, divisions, 
+                groups, and affiliates controlled by, controlling, or 
+                under common control with any entity described in 
+                subparagraph (A) or (B) (such control to be presumed by 
+                direct or indirect share ownership of 50 percent or 
+                greater), as well as the licensees, licensors, 
+                successors, and assigns of each of the entities.
+            (6) Patent.--The term ``patent'' means a patent issued by 
+        the United States Patent and Trademark Office.
+            (7) Statutory exclusivity.--The term ``statutory 
+        exclusivity'' means those prohibitions on the submission or 
+        approval of drug applications under clauses (ii) through (iv) 
+        of section 505(c)(3)(E) (5- and 3-year exclusivity), clauses 
+        (ii) through (iv) of section 505(j)(5)(F) (5-year and 3-year 
+        exclusivity), section 505(j)(5)(B)(iv) (180-day exclusivity), 
+        section 527 (orphan drug exclusivity), section 505A (pediatric 
+        exclusivity), or section 505E (qualified infectious disease 
+        product exclusivity) of the Federal Food, Drug, and Cosmetic 
+        Act (21 U.S.C. 355(c)(3)(E), 355(j)(5)(B)(iv), 355(j)(5)(F), 
+        360cc, 355a, 355f), or prohibitions on the submission or 
+        licensing of biologics license applications under section 
+        351(k)(6) (interchangeable biological product exclusivity) or 
+        section 351(k)(7) (biological product reference product 
+        exclusivity) of the Public Health Service Act (42 U.S.C. 
+        262(k)(6), (7)).
+            (8) Subsequent filer.--The term ``subsequent filer'' 
+        means--
+                    (A) in the case of a drug, a party that owns or 
+                controls an abbreviated new drug application submitted 
+                pursuant to section 505(j) of the Federal Food, Drug, 
+                and Cosmetic Act (21 U.S.C. 355(j)) or a new drug 
+                application submitted pursuant to section 505(b)(2) of 
+                the Federal Food, Drug, and Cosmetic Act (21U.S.C. 
+                355(b)(2)) and filed under section 505(b)(1) of such 
+                Act (21 U.S.C. 355(b)(1)) or has the exclusive rights 
+                to distribute the covered product that is the subject 
+                of such application; or
+                    (B) in the case of a biological product, a party 
+                that owns or controls an application filed with the 
+                Food and Drug Administration under section 351(k) of 
+                the Public Health Service Act (42 U.S.C. 262(k)) or has 
+                the exclusive rights to distribute the biological 
+                product that is the subject of such application.
+    (h) Effective Date.--This section applies with respect to 
+agreements described in subsection (a) entered into on or after the 
+date of the enactment of this Act.
+
+SEC. 112. NOTICE AND CERTIFICATION OF AGREEMENTS.
+
+    (a) Notice of All Agreements.--Section 1111(7) of the Medicare 
+Prescription Drug, Improvement, and Modernization Act of 2003 (21 
+U.S.C. 355 note) is amended by inserting ``or the owner of a patent for 
+which a claim of infringement could reasonably be asserted against any 
+person for making, using, offering to sell, selling, or importing into 
+the United States a biological product that is the subject of a 
+biosimilar biological product application'' before the period at the 
+end.
+    (b) Certification of Agreements.--Section 1112 of such Act (21 
+U.S.C. 355 note) is amended by adding at the end the following:
+    ``(d) Certification.--The Chief Executive Officer or the company 
+official responsible for negotiating any agreement under subsection (a) 
+or (b) that is required to be filed under subsection (c) shall, within 
+30 days of such filing, execute and file with the Assistant Attorney 
+General and the Commission a certification as follows: `I declare that 
+the following is true, correct, and complete to the best of my 
+knowledge: The materials filed with the Federal Trade Commission and 
+the Department of Justice under section 1112 of the Medicare 
+Prescription Drug, Improvement, and Modernization Act of 2003, with 
+respect to the agreement referenced in this certification--
+            ```(1) represent the complete, final, and exclusive 
+        agreement between the parties;
+            ```(2) include any ancillary agreements that are contingent 
+        upon, provide a contingent condition for, were entered into 
+        within 30 days of, or are otherwise related to, the referenced 
+        agreement; and
+            ```(3) include written descriptions of any oral agreements, 
+        representations, commitments, or promises between the parties 
+        that are responsive to subsection (a) or (b) of such section 
+        1112 and have not been reduced to writing.'.''.
+
+SEC. 113. FORFEITURE OF 180-DAY EXCLUSIVITY PERIOD.
+
+    Section 505(j)(5)(D)(i)(V) of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 355(j)(5)(D)(i)(V)) is amended by inserting ``section 
+111 of the Strengthening Health Care and Lowering Prescription Drug 
+Costs Act or'' after ``that the agreement has violated''.
+
+SEC. 114. COMMISSION LITIGATION AUTHORITY.
+
+    Section 16(a)(2) of the Federal Trade Commission Act (15 U.S.C. 
+56(a)(2)) is amended--
+            (1) in subparagraph (D), by striking ``or'' after the 
+        semicolon;
+            (2) in subparagraph (E), by inserting ``or'' after the 
+        semicolon; and
+            (3) by inserting after subparagraph (E) the following:
+                    ``(F) under section 111(d)(3)(A) of the 
+                Strengthening Health Care and Lowering Prescription 
+                Drug Costs Act;''.
+
+SEC. 115. STATUTE OF LIMITATIONS.
+
+    (a) In General.--Except as provided in subsection (b), the 
+Commission shall commence any administrative proceeding or civil action 
+to enforce section 111 of this Act not later than 6 years after the 
+date on which the parties to the agreement file the Notice of Agreement 
+as provided by section 1112(c)(2) and (d) of the Medicare Prescription 
+Drug, Improvement, and Modernization Act of 2003 (21 U.S.C. 355 note).
+    (b) Civil Action After Issuance of Cease and Desist Order.--If the 
+Commission has issued a cease and desist order under section 5 of the 
+Federal Trade Commission Act (15 U.S.C. 45) for violation of section 
+111 of this Act and the proceeding for the issuance of such order was 
+commenced within the period required by subsection (a) of this section, 
+such subsection does not prohibit the commencement, after such period, 
+of a civil action under section 111(d)(3)(A) against a party to such 
+order or a civil action under subsection (l) of such section 5 for 
+violation of such order.
+
+ Subtitle C--Creating and Restoring Equal Access to Equivalent Samples
+
+SEC. 121. ACTIONS FOR DELAYS OF GENERIC DRUGS AND BIOSIMILAR BIOLOGICAL 
+              PRODUCTS.
+
+    (a) Definitions.--In this section--
+            (1) the term ``commercially reasonable, market-based 
+        terms'' means--
+                    (A) a nondiscriminatory price for the sale of the 
+                covered product at or below, but not greater than, the 
+                most recent wholesale acquisition cost for the drug, as 
+                defined in section 1847A(c)(6)(B) of the Social 
+                Security Act (42 U.S.C. 1395w-3a(c)(6)(B));
+                    (B) a schedule for delivery that results in the 
+                transfer of the covered product to the eligible product 
+                developer consistent with the timing under subsection 
+                (b)(2)(A)(iv); and
+                    (C) no additional conditions are imposed on the 
+                sale of the covered product;
+            (2) the term ``covered product''--
+                    (A) means--
+                            (i) any drug approved under subsection (c) 
+                        or (j) of section 505 of the Federal Food, 
+                        Drug, and Cosmetic Act (21 U.S.C. 355) or 
+                        biological product licensed under subsection 
+                        (a) or (k) of section 351 of the Public Health 
+                        Service Act (42 U.S.C. 262);
+                            (ii) any combination of a drug or 
+                        biological product described in clause (i); or
+                            (iii) when reasonably necessary to support 
+                        approval of an application under section 505 of 
+                        the Federal Food, Drug, and Cosmetic Act (21 
+                        U.S.C. 355), or section 351 of the Public 
+                        Health Service Act (42 U.S.C. 262), as 
+                        applicable, or otherwise meet the requirements 
+                        for approval under either such section, any 
+                        product, including any device, that is marketed 
+                        or intended for use with such a drug or 
+                        biological product; and
+                    (B) does not include any drug or biological product 
+                that appears on the drug shortage list in effect under 
+                section 506E of the Federal Food, Drug, and Cosmetic 
+                Act (21 U.S.C. 356e), unless--
+                            (i) the drug or biological product has been 
+                        on the drug shortage list in effect under such 
+                        section 506E continuously for more than 6 
+                        months; or
+                            (ii) the Secretary determines that 
+                        inclusion of the drug or biological product as 
+                        a covered product is likely to contribute to 
+                        alleviating or preventing a shortage.
+            (3) the term ``device'' has the meaning given the term in 
+        section 201 of the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 321);
+            (4) the term ``eligible product developer'' means a person 
+        that seeks to develop a product for approval pursuant to an 
+        application for approval under subsection (b)(2) or (j) of 
+        section 505 of the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 355) or for licensing pursuant to an application under 
+        section 351(k) of the Public Health Service Act (42 U.S.C. 
+        262(k));
+            (5) the term ``license holder'' means the holder of an 
+        application approved under subsection (c) or (j) of section 505 
+        of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) or 
+        the holder of a license under subsection (a) or (k) of section 
+        351 of the Public Health Service Act (42 U.S.C. 262) for a 
+        covered product;
+            (6) the term ``REMS'' means a risk evaluation and 
+        mitigation strategy under section 505-1 of the Federal Food, 
+        Drug, and Cosmetic Act (21 U.S.C. 355-1);
+            (7) the term ``REMS with ETASU'' means a REMS that contains 
+        elements to assure safe use under section 505-1(f) of the 
+        Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355-1(f));
+            (8) the term ``Secretary'' means the Secretary of Health 
+        and Human Services;
+            (9) the term ``single, shared system of elements to assure 
+        safe use'' means a single, shared system of elements to assure 
+        safe use under section 505-1(f) of the Federal Food, Drug, and 
+        Cosmetic Act (21 U.S.C. 355-1(f)); and
+            (10) the term ``sufficient quantities'' means an amount of 
+        a covered product that the eligible product developer 
+        determines allows it to--
+                    (A) conduct testing to support an application 
+                under--
+                            (i) subsection (b)(2) or (j) of section 505 
+                        of the Federal Food, Drug, and Cosmetic Act (21 
+                        U.S.C. 355); or
+                            (ii) section 351(k) of the Public Health 
+                        Service Act (42 U.S.C. 262(k)); and
+                    (B) fulfill any regulatory requirements relating to 
+                approval of such an application.
+    (b) Civil Action for Failure To Provide Sufficient Quantities of a 
+Covered Product.--
+            (1) In general.--An eligible product developer may bring a 
+        civil action against the license holder for a covered product 
+        seeking relief under this subsection in an appropriate district 
+        court of the United States alleging that the license holder has 
+        declined to provide sufficient quantities of the covered 
+        product to the eligible product developer on commercially 
+        reasonable, market-based terms.
+            (2) Elements.--
+                    (A) In general.--To prevail in a civil action 
+                brought under paragraph (1), an eligible product 
+                developer shall prove, by a preponderance of the 
+                evidence--
+                            (i) that--
+                                    (I) the covered product is not 
+                                subject to a REMS with ETASU; or
+                                    (II) if the covered product is 
+                                subject to a REMS with ETASU--
+                                            (aa) the eligible product 
+                                        developer has obtained a 
+                                        covered product authorization 
+                                        from the Secretary in 
+                                        accordance with subparagraph 
+                                        (B); and
+                                            (bb) the eligible product 
+                                        developer has provided a copy 
+                                        of the covered product 
+                                        authorization to the license 
+                                        holder;
+                            (ii) that, as of the date on which the 
+                        civil action is filed, the product developer 
+                        has not obtained sufficient quantities of the 
+                        covered product on commercially reasonable, 
+                        market-based terms;
+                            (iii) that the eligible product developer 
+                        has submitted a written request to purchase 
+                        sufficient quantities of the covered product to 
+                        the license holder and such request--
+                                    (I) was sent to a named corporate 
+                                officer of the license holder;
+                                    (II) was made by certified or 
+                                registered mail with return receipt 
+                                requested;
+                                    (III) specified an individual as 
+                                the point of contact for the license 
+                                holder to direct communications related 
+                                to the sale of the covered product to 
+                                the eligible product developer and a 
+                                means for electronic and written 
+                                communications with that individual; 
+                                and
+                                    (IV) specified an address to which 
+                                the covered product was to be shipped 
+                                upon reaching an agreement to transfer 
+                                the covered product; and
+                            (iv) that the license holder has not 
+                        delivered to the eligible product developer 
+                        sufficient quantities of the covered product on 
+                        commercially reasonable, market-based terms--
+                                    (I) for a covered product that is 
+                                not subject to a REMS with ETASU, by 
+                                the date that is 31 days after the date 
+                                on which the license holder received 
+                                the request for the covered product; 
+                                and
+                                    (II) for a covered product that is 
+                                subject to a REMS with ETASU, by 31 
+                                days after the later of--
+                                            (aa) the date on which the 
+                                        license holder received the 
+                                        request for the covered 
+                                        product; or
+                                            (bb) the date on which the 
+                                        license holder received a copy 
+                                        of the covered product 
+                                        authorization issued by the 
+                                        Secretary in accordance with 
+                                        subparagraph (B).
+                    (B) Authorization for covered product subject to a 
+                rems with etasu.--
+                            (i) Request.--An eligible product developer 
+                        may submit to the Secretary a written request 
+                        for the eligible product developer to be 
+                        authorized to obtain sufficient quantities of 
+                        an individual covered product subject to a REMS 
+                        with ETASU.
+                            (ii) Authorization.--Not later than 120 
+                        days after the date on which a request under 
+                        clause (i) is received, the Secretary shall, by 
+                        written notice, authorize the eligible product 
+                        developer to obtain sufficient quantities of an 
+                        individual covered product subject to a REMS 
+                        with ETASU for purposes of--
+                                    (I) development and testing that 
+                                does not involve human clinical trials, 
+                                if the eligible product developer has 
+                                agreed to comply with any conditions 
+                                the Secretary determines necessary; or
+                                    (II) development and testing that 
+                                involves human clinical trials, if the 
+                                eligible product developer has--
+                                            (aa)(AA) submitted 
+                                        protocols, informed consent 
+                                        documents, and informational 
+                                        materials for testing that 
+                                        include protections that 
+                                        provide safety protections 
+                                        comparable to those provided by 
+                                        the REMS for the covered 
+                                        product; or
+                                            (BB) otherwise satisfied 
+                                        the Secretary that such 
+                                        protections will be provided; 
+                                        and
+                                            (bb) met any other 
+                                        requirements the Secretary may 
+                                        establish.
+                            (iii) Notice.--A covered product 
+                        authorization issued under this subparagraph 
+                        shall state that the provision of the covered 
+                        product by the license holder under the terms 
+                        of the authorization will not be a violation of 
+                        the REMS for the covered product.
+            (3) Affirmative defense.--In a civil action brought under 
+        paragraph (1), it shall be an affirmative defense, on which the 
+        defendant has the burden of persuasion by a preponderance of 
+        the evidence--
+                    (A) that, on the date on which the eligible product 
+                developer requested to purchase sufficient quantities 
+                of the covered product from the license holder--
+                            (i) neither the license holder nor any of 
+                        its agents, wholesalers, or distributors was 
+                        engaged in the manufacturing or commercial 
+                        marketing of the covered product; and
+                            (ii) neither the license holder nor any of 
+                        its agents, wholesalers, or distributors 
+                        otherwise had access to inventory of the 
+                        covered product to supply to the eligible 
+                        product developer on commercially reasonable, 
+                        market-based terms;
+                    (B) that--
+                            (i) the license holder sells the covered 
+                        product through agents, distributors, or 
+                        wholesalers;
+                            (ii) the license holder has placed no 
+                        restrictions, explicit or implicit, on its 
+                        agents, distributors, or wholesalers to sell 
+                        covered products to eligible product 
+                        developers; and
+                            (iii) the covered product can be purchased 
+                        by the eligible product developer in sufficient 
+                        quantities on commercially reasonable, market-
+                        based terms from the agents, distributors, or 
+                        wholesalers of the license holder; or
+                    (C) that the license holder made an offer to the 
+                individual specified pursuant to paragraph 
+                (2)(A)(iii)(III), by a means of communication 
+                (electronic, written, or both) specified pursuant to 
+                such paragraph, to sell sufficient quantities of the 
+                covered product to the eligible product developer at 
+                commercially reasonable market-based terms--
+                            (i) for a covered product that is not 
+                        subject to a REMS with ETASU, by the date that 
+                        is 14 days after the date on which the license 
+                        holder received the request for the covered 
+                        product, and the eligible product developer did 
+                        not accept such offer by the date that is 7 
+                        days after the date on which the eligible 
+                        product developer received such offer from the 
+                        license holder; or
+                            (ii) for a covered product that is subject 
+                        to a REMS with ETASU, by the date that is 20 
+                        days after the date on which the license holder 
+                        received the request for the covered product, 
+                        and the eligible product developer did not 
+                        accept such offer by the date that is 10 days 
+                        after the date on which the eligible product 
+                        developer received such offer from the license 
+                        holder.
+            (4) Remedies.--
+                    (A) In general.--If an eligible product developer 
+                prevails in a civil action brought under paragraph (1), 
+                the court shall--
+                            (i) order the license holder to provide to 
+                        the eligible product developer without delay 
+                        sufficient quantities of the covered product on 
+                        commercially reasonable, market-based terms;
+                            (ii) award to the eligible product 
+                        developer reasonable attorney's fees and costs 
+                        of the civil action; and
+                            (iii) award to the eligible product 
+                        developer a monetary amount sufficient to deter 
+                        the license holder from failing to provide 
+                        eligible product developers with sufficient 
+                        quantities of a covered product on commercially 
+                        reasonable, market-based terms, if the court 
+                        finds, by a preponderance of the evidence--
+                                    (I) that the license holder delayed 
+                                providing sufficient quantities of the 
+                                covered product to the eligible product 
+                                developer without a legitimate business 
+                                justification; or
+                                    (II) that the license holder failed 
+                                to comply with an order issued under 
+                                clause (i).
+                    (B) Maximum monetary amount.--A monetary amount 
+                awarded under subparagraph (A)(iii) shall not be 
+                greater than the revenue that the license holder earned 
+                on the covered product during the period--
+                            (i) beginning on--
+                                    (I) for a covered product that is 
+                                not subject to a REMS with ETASU, the 
+                                date that is 31 days after the date on 
+                                which the license holder received the 
+                                request; or
+                                    (II) for a covered product that is 
+                                subject to a REMS with ETASU, the date 
+                                that is 31 days after the later of--
+                                            (aa) the date on which the 
+                                        license holder received the 
+                                        request; or
+                                            (bb) the date on which the 
+                                        license holder received a copy 
+                                        of the covered product 
+                                        authorization issued by the 
+                                        Secretary in accordance with 
+                                        paragraph (2)(B); and
+                            (ii) ending on the date on which the 
+                        eligible product developer received sufficient 
+                        quantities of the covered product.
+                    (C) Avoidance of delay.--The court may issue an 
+                order under subparagraph (A)(i) before conducting 
+                further proceedings that may be necessary to determine 
+                whether the eligible product developer is entitled to 
+                an award under clause (ii) or (iii) of subparagraph 
+                (A), or the amount of any such award.
+    (c) Limitation of Liability.--A license holder for a covered 
+product shall not be liable for any claim under Federal, State, or 
+local law arising out of the failure of an eligible product developer 
+to follow adequate safeguards to assure safe use of the covered product 
+during development or testing activities described in this section, 
+including transportation, handling, use, or disposal of the covered 
+product by the eligible product developer.
+    (d) No Violation of REMS.--Section 505-1 of the Federal Food, Drug, 
+and Cosmetic Act (21 U.S.C. 355-1) is amended by adding at the end the 
+following new subsection:
+    ``(l) Provision of Samples Not a Violation of Strategy.--The 
+provision of samples of a covered product to an eligible product 
+developer (as those terms are defined in section 121(a) of the 
+Strengthening Health Care and Lowering Prescription Drug Costs Act) 
+shall not be considered a violation of the requirements of any risk 
+evaluation and mitigation strategy that may be in place under this 
+section for such drug.''.
+    (e) Rule of Construction.--
+            (1) Definition.--In this subsection, the term ``antitrust 
+        laws''--
+                    (A) has the meaning given the term in subsection 
+                (a) of the first section of the Clayton Act (15 U.S.C. 
+                12); and
+                    (B) includes section 5 of the Federal Trade 
+                Commission Act (15 U.S.C. 45) to the extent that such 
+                section applies to unfair methods of competition.
+            (2) Antitrust laws.--Nothing in this section shall be 
+        construed to limit the operation of any provision of the 
+        antitrust laws.
+
+SEC. 122. REMS APPROVAL PROCESS FOR SUBSEQUENT FILERS.
+
+    Section 505-1 of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 355-1), as amended by section 121, is further amended--
+            (1) in subsection (g)(4)(B)--
+                    (A) in clause (i) by striking ``or'' after the 
+                semicolon;
+                    (B) in clause (ii) by striking the period at the 
+                end and inserting ``; or''; and
+                    (C) by adding at the end the following:
+                            ``(iii) accommodate different, comparable 
+                        aspects of the elements to assure safe use for 
+                        a drug that is the subject of an application 
+                        under section 505(j), and the applicable listed 
+                        drug.'';
+            (2) in subsection (i)(1), by striking subparagraph (C) and 
+        inserting the following:
+                    ``(C)(i) Elements to assure safe use, if required 
+                under subsection (f) for the listed drug, which, 
+                subject to clause (ii), for a drug that is the subject 
+                of an application under section 505(j) may use--
+                            ``(I) a single, shared system with the 
+                        listed drug under subsection (f); or
+                            ``(II) a different, comparable aspect of 
+                        the elements to assure safe use under 
+                        subsection (f).
+                    ``(ii) The Secretary may require a drug that is the 
+                subject of an application under section 505(j) and the 
+                listed drug to use a single, shared system under 
+                subsection (f), if the Secretary determines that no 
+                different, comparable aspect of the elements to assure 
+                safe use could satisfy the requirements of subsection 
+                (f).'';
+            (3) in subsection (i), by adding at the end the following:
+            ``(3) Shared rems.--If the Secretary approves, in 
+        accordance with paragraph (1)(C)(i)(II), a different, 
+        comparable aspect of the elements to assure safe use under 
+        subsection (f) for a drug that is the subject of an abbreviated 
+        new drug application under section 505(j), the Secretary may 
+        require that such different comparable aspect of the elements 
+        to assure safe use can be used with respect to any other drug 
+        that is the subject of an application under section 505(j) or 
+        505(b) that references the same listed drug.''; and
+            (4) by adding at the end the following:
+    ``(m) Separate REMS.--When used in this section, the terms 
+`different, comparable aspect of the elements to assure safe use' or 
+`different, comparable approved risk evaluation and mitigation 
+strategies' means a risk evaluation and mitigation strategy for a drug 
+that is the subject of an application under section 505(j) that uses 
+different methods or operational means than the strategy required under 
+subsection (a) for the applicable listed drug, or other application 
+under section 505(j) with the same such listed drug, but achieves the 
+same level of safety as such strategy.''.
+
+SEC. 123. RULE OF CONSTRUCTION.
+
+    (a) In General.--Nothing in this subtitle, the amendments made by 
+this subtitle, or in section 505-1 of the Federal Food, Drug, and 
+Cosmetic Act (21 U.S.C. 355-1), shall be construed as--
+            (1) prohibiting a license holder from providing an eligible 
+        product developer access to a covered product in the absence of 
+        an authorization under this subtitle; or
+            (2) in any way negating the applicability of a REMS with 
+        ETASU, as otherwise required under such section 505-1, with 
+        respect to such covered product.
+    (b) Definitions.--In this section, the terms ``covered product'', 
+``eligible product developer'', ``license holder'', and ``REMS with 
+ETASU'' have the meanings given such terms in section 121(a).
+
+  Subtitle D--Study on Role of Federal Assistance in Drug Development
+
+SEC. 131. STUDY ON ROLE OF FEDERAL ASSISTANCE IN DRUG DEVELOPMENT.
+
+    (a) In General.--Not later than 2 years after the date of the 
+enactment of this Act, the Secretary of the Health and Human Services 
+shall enter into a contract with the National Academy of Medicine to 
+conduct a study on, and submit to Congress a report on, the following:
+            (1) The percentage of drugs developed in the United States 
+        using at least some amount of Federal funding from any Federal 
+        source.
+            (2) The average cost incurred by a drug developer to 
+        develop a drug.
+            (3) The average amount of revenue and profits made by drug 
+        developers from the sales of drugs.
+            (4) The percentage of such revenue and profits that are 
+        reinvested into research and development of new drugs.
+            (5) The appropriate percentage, if any, of such revenue and 
+        profits the Secretary, in consultation with the National 
+        Academy of Medicine, recommends should be returned to Federal 
+        entities for Federal funding used in the development of the 
+        drugs involved.
+    (b) Enforcement.--A drug developer shall, as a condition of receipt 
+of any Federal funding for the development of drugs, comply with any 
+request for the data necessary to perform the study under subsection 
+(a).
+    (c) Confidentiality.--This section does not authorize the 
+disclosure of any trade secret, confidential commercial or financial 
+information, or other matter listed in section 552(b) of title 5, 
+United States Code.
+    (d) Definitions.--In this section:
+            (1) The term ``drug'' has the meaning given such term in 
+        section 201 of the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 321).
+            (2) The term ``drug developer'' means an entity that 
+        submitted, and received approval of, an application under 
+        section 505 of the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 355) or section 351 of the Public Health Service Act (42 
+        U.S.C. 262).
+
+                  Subtitle E--Pharmacy School Outreach
+
+SEC. 141. PHARMACY SCHOOL OUTREACH.
+
+    The Secretary of Health and Human Services and the Secretary of 
+Education shall make every effort necessary to ensure appropriate 
+outreach to institutions of higher education to ensure that students 
+and faculty at schools of pharmacy are provided with materials 
+regarding generic drugs and biosimilar biological products, including 
+materials on--
+            (1) how generic drugs and biosimilar biological products 
+        are equivalent or similar to brand-name drugs;
+            (2) the approval process at the Food and Drug 
+        Administration for generic drugs and biosimilar biological 
+        products;
+            (3) how to make consumers aware of the availability of 
+        generic drugs and biosimilar biological products;
+            (4) requirements for substituting generic drugs and 
+        biosimliar biological products in place of corresponding drugs 
+        products; and
+            (5) the impacts of generic drugs and biosimilar biological 
+        products on consumer costs.
+
+                          Subtitle F--Reports
+
+SEC. 151. EFFECTS OF INCREASES IN PRESCRIPTION DRUG PRICE.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Secretary of Health and Human Services shall submit a report to the 
+Congress on the extent to which increases in prescription drug prices 
+may have caused Medicare beneficiaries to forego recommended treatment, 
+including failing to fill prescriptions.
+
+            TITLE II--HEALTH INSURANCE MARKET STABILIZATION
+
+SEC. 201. PRESERVING STATE OPTION TO IMPLEMENT HEALTH CARE 
+              MARKETPLACES.
+
+    (a) In General.--Section 1311 of the Patient Protection and 
+Affordable Care Act (42 U.S.C. 18031) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (4)(B), by striking ``under this 
+                subsection'' and inserting ``under this paragraph or 
+                paragraph (1)''; and
+                    (B) by adding at the end the following new 
+                paragraph:
+            ``(6) Additional planning and establishment grants.--
+                    ``(A) In general.--There shall be appropriated to 
+                the Secretary, out of any moneys in the Treasury not 
+                otherwise appropriated, $200 million to award grants to 
+                eligible States for the uses described in paragraph 
+                (3).
+                    ``(B) Duration and renewability.--A grant awarded 
+                under subparagraph (A) shall be for a period of 2 years 
+                and may not be renewed.
+                    ``(C) Limitation.--A grant may not be awarded under 
+                subparagraph (A) after December 31, 2023.
+                    ``(D) Eligible state defined.--For purposes of this 
+                paragraph, the term `eligible State' means a State 
+                that, as of the date of the enactment of this 
+                paragraph, is not operating an Exchange (other than an 
+                Exchange described in section 155.200(f) of title 45, 
+                Code of Federal Regulations).''; and
+            (2) in subsection (d)(5)(A)--
+                    (A) by striking ``operations.--In establishing an 
+                Exchange under this section'' and inserting 
+                ``operations.--
+                            ``(i) In general.--In establishing an 
+                        Exchange under this section (other than in 
+                        establishing an Exchange pursuant to a grant 
+                        awarded under subsection (a)(6))''; and
+                    (B) by adding at the end the following:
+                            ``(ii) Additional planning and 
+                        establishment grants.--In establishing an 
+                        Exchange pursuant to a grant awarded under 
+                        subsection (a)(6), the State shall ensure that 
+                        such Exchange is self-sustaining beginning on 
+                        January 1, 2025, including allowing the 
+                        Exchange to charge assessments or user fees to 
+                        participating health insurance issuers, or to 
+                        otherwise generate funding, to support its 
+                        operations.''.
+    (b) Clarification Regarding Failure to Establish Exchange or 
+Implement Requirements.--Section 1321(c) of the Patient Protection and 
+Affordable Care Act (42 U.S.C. 18041(c)) is amended--
+            (1) in paragraph (1), by striking ``If'' and inserting 
+        ``Subject to paragraph (3), if''; and
+            (2) by adding at the end the following new paragraph:
+            ``(3) Clarification.--This subsection shall not apply in 
+        the case of a State that elects to apply the requirements 
+        described in subsection (a) and satisfies the requirement 
+        described in subsection (b) on or after January 1, 2014.''.
+
+SEC. 202. PROVIDING FOR ADDITIONAL REQUIREMENTS WITH RESPECT TO THE 
+              NAVIGATOR PROGRAM.
+
+    (a) In General.--Section 1311(i) of the Patient Protection and 
+Affordable Care Act (42 U.S.C. 18031(i)) is amended--
+            (1) in paragraph (2), by adding at the end the following 
+        new subparagraph:
+                    ``(C) Selection of recipients.--In the case of an 
+                Exchange established and operated by the Secretary 
+                within a State pursuant to section 1321(c), in awarding 
+                grants under paragraph (1), the Exchange shall--
+                            ``(i) select entities to receive such 
+                        grants based on an entity's demonstrated 
+                        capacity to carry out each of the duties 
+                        specified in paragraph (3);
+                            ``(ii) not take into account whether or not 
+                        the entity has demonstrated how the entity will 
+                        provide information to individuals relating to 
+                        group health plans offered by a group or 
+                        association of employers described in section 
+                        2510.3-5(b) of title 29, Code of Federal 
+                        Regulations (or any successor regulation), or 
+                        short-term limited duration insurance (as 
+                        defined by the Secretary for purposes of 
+                        section 2791(b)(5) of the Public Health Service 
+                        Act); and
+                            ``(iii) ensure that, each year, the 
+                        Exchange awards such a grant to--
+                                    ``(I) at least one entity described 
+                                in this paragraph that is a community 
+                                and consumer-focused nonprofit group; 
+                                and
+                                    ``(II) at least one entity 
+                                described in subparagraph (B), which 
+                                may include another community and 
+                                consumer-focused nonprofit group in 
+                                addition to any such group awarded a 
+                                grant pursuant to subclause (I).
+                In awarding such grants, an Exchange may consider an 
+                entity's record with respect to waste, fraud, and abuse 
+                for purposes of maintaining the integrity of such 
+                Exchange.''.
+            (2) in paragraph (3)--
+                    (A) by amending subparagraph (C) to read as 
+                follows:
+                    ``(C) facilitate enrollment, including with respect 
+                to individuals with limited English proficiency and 
+                individuals with chronic illnesses, in qualified health 
+                plans, State medicaid plans under title XIX of the 
+                Social Security Act, and State child health plans under 
+                title XXI of such Act;'';
+                    (B) in subparagraph (D), by striking ``and'' at the 
+                end;
+                    (C) in subparagraph (E), by striking the period at 
+                the end and inserting a semicolon;
+                    (D) by inserting after subparagraph (E) the 
+                following:
+                    ``(F) conduct public education activities in plain 
+                language to raise awareness of the requirements of and 
+                the protections provided under--
+                            ``(i) the essential health benefits package 
+                        (as defined in section 1302(a)); and
+                            ``(ii) section 2726 of the Public Health 
+                        Service Act (relating to parity in mental 
+                        health and substance use disorder benefits); 
+                        and'';
+                    (E) by inserting after subparagraph (F) (as added 
+                by subparagraph (D)) the following new subparagraph:
+                    ``(G) provide referrals to community-based 
+                organizations that address social needs related to 
+                health outcomes.''; and
+                    (F) by adding at the end the following flush left 
+                sentence:
+        ``The duties specified in the preceding sentences may be 
+        carried out by such a navigator at any time during a year.'';
+            (3) in paragraph (4)(A)--
+                    (A) in the matter preceding clause (i), by striking 
+                ``not'';
+                    (B) in clause (i)--
+                            (i) by inserting ``not'' before ``be''; and
+                            (ii) by striking ``; or'' and inserting a 
+                        semicolon;
+                    (C) in clause (ii)--
+                            (i) by inserting ``not'' before 
+                        ``receive''; and
+                            (ii) by striking the period and inserting a 
+                        semicolon; and
+                    (D) by adding at the end the following new clauses:
+                            ``(iii) maintain physical presence in the 
+                        State of the Exchange so as to allow in-person 
+                        assistance to consumers;
+                            ``(iv) receive training on how to assist 
+                        individuals with enrolling for medical 
+                        assistance under State plans under the Medicaid 
+                        program under title XIX of the Social Security 
+                        Act or for child health assistance under State 
+                        child health plans under title XXI of such Act; 
+                        and
+                            ``(v) receive opioid specific education and 
+                        training that ensures the navigator can best 
+                        educate individuals on qualified health plans 
+                        offered through an Exchange, specifically 
+                        coverage under such plans for opioid health 
+                        care treatment.''; and
+            (4) in paragraph (6)--
+                    (A) by striking ``Funding.--Grants under'' and 
+                inserting ``Funding.--
+                    ``(A) State exchanges.--Subject to subparagraph 
+                (C), grants under''; and
+                    (B) by adding at the end the following new 
+                subparagraphs:
+                    ``(B) Federal exchanges.--For purposes of carrying 
+                out this subsection, with respect to an Exchange 
+                established and operated by the Secretary within a 
+                State pursuant to section 1321(c), the Secretary shall 
+                obligate $100 million out of amounts collected through 
+                the user fees on participating health insurance issuers 
+                pursuant to section 156.50 of title 45, Code of Federal 
+                Regulations (or any successor regulations) for fiscal 
+                year 2020 and each subsequent fiscal year. Such amount 
+                for a fiscal year shall remain available until 
+                expended.
+                    ``(C) State exchanges.--For the purposes of 
+                carrying out this subsection, with respect to an 
+                Exchange operated by a State pursuant to this section, 
+                there is authorized to be appropriated $25 million for 
+                fiscal year 2020 and each subsequent fiscal year. Each 
+                State receiving a grant pursuant to this subparagraph 
+                shall receive a grant in an amount that is not less 
+                than $1 million.''.
+    (b) Study on Effects of Funding Cuts.--Not later than 1 year after 
+the date of the enactment of this Act, the Comptroller General of the 
+United States shall study the effects of funding cuts made for plan 
+year 2019 with respect to the navigator program (as described in 
+section 1311(i) of the Patient Protection and Affordable Care Act (42 
+U.S.C. 18031(i))) and other education and outreach activities carried 
+out with respect to Exchanges established by the Secretary of Health 
+and Human Services pursuant to section 1321(c) of such Act. Such study 
+shall describe the following:
+            (1) How such funding cuts negatively impacted the ability 
+        of entities under such program to conduct outreach activities 
+        and fulfill duties required under such section 1311(i).
+            (2) The overall effect on--
+                    (A) the number of individuals enrolled in health 
+                insurance coverage offered in the individual market for 
+                plan year 2019; and
+                    (B) the costs of health insurance coverage offered 
+                in the individual market.
+    (c) Promote Transparency and Accountability in the Administration's 
+Expenditures of Exchange User Fees.--For plan year 2020 and each 
+subsequent plan year, not later than the date that is 3 months after 
+the end of such plan year, the Secretary of Health and Human Services 
+shall submit to the appropriate committees of Congress and make 
+available to the public an annual report on the expenditures by the 
+Department of Health and Human Services of user fees collected pursuant 
+to section 156.50 of title 45, Code of Federal Regulations (or any 
+successor regulations). Each such report for a plan year shall include 
+a detailed accounting of the amount of such user fees collected during 
+such plan year and of the amount of such expenditures used during such 
+plan year for the federally facilitated Exchange operated pursuant to 
+section 1321(c) of the Patient Protection and Affordable Care Act (42 
+U.S.C. 18041(c)) on outreach and enrollment activities, navigators, 
+maintenance of Healthcare.gov, and operation of call centers.
+    (d) Effective Date.--The amendments made by this section shall 
+apply with respect to plan years beginning on or after January 1, 2020.
+
+SEC. 203. FEDERAL EXCHANGE OUTREACH AND EDUCATIONAL ACTIVITIES AND 
+              ANNUAL ENROLLMENT TARGETS.
+
+    (a) In General.--Section 1321(c) of the Patient Protection and 
+Affordable Care Act (42 U.S.C. 18041(c)), as amended by section 
+201(b)(2), is further amended by adding at the end the following new 
+paragraphs:
+            ``(4) Outreach and educational activities.--
+                    ``(A) In general.--In the case of an Exchange 
+                established or operated by the Secretary within a State 
+                pursuant to this subsection, the Secretary shall carry 
+                out outreach and educational activities for purposes of 
+                informing individuals about qualified health plans 
+                offered through the Exchange, including by informing 
+                such individuals of the availability of coverage under 
+                such plans and financial assistance for coverage under 
+                such plans. Such outreach and educational activities 
+                shall be provided in a manner that is culturally and 
+                linguistically appropriate to the needs of the 
+                populations being served by the Exchange (including 
+                hard-to-reach populations, such as racial and sexual 
+                minorities, limited English proficient populations, 
+                individuals residing in areas where the unemployment 
+                rates exceeds the national average unemployment rate, 
+                individuals in rural areas, veterans, and young adults) 
+                and shall be provided to populations residing in high 
+                health disparity areas (as defined in subparagraph (E)) 
+                served by the Exchange, in addition to other 
+                populations served by the Exchange.
+                    ``(B) Limitation on use of funds.--No funds 
+                appropriated under this paragraph shall be used for 
+                expenditures for promoting non-ACA compliant health 
+                insurance coverage.
+                    ``(C) Non-aca compliant health insurance 
+                coverage.--For purposes of subparagraph (B):
+                            ``(i) The term `non-ACA compliant health 
+                        insurance coverage' means health insurance 
+                        coverage, or a group health plan, that is not a 
+                        qualified health plan.
+                            ``(ii) Such term includes the following:
+                                    ``(I) An association health plan.
+                                    ``(II) Short-term limited duration 
+                                insurance.
+                    ``(D) Funding.--Out of any funds in the Treasury 
+                not otherwise appropriated, there are hereby 
+                appropriated for fiscal year 2020 and each subsequent 
+                fiscal year, $100 million to carry out this paragraph. 
+                Funds appropriated under this subparagraph shall remain 
+                available until expended.
+                    ``(E) High health disparity area defined.--For 
+                purposes of subparagraph (A), the term `high health 
+                disparity area' means a contiguous geographic area 
+                that--
+                            ``(i) is located in one census tract or ZIP 
+                        code;
+                            ``(ii) has measurable and documented 
+                        racial, ethnic, or geographic health 
+                        disparities;
+                            ``(iii) has a low-income population, as 
+                        demonstrated by--
+                                    ``(I) average income below 138 
+                                percent of the Federal poverty line; or
+                                    ``(II) a rate of participation in 
+                                the special supplemental nutrition 
+                                program under section 17 of the Child 
+                                Nutrition Act of 1966 (42 U.S.C. 1786) 
+                                that is higher than the national 
+                                average rate of participation in such 
+                                program;
+                            ``(iv) has poor health outcomes, as 
+                        demonstrated by--
+                                    ``(I) lower life expectancy than 
+                                the national average; or
+                                    ``(II) a higher percentage of 
+                                instances of low birth weight than the 
+                                national average; and
+                            ``(v) is part of a Metropolitan Statistical 
+                        Area identified by the Office of Management and 
+                        Budget.
+            ``(5) Annual enrollment targets.--For plan year 2020 and 
+        each subsequent plan year, in the case of an Exchange 
+        established or operated by the Secretary within a State 
+        pursuant to this subsection, the Secretary shall establish 
+        annual enrollment targets for such Exchange for such year.''.
+    (b) Study and Report.--Not later than 30 days after the date of the 
+enactment of this Act, the Secretary of Health and Human Services shall 
+release to Congress all aggregated documents relating to studies and 
+data sets that were created on or after January 1, 2014, and related to 
+marketing and outreach with respect to qualified health plans offered 
+through Exchanges under title I of the Patient Protection and 
+Affordable Care Act.
+
+SEC. 204. SHORT-TERM LIMITED DURATION INSURANCE RULE PROHIBITION.
+
+    (a) Findings.--Congress finds the following:
+            (1) On August 3, 2018, the Administration issued a final 
+        rule entitled ``Short-Term, Limited-Duration Insurance'' (83 
+        Fed. Reg. 38212).
+            (2) The final rule dramatically expands the sale and 
+        marketing of insurance that--
+                    (A) may discriminate against individuals living 
+                with preexisting health conditions, including children 
+                with complex medical needs and disabilities and their 
+                families;
+                    (B) lacks important financial protections provided 
+                by the Patient Protection and Affordable Care Act 
+                (Public Law 111-148), including the prohibition of 
+                annual and lifetime coverage limits and annual out-of-
+                pocket limits, that may increase the cost of treatment 
+                and cause financial hardship to those requiring medical 
+                care, including children with complex medical needs and 
+                disabilities and their families; and
+                    (C) excludes coverage of essential health benefits 
+                including hospitalization, prescription drugs, and 
+                other lifesaving care.
+            (3) The implementation and enforcement of the final rule 
+        weakens critical protections for up to 130 million Americans 
+        living with preexisting health conditions and may place a large 
+        financial burden on those who enroll in short-term limited-
+        duration insurance, which jeopardizes Americans' access to 
+        quality, affordable health insurance.
+    (b) Prohibition.--The Secretary of Health and Human Services, the 
+Secretary of the Treasury, and the Secretary of Labor may not take any 
+action to implement, enforce, or otherwise give effect to the rule 
+entitled ``Short-Term, Limited Duration Insurance'' (83 Fed. Reg. 38212 
+(August 3, 2018)), and the Secretaries may not promulgate any 
+substantially similar rule.
+
+SEC. 205. PROTECTION OF HEALTH INSURANCE COVERAGE IN CERTAIN EXCHANGES.
+
+    In the case of an Exchange that the Secretary of Health and Human 
+Services operates pursuant to section 1321(c)(1) of the Patient 
+Protection and Affordable Care Act (42 U.S.C. 18041(c)(1)), the 
+Secretary may not implement any process that would terminate the health 
+insurance coverage of an enrollee solely because such enrollee did not 
+actively enroll during the most recent open enrollment period.
+
+SEC. 206. SENSE OF CONGRESS RELATING TO THE PRACTICE OF SILVER LOADING.
+
+    It is the sense of Congress that the Secretary of Health and Human 
+Services should not take any action to prohibit or otherwise restrict 
+the practice commonly known as ``silver loading'' (as described in the 
+rule entitled ``Patient Protection and Affordable Care Act; HHS Notice 
+of Benefit and Payment Parameters for 2020'' published on April 25, 
+2019 (84 Fed. Reg. 17533)).
+
+SEC. 207. CONSUMER OUTREACH, EDUCATION, AND ASSISTANCE.
+
+    (a) Open Enrollment Reports.--For plan year 2020 and each 
+subsequent year, the Secretary of Health and Human Services (referred 
+to in this section as the ``Secretary''), in coordination with the 
+Secretary of the Treasury and the Secretary of Labor, shall issue 
+biweekly public reports during the annual open enrollment period on the 
+performance of the Federal Exchange. Each such report shall include a 
+summary, including information on a State-by-State basis where 
+available, of--
+            (1) the number of unique website visits;
+            (2) the number of individuals who create an account;
+            (3) the number of calls to the call center;
+            (4) the average wait time for callers contacting the call 
+        center;
+            (5) the number of individuals who enroll in a qualified 
+        health plan; and
+            (6) the percentage of individuals who enroll in a qualified 
+        health plan through each of--
+                    (A) the website;
+                    (B) the call center;
+                    (C) navigators;
+                    (D) agents and brokers;
+                    (E) the enrollment assistant program;
+                    (F) directly from issuers or web brokers; and
+                    (G) other means.
+    (b) Open Enrollment After Action Report.--For plan year 2020 and 
+each subsequent year, the Secretary, in coordination with the Secretary 
+of the Treasury and the Secretary of Labor, shall publish an after 
+action report not later than 3 months after the completion of the 
+annual open enrollment period regarding the performance of the Federal 
+Exchange for the applicable plan year. Each such report shall include a 
+summary, including information on a State-by-State basis where 
+available, of--
+            (1) the open enrollment data reported under subsection (a) 
+        for the entirety of the enrollment period; and
+            (2) activities related to patient navigators described in 
+        section 1311(i) of the Patient Protection and Affordable Care 
+        Act (42 U.S.C. 18031(i)), including--
+                    (A) the performance objectives established by the 
+                Secretary for such patient navigators;
+                    (B) the number of consumers enrolled by such a 
+                patient navigator;
+                    (C) an assessment of how such patient navigators 
+                have met established performance metrics, including a 
+                detailed list of all patient navigators, funding 
+                received by patient navigators, and whether established 
+                performance objectives of patient navigators were met; 
+                and
+                    (D) with respect to the performance objectives 
+                described in subparagraph (A)--
+                            (i) whether such objectives assess the full 
+                        scope of patient navigator responsibilities, 
+                        including general education, plan selection, 
+                        and determination of eligibility for tax 
+                        credits, cost-sharing reductions, or other 
+                        coverage;
+                            (ii) how the Secretary worked with patient 
+                        navigators to establish such objectives; and
+                            (iii) how the Secretary adjusted such 
+                        objectives for case complexity and other 
+                        contextual factors.
+    (c) Report on Advertising and Consumer Outreach.--Not later than 3 
+months after the completion of the annual open enrollment period for 
+the 2020 plan year, the Secretary shall issue a report on advertising 
+and outreach to consumers for the open enrollment period for the 2020 
+plan year. Such report shall include a description of--
+            (1) the division of spending on individual advertising 
+        platforms, including television and radio advertisements and 
+        digital media, to raise consumer awareness of open enrollment;
+            (2) the division of spending on individual outreach 
+        platforms, including email and text messages, to raise consumer 
+        awareness of open enrollment; and
+            (3) whether the Secretary conducted targeted outreach to 
+        specific demographic groups and geographic areas.
+
+SEC. 208. GAO REPORT.
+
+    Not later than 1 year after the date of the enactment of this Act, 
+the Comptroller General of the United States shall submit to Congress a 
+study that analyzes the costs and benefits of the establishment of 
+State-administered health insurance plans to be offered in the 
+insurance market of such States that choose to administer and offer 
+such a plan.
+
+SEC. 209. REPORT ON THE EFFECTS OF WEBSITE MAINTENANCE DURING OPEN 
+              ENROLLMENT.
+
+    Not later than 1 year after the date of the enactment of this Act, 
+the Comptroller General of the United States shall submit to Congress a 
+report examining whether the Department of Health and Human Services 
+has been conducting maintenance on the website commonly referred to as 
+``Healthcare.gov'' during annual open enrollment periods (as described 
+in section 1311(c)(6)(B) of the Patient Protection and Affordable Care 
+Act (42 U.S.C. 18031(c)(6)(B)) in such a manner so as to minimize any 
+disruption to the use of such website resulting from such maintenance.
+
+                      TITLE III--BUDGETARY EFFECTS
+
+SEC. 301. DETERMINATION OF BUDGETARY EFFECTS.
+
+    The budgetary effects of this Act, for the purpose of complying 
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined by 
+reference to the latest statement titled ``Budgetary Effects of PAYGO 
+Legislation'' for this Act, submitted for printing in the Congressional 
+Record by the Chairman of the House Budget Committee, provided that 
+such statement has been submitted prior to the vote on passage.
