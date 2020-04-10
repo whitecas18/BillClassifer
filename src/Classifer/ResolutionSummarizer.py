@@ -25,6 +25,7 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         
         if userChoice == '0':   
             userChoice = input('\nPress ENTER to summarize next Bill or type END to end summarizations\n')
+            print('\nPlease wait. \nProcessing', end ='')
             if userChoice == 'END':
                 break
             else:
@@ -34,7 +35,7 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         #Dictionary containing Bill information from json file
         newDict = WebsiteInfoGetter.getWebSiteText(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,docNumber,'hjres')
         billDate = newDict['date'].split("-")
-        
+        print('.', end ='')
         if(dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate) == False):
             continue
         
@@ -45,7 +46,7 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         
         #Set text to the Bill text to be summarized from dictionary
         text = newDict["text"]
-       
+        print('.', end ='')
         #if a word matches a word in removeWords, remove the word.
         for word in removeWords:
             text.replace(word, "")
@@ -53,7 +54,7 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         #replace excessive spaces with a single space    
         for space in removeSpaces:
             text.replace(space, " ")
-        
+        print('.', end ='')
         #split text at Joint resolution where the text that needs to be summarized starts
         splitText = text.split("JOINT RESOLUTION")
         
@@ -61,7 +62,7 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         bow = nb.tokenize_doc(text)
         #Classify a Bill's text using NaiveClassifier's classify function and set this to billType.
         billType = nb.classify(bow, .2)
-        
+        print('.\n')
         #Print the information for current Bill being looked at.
         #If certain information is unavailable, it is not printed.
         if(('title' in newDict) and ('sponsor' in newDict)):
@@ -81,7 +82,6 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
             print('        Date Issued: ' + newDict['date'] + newDict['date'] + '\n        No Sponsor')
             print('        Bill type based on classifier: ' + billTypeDict[billType])
         # print summarization to console, always summarize from index 1.
-        
         #Check where the Bill was split based on length of list
         #Summarize and print current Bill text
         if 1 < len(splitText):
@@ -120,6 +120,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
     
         if userChoice == '0':   
             userChoice = input('\nPress ENTER to summarize next Bill or type END to end summarizations\n')
+            print('\nPlease wait. \nProcessing', end ='')
             if userChoice == 'END':
                 break
             else:
@@ -129,7 +130,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         
         newDict = WebsiteInfoGetter.getWebSiteText(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,docNumber,'hr')
         billDate = newDict['date'].split("-")
-        
+        print('.', end ='')
         if(dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate) == False):
             continue
          
@@ -139,6 +140,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         removeSpaces = ["  ","   ","   ","    ","      "]
         
         text = newDict["text"]
+        print('.', end ='')
        
         #if a word matches a word in removeWords, remove the word.
         for word in removeWords:
@@ -147,7 +149,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         #replace excessive spaces with a single space    
         for space in removeSpaces:
             text.replace(space, " ")
-        
+        print('.', end ='')
         #split text at Joint resolution where the text that needs to be summarized starts
         splitText = text.split("IN THE HOUSE OF REPRESENTATIVES")
         
@@ -155,7 +157,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         bow = nb.tokenize_doc(text)
         #Classify a Bill's text using NaiveClassifier's classify function and set this to billType.
         billType = nb.classify(bow, .2)
-        
+        print('.\n')
         #Print the information for current Bill being looked at.
         #If certain information is unavailable, it is not printed.    
         if(('title' in newDict) and ('sponsor' in newDict)):

@@ -71,7 +71,10 @@ def customSum(billType):
         pageSize = userInput
 
         if userInput != 'END':
-            ResolutionSummarizer.houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,nb) 
+            if billType == '1':
+                ResolutionSummarizer.houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,nb)
+            elif billType == '2':
+                ResolutionSummarizer.jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,nb)
             break       
 
 #Current day summarization interface
