@@ -12,7 +12,7 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
     numDocs = WebsiteInfoGetter.getWebSiteDocCount(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,'hjres')
     
     #Print string of how many documents are available to summarize from given date.
-    #print("\nThere are " + str(numDocs) + " joint resolutions to summarize from " + str(startMonth) + "-" + str(startDay) + "-" + str(startYear) + " to " + str(endMonth) + "-" + str(endDay) + "-" + str(endYear)+"\n")
+    print("\nThere were " + str(numDocs) + " joint resolutions uploaded from " + str(startMonth) + "-" + str(startDay) + "-" + str(startYear) + " to " + str(endMonth) + "-" + str(endDay) + "-" + str(endYear)+"\n")
     
     #If numDocs is larger than requested size then use numDocs instead.
     if(int(numDocs) < int(pageSize)):
@@ -36,8 +36,8 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         newDict = WebsiteInfoGetter.getWebSiteText(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,docNumber,'hjres')
         billDate = newDict['date'].split("-")
         print('.', end ='')
-        if(dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate) == False):
-            continue
+        #if(dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate) == False):
+        #    continue
         
         #remove list of unwanted words from text 
         removeWords = ['[document]','noscript','header','html','meta','head', 'input','script','<DOC>','``Article--','<all>',"\n"]
@@ -106,7 +106,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
     numDocs = WebsiteInfoGetter.getWebSiteDocCount(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,'hr')
     
     #Print string of how many documents are available to summarize from given date.
-    #print("\nThere are " + str(numDocs) + " house resolutions to summarize from " + str(startMonth) + "-" + str(startDay) + "-" + str(startYear) + " to " + str(endMonth) + "-" + str(endDay) + "-" + str(endYear)+"\n")
+    print("\nThere were " + str(numDocs) + " house resolutions uploaded from " + str(startMonth) + "-" + str(startDay) + "-" + str(startYear) + " to " + str(endMonth) + "-" + str(endDay) + "-" + str(endYear)+"\n")
     
     #If numDocs is larger than requested size then use numDocs instead.
     if(int(numDocs) < int(pageSize)):
@@ -131,8 +131,8 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         newDict = WebsiteInfoGetter.getWebSiteText(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,docNumber,'hr')
         billDate = newDict['date'].split("-")
         print('.', end ='')
-        if(dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate) == False):
-            continue
+        #if(dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate) == False):
+        #    continue
          
         #remove list of unwanted words from text 
         removeWords = ['[document]','noscript','header','html','meta','head', 'input','script','<DOC>','``Article--','<all>',"\n"]
@@ -204,6 +204,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         input('\nExiting program...press enter to continue\n')
         quit()       
 
+'''
 #Function to check if a date falls within the correct start and end date
 def dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate):
     
@@ -219,4 +220,4 @@ def dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,b
                 return False
         
         return True
-    
+'''    

@@ -135,7 +135,7 @@ def secondInput(billType):
     
 #Input of 1 summarizes current day Bill's, input of 2 summarizes current week from day Bill's, input of 3 takes user to a new custom summary option set.
     while True:
-        userInput = input('\nTYPE OPTION BELOW:\n1: Summarize todays Bills\n2: Summarize current week Bills\n3: Summarize custom date Bills\n')
+        userInput = input('\nTYPE OPTION BELOW:\n1: Summarize todays uploaded Bills\n2: Summarize this weeks uploaded Bills\n3: Summarize custom date uploaded Bills\n')
         if(userInput == '1'):
             todaySum(billType)
             break
