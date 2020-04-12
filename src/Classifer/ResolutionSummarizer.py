@@ -94,6 +94,9 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         else:
             print("\n" + (summarize(splitText[0], .75)) + "\n")
         
+        topText = topWords(text,5)
+        createPlot(topText,5)
+        
         userChoice = '0'
         
     userChoice = input('\nAll Bills have been summarized, press ENTER to return to main screen, type END to close program.')
