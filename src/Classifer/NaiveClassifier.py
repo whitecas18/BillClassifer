@@ -196,7 +196,34 @@ class NaiveBayes:
         maxLabel = max(fireClassPos,govClassPos,enviroClassPos,healthClassPos)
         return classDict[maxLabel]
 
+    
+    def evaluate_classifier_accuracy(self, alpha):
+      
+        """
+        DO NOT MODIFY THIS FUNCTION
 
+        alpha - pseudocount parameter.
+        This function should go through the test data, classify each instance and
+        compute the accuracy of the classifier (the fraction of classifications
+        the classifier gets right.
+        """
+        correct = 0.0
+        total = 0.0
 
+        enviro_path = os.path.join(self.test_dir, ENVIRO_LABEL)
+        health_path = os.path.join(self.test_dir, HEALTH_LABEL)
+        fire_path = os.path.join(self.test_dir, FIRE_LABEL)
+        gov_path = os.path.join(self.test_dir, GOV_LABEL)
+        
+        
+        for (p, label) in [ (enviro_path, ENVIRO_LABEL), (health_path, HEALTH_LABEL),(fire_path, FIRE_LABEL), (gov_path, GOV_LABEL)]:
+            for f in os.listdir(p):
+                with open(os.path.join(p,f),'r') as doc:
+                    content = doc.read()
+                    bow = self.tokenize_doc(content)
+                    if self.classify(bow, alpha) == label:
+                        correct += 1.0
+                    total += 1.0
+        return 100 * correct / total
 
 

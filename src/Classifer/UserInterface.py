@@ -155,6 +155,10 @@ def secondInput(billType):
 #A welcome message at start up
 print('Welcome to the Government Bill Summarizer!...')
 
+nb = NaiveClassifier.NaiveBayes(PATH_TO_DATA, tokenizer=tokenize_doc)
+nb.train_model()
+
+print ('Gov. Bill Classifier currently at ' +str(nb.evaluate_classifier_accuracy(0.2)) + "% accuracy")
 #Loop options until the user decides to quit
 while True:
     
@@ -162,6 +166,31 @@ while True:
     
     nb = NaiveClassifier.NaiveBayes(PATH_TO_DATA, tokenizer=tokenize_doc)
     nb.train_model()
+    
+    
+    
+    '''
+    print ("TOP 10 WORDS FOR CLASS " + 'FIREARMS' + ":")
+    for tok, count in nb.top_n('fire', 10):
+        print ('', tok, count)
+    print ()
+    
+    print ("TOP 10 WORDS FOR CLASS " + 'GOVERNMENT' + ":")
+    for tok, count in nb.top_n('gov', 10):
+        print ('', tok, count)
+    print ()
+    
+    print ("TOP 10 WORDS FOR CLASS " + 'ENVIRONMENT' + ":")
+    for tok, count in nb.top_n('enviro', 10):
+        print ('', tok, count)
+    print ()
+    
+    print ("TOP 10 WORDS FOR CLASS " + 'HEALTHCARE' + ":")
+    for tok, count in nb.top_n('health', 10):
+        print ('', tok, count)
+    print ()    
+    '''
+    
     billType = firstInput()
     secondInput(billType)
     

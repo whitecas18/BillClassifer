@@ -1,0 +1,895 @@
+Sec. 1. Short title; table of contents.
+
+Title I—Improving Prevention and Treatment of Obesity in Adults and Children
+
+Sec. 101. Requirement to expedite national Medicare coverage determinations for evidence-based treatment services.
+
+Sec. 102. Expansion of obesity treatment services under Medicare.
+
+Sec. 103. Chronic weight management drugs covered under Medicaid and Medicare part D.
+
+Sec. 104. Grants to provide training for health profession students.
+
+Sec. 105. Grants to provide training for health professionals.
+
+Sec. 106. Preventive health services block grant.
+
+Sec. 107. Health Empowerment for At-Risk Teens and Youth (HEARTY) program.
+
+Title II—Improving access to and opportunity for physical activity for adults and children
+
+Subtitle A—National Program Promoting Lifelong Active Youth (PLAY) and Implementation Grants
+
+Sec. 201. Play assessment tools.
+
+Sec. 202. Model communities of play implementation grants.
+
+Subtitle B—Healthy Kids Outdoors
+
+Sec. 211. Definitions.
+
+Sec. 212. Cooperative agreements for development or implementation of healthy kids outdoors State strategies.
+
+Sec. 213. National strategy for encouraging Americans to be active outdoors.
+
+Sec. 214. National evaluation of health impacts.
+
+Sec. 215. Technical assistance and best practices.
+
+Sec. 216. Authorization of appropriations.
+
+Subtitle C—Other provisions
+
+Sec. 221. Physical education guidelines for elementary and secondary schools.
+
+Sec. 222. Treating physical education as a core academic subject for elementary and secondary education grants.
+
+Sec. 223. Physical activity guidelines for preschool children.
+
+Sec. 224. Tracking physical activity in schools.
+
+Sec. 225. Employer-provided off-premises health club services.
+
+Sec. 226. Certain amounts paid for physical activity, fitness, and exercise treated as amounts paid for medical care.
+
+Sec. 227. National youth sports program revitalization.
+
+Title III—Improving access to nutritional information and healthy foods
+
+Sec. 301. Consumer education.
+
+Sec. 302. Expand team nutrition training grants.
+
+Sec. 303. Urban and Native-American Community Garden Grant Program.
+
+Title IV—Realigning Transportation Policy to Help Promote Healthy Lifestyles
+
+Sec. 401. Grants to promote planning decisions and policies that increase access to physical activity.
+
+Sec. 402. Joint use agreements.
+
+Title V—Research and Assessment Tools
+
+Sec. 501. National Center for Health Statistics.
+
+Sec. 502. Report on obesity research.
+
+I
+Improving Prevention and Treatment of Obesity in Adults and Children
+
+101.Requirement to expedite national Medicare coverage determinations for evidence-based treatment services
+(a)In general
+The Secretary of Health and Human Services shall—
+
+(1)not later than January 1, 2014, issue national Medicare coverage determinations for evidence-based services to treat overweight and obesity that have an Evidence Category A or B designation for treating overweight and obesity as defined by the Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults of the National Heart, Lung, and Blood Institute; and
+(2)update such coverage determinations based on future updates to such Guidelines.
+(b)Updating NHLBI Guidelines
+Not later than December 31, 2014, and at least once every 3 years thereafter, the Secretary of Health and Human Services, acting through the Director of the National Heart, Lung, and Blood Institute, shall update the NHLBI Guidelines referred to in subsection (a).
+
+102.Expansion of obesity treatment services under Medicare
+(a)Coverage
+Section 1861 of the Social Security Act (42 U.S.C. 1395x) is amended—
+
+(1)in subsection (s)(2)—
+(A)in subparagraph (EE), by striking at the end and;
+(B)in subparagraph (FF), by adding at the end and; and
+(C)by adding at the end the following new subparagraph:
+(GG)items and services furnished under an obesity treatment program (as defined in subsection (iii));
+; and
+
+(2)by adding at the end the following new subsection:
+(iii)Obesity Treatment Program
+(1)The term obesity treatment program means medical services delivered to eligible individuals under a plan of care for the purpose of reducing body mass index and the associated co-morbidities of obesity, including the following:
+(A)The development of an initial plan of care and subsequent revisions to that plan of care.
+(B)Medical and surgical interventions as determined appropriate by the Secretary for which payment would not otherwise be made under this title.
+(C)Additional services for which payment would not otherwise be made under this title that the Secretary may specify that encourage the receipt of, or improve the effectiveness of, the services described in the preceding subparagraphs.
+In carrying out subparagraph (C), the Secretary shall consider clinical practice guidelines for treatment of overweight, obesity, and severe obesity issued by professional medical societies and consensus statements and guidelines on effective treatment of overweight, obesity, and severe obesity issued by the National Institutes of Health, professional medical societies, and other authoritative sources (such as those identified in the Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults released by the National Heart Lung and Blood Institute).
+(2)For purposes of paragraph (1), the term eligible individual means any of the following:
+(A)An individual who has been diagnosed with obesity by a physician or provider of services, without regard to body mass index or the presence of any comorbid condition.
+(B)An individual who has a body mass index of at least 30, without regard to the presence of any comorbid condition.
+(C)An individual who has a body mass index of at least 27 with at least one weight-related comorbid condition.
+.
+
+(b)Payment
+Section 1833(a)(1) of the Social Security Act (42 U.S.C. 1395l(a)(1)) is amended—
+
+(1)by striking and before (Z); and
+(2)by inserting before the semicolon at the end the following: , and (AA) with respect to items and services furnished under an obesity treatment program (as defined in section 1861(iii)), the amount paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined under a fee schedule established by the Secretary for purposes of this subparagraph.
+(c)Effective date
+The amendments made by this section shall apply to items and services furnished on or after January 1, 2014.
+
+103.Chronic weight management drugs covered under Medicaid and Medicare part D
+(a)Medicaid coverage
+Section 1927(d)(2)(A) of the Social Security Act (42 U.S.C. 1396r–8(d)(2)(A)42 U.S.C. 1396r–8(d)(2)(A)42 U.S.C. 1396r–8(d)(2)(A)42 U.S.C. 1396r–8(d)(2)(A)42 U.S.C. 1396r–8(d)(2)(A)) is amended by inserting before the period at the end the following: except prescription agents approved by the Food and Drug Administration used for chronic weight management in the treatment of obesity or overweight with a weight related co-morbidity.
+
+(b)Medicare part D coverage
+Section 1860D–2(e)(1) of the Social Security Act (42 U.S.C. 1395w–102(e)(1)42 U.S.C. 1395w–102(e)(1)42 U.S.C. 1395w–102(e)(1)42 U.S.C. 1395w–102(e)(1)42 U.S.C. 1395w–102(e)(1)) is amended by inserting before the period at the end the following: and includes prescription agents approved by the Food and Drug Administration used for chronic weight management in the treatment of obesity or overweight with a weight related co-morbidity.
+
+(c)Effective date
+The amendments made by this section shall apply to items and services furnished on or after January 1, 2014.
+
+104.Grants to provide training for health profession students
+Section 747 of the Public Health Service Act (42 U.S.C. 293k) is amended—
+
+(1)by redesignating subsection (c) as subsection (d); and
+(2)by inserting after subsection (b) the following:
+(c)Special consideration
+In awarding grants or contracts under subsection (a) or (b), the Secretary shall give special consideration to qualified applicants proposing a project or program which will prepare practitioners to care for individuals (including children) who are overweight or obese (as such terms are defined in section 399W(j)).
+
+.
+
+105.Grants to provide training for health professionals
+Section 399Z of the Public Health Service Act (42 U.S.C. 280h–342 U.S.C. 280h–342 U.S.C. 280h–342 U.S.C. 280h–342 U.S.C. 280h–3) is amended—
+
+(1)in subsection (b), by striking 2005 and inserting 2018;
+(2)by redesignating subsection (b) as subsection (c);
+(3)by inserting after subsection (a) the following:
+(b)Grants
+(1)In general
+The Secretary may award grants to eligible entities to train primary care physicians and other licensed or certified health professionals on how to treat and prevent obesity and aid individuals who are obese or overweight.
+
+(2)Application
+An entity that desires a grant under this subsection shall submit an application at such time, in such manner, and containing such information as the Secretary may require, including a plan for the use of funds that may be awarded and an evaluation of the training that will be provided.
+
+(3)Use of funds
+An entity that receives a grant under this subsection shall use the funds made available through such grant to—
+
+(A)use evidence-based findings or recommendations that pertain to the prevention and treatment of obesity and being overweight to conduct educational conferences, including Internet-based courses and teleconferences, on—
+(i)how to treat or prevent obesity and being overweight;
+(ii)the link between obesity and being overweight and related serious and chronic medical conditions;
+(iii)how to discuss varied strategies with patients from at-risk and diverse populations to promote positive behavior change and healthy lifestyles to avoid obesity and being overweight;
+(iv)how to identify individuals who are or are at risk for being obese or being overweight and, therefore, are at risk for related serious and chronic medical conditions; and
+(v)how to conduct a comprehensive assessment of individual and familial health risk factors; and
+(B)evaluate the effectiveness of the training provided by such entity in increasing knowledge and changing attitudes and behaviors of trainees.
+; and
+
+(4)in subsection (c) (as so redesignated)—
+(A)by striking There are authorized to be appropriated to carry out this section and all that follows and inserting the following:
+There are authorized to be appropriated—
+
+(1)to carry out subsection (a),
+;
+
+(B)by striking the period at the end and inserting ; and; and
+(C)by adding at the end the following:
+(2)to carry out subsection (b), such sums as may be necessary for each of fiscal years 2014 through 2018.
+.
+
+106.Preventive health services block grant
+Section 1904(a)(1) of the Public Health Service Act (42 U.S.C. 300w–3(a)(1)42 U.S.C. 300w–3(a)(1)42 U.S.C. 300w–3(a)(1)42 U.S.C. 300w–3(a)(1)42 U.S.C. 300w–3(a)(1)) is amended by adding at the end the following:
+
+(H)Activities and community education programs designed to address and prevent obesity and being overweight through effective programs to promote healthy eating, and exercise habits and behaviors.
+.
+
+107.Health Empowerment for At-Risk Teens and Youth (HEARTY) program
+Title III of the Public Health Service Act is amended by inserting after section 317T of such Act (42 U.S.C. 247b–2242 U.S.C. 247b–2242 U.S.C. 247b–2242 U.S.C. 247b–2242 U.S.C. 247b–22) the following:
+
+317U.Healthy Empowerment for At-risk Teens and Youth (HEARTY) program
+(a)In general
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to eligible entities to carry out nationally-based or community-based qualified childhood obesity prevention initiatives.
+
+(b)Eligible entities
+To be eligible to seek a grant under this section, an entity shall be—
+
+(1)a nationally-based nonprofit organization qualified in childhood obesity prevention and youth mentoring proposing to implement programs described in subsection (c); or
+(2)a community-based nonprofit organization qualified in childhood obesity prevention and youth mentoring proposing to implement a program described in subsection (c).
+(c)Qualified childhood obesity prevention initiative
+To qualify as a childhood obesity prevention initiative eligible for funding under this section, an initiative shall consist of programs that—
+
+(1)serve both male and female children or adolescents most at risk for being overweight and obese in predominantly economically disadvantaged communities;
+(2)serve both male and female children or adolescents during after-school hours, weekends, or summer hours;
+(3)provide structured physical fitness activities, including organized sports, which engage each participant in a minimum of 60 minutes of moderate to vigorous physical activity at least three days per week for a period of at least 24 weeks in a given year;
+(4)demonstrate cost-effectiveness as defined by the Secretary; and
+(5)demonstrate measurable results for reducing childhood obesity on the part of participants, including through—
+(A)measurement and study of participants’ moderate to vigorous physical activity (MVPA) each day, both as part of the programs funded under this section and on the participants’ own initiative;
+(B)increased knowledge of and awareness about the importance of maintaining healthy, active lifestyles by balancing recommended levels of physical activity and caloric intakes;
+(C)keeping track of and reporting increased consumption of healthy items and increased levels of unstructured, self-initiated physical activity outside of the programs funded under this section; and
+(D)measurement and study of participants’ body mass index (BMI) indicating that—
+(i)children entering programs funded under this section with a healthy body mass index maintain it while participating in such programs; and
+(ii)children participating in such programs with an unhealthy body mass index halt any negative trend lines towards obesity or begin trend lines in a positive direction.
+(d)Priority
+In selecting among applicants for grants under this section, the Secretary shall give priority to eligible entities proposing to carry out programs that show:
+
+(1)effectiveness in working with ethnic and racial minority groups;
+(2)effectiveness in recruiting participants from communities with substantial immigrant populations, as defined by the Secretary; and
+(3)program evaluation by an independent, third-party evaluator, of category specified by the Secretary.
+(e)Distribution of funds
+Of the amount made available to carry out this section for a fiscal year, the Secretary shall award—
+
+(1)not less than 25 percent of such amount to nationally-based nonprofit organizations described in subsection (b)(1); and
+(2)not more than 75 percent of such amount to community-based nonprofit organizations described in subsection (b)(2).
+(f)Cost-Share requirements
+With respect to the costs of a qualified childhood obesity prevention initiative to be carried out under this section, there shall be no non-federal match requirement.
+
+(g)Report to congress
+Not later than one year after the first appropriation of Federal funds to carry out this section, the Secretary shall report to the Congress on the progress made in carrying out programs funded by grants under this section.
+
+(h)Authorization of appropriations
+To carry out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2014 through 2018.
+
+.
+
+II
+Improving access to and opportunity for physical activity for adults and children
+
+A
+National Program Promoting Lifelong Active Youth (PLAY) and Implementation Grants
+
+201.Play assessment tools
+(a)In general
+The Secretary of Health and Human Services (in this section referred to as the Secretary), acting through the Director of the Centers for Disease Control and Prevention, shall develop a list of well-validated assessment tools, which can measure the policy, program, or environmental barriers in communities to participating in physical activity. Tools on the Secretary’s recommended list shall include—
+
+(1)cross-cutting measurements that—
+(A)examine barriers to physical activities across multiple settings, including homes, after-school and child care sites, schools, the community-at-large, and worksites; and
+(B)focus on the—
+(i)availability of adequate spaces and places for physical activity;
+(ii)availability of, and access to, high-quality physical activity and physical education programs; and
+(iii)the availability of programs, activities, and leaders to educate about the importance of physical activity for the community; and
+(2)additional measurements to assist economically and culturally diverse communities in examining the social determinants of health.
+(b)Guidance and training
+The Secretary shall provide guidelines and recommendations to develop training on utilizing such tools.
+
+202.Model communities of play implementation grants
+(a)Program Authorized
+(1)In general
+The Secretary of Health and Human Services (in this section referred to as the Secretary), acting through the Director of the Centers for Disease Control and Prevention, shall award grants to State health departments to enable the State health departments to work in partnership with eligible community-based coalitions to plan and implement model communities of play that increase—
+
+(A)the physical spaces and places available for physical activity;
+(B)the opportunities for children and families to participate in high-quality play, and the number of children and families participating in high-quality play;
+(C)knowledge and awareness about the importance of individuals achieving 60 minutes of recommended physical activity every day; and
+(D)school siting practices in which elementary and secondary schools are located within neighborhoods to increase the likelihood of students walking and biking to school.
+(2)Amount of grants
+A grant awarded to a State health department under this subsection shall be in the amount of $250,000 to $1,000,000.
+
+(b)Application
+A State health department desiring a grant under subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+(c)Coordination
+In awarding grants under subsection (a), the Secretary shall ensure that the proposed programs assisted under each grant are coordinated in substance and format with programs currently funded through other Federal departments and agencies, including—
+
+(1)State-based nutrition and physical activity programs, comprehensive school health education programs, and community-based health and wellness programs of the Centers for Disease Control and Prevention;
+(2)the physical education programs under subpart 10 of part D of title V of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7261 et seq.);
+(3)the safe routes to schools program under section 1404 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (23 U.S.C. 402 note); and
+(4)other health and wellness programs operating within the community.
+(d)Partnership With Community Coalitions
+A State health department receiving a grant under subsection (a) shall use the majority of grant funds to carry out the activities described in subsection (e) in partnership with 1 or more community coalitions that meet all of the following requirements:
+
+(1)The community coalition is comprised of a representative sampling of community partners, including not less than half of the following types of individuals and entities:
+(A)A community-based organization that focuses on children and youth, preventive health, physical activity, or physical education.
+(B)A local parks and recreation department.
+(C)A local health department.
+(D)A local educational agency, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+(E)A local city planning agency.
+(F)A local health care provider.
+(G)An institution of higher education, as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+(H)A tribal health facility, where applicable.
+(I)A tribal educational agency, where applicable.
+(J)A federally qualified health center or rural health clinic (as such terms are defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), where applicable.
+(K)A hospital.
+(L)A faith-based organization.
+(M)A policymaker or elected official.
+(N)A community planning organization.
+(O)A business.
+(2)The community coalition completed and submitted to the State health department—
+(A)an assessment tool identified by the Secretary under section 201 for the community that identifies the gaps and barriers to physical activity in the community to children and youth; and
+(B)a community action plan describing the programs, policies, and environmental change strategies that will be implemented with grant funds to help children and youth in the community reach the recommended 60 minutes of physical activity every day.
+(3)The community coalition provided—
+(A)documentation to the State health department on the manner in which the coalition will coordinate with appropriate State and local authorities, including—
+(i)State or local health departments;
+(ii)State educational agencies or local educational agencies, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801);
+(iii)State or local parks and recreation departments or associations;
+(iv)State or local departments of transportation or city planning;
+(v)community foundations; and
+(vi)any other entities determined to be appropriate by the Secretary; and
+(B)a description of the manner in which the coalition will evaluate the effectiveness of the programs carried out with grant funds.
+(e)Authorized Activities
+A State health department that receives a grant under subsection (a) shall use the majority of funds available through the grant to carry out the following activities:
+
+(1)Train community-based coalitions on how to utilize assessment tools to measure the program, policy, and environmental barriers to promoting lifelong physical activity for youth.
+(2)Work in partnership with one or more community coalitions described in subsection (d) to enable the coalitions to carry out the coalition’s community action plan and promote a model community of play, which may include the following:
+(A)Enabling the maximum use of, or the creation of spaces and places for, physical activity for children, families, and communities before, during, and after school or work, which may include increasing the number of—
+(i)programs that increase the number of safe streets and sidewalks in the community to walk and bike to school, work, or other community destinations, such as recreation sites, parks, or community centers;
+(ii)schools, faith-based organizations, and recreational facilities serving the community that provide programming on physical activity and physical education before, during, or after school;
+(iii)schools serving the community that provide recess, physical education, and physical activity for children and youth;
+(iv)day care, child care, and after-school care sites in the community that provide physical activity for children and youth;
+(v)venues in the community that provide co-curricular physical activity programs, including sports fields and courts, especially venues for all-inclusive intramural programs and physical activity clubs;
+(vi)playgrounds and activity sites in the community for young children, including sites that offer programs that provide physical activity instruction that meets the various needs and interests of all students, including those with illness, injury, and physical and developmental disabilities, as well as those who live sedentary lifestyles or have a disinterest in traditional team sports;
+(vii)capital improvement projects that increase opportunities for physical activity in the community; and
+(viii)networks of walking and cycling trails where trails do not exist in the community, that offer both a functional alternative to automobile travel and an opportunity for exercise, recreation, and community connectedness.
+(B)Enhancing opportunities and access for children and youth in the community to participate in high-quality physical activity and physical education programs before, during, and after school, which may include increasing the number of—
+(i)school and after-school care sites in the community that implement proven health curricula, physical education (including developing innovative approaches to teaching and staffing physical education), and physical activity programming;
+(ii)children and youth in the community who are able to participate in physical education or activity before, during, or after school, by ensuring that adequate equipment is available to such children and youth;
+(iii)scholarships to low-income children and youth for physical activity programs;
+(iv)education and training programs for education, recreation, leisure, child care, and coaching professionals regarding high-quality physical education and physical activity programs and policies;
+(v)training programs to assist physicians and other health care professionals in—
+(I)carefully communicating the results of body mass index (BMI) tests to parents and, in an age-appropriate manner, to the children and youth themselves;
+(II)providing information to families so they may make informed decisions about physical activity and nutrition; and
+(III)explaining the benefits associated with physical activity and the risks associated with childhood overweight and obesity;
+(vi)assessment tools used to measure the quality of physical activity, sports, and intramural sports programs;
+(vii)guidelines and informational materials used by teachers, parents, caregivers, and health care professionals who are interested in promoting physical activity for infants, toddlers, and preschoolers; and
+(viii)guidelines and informational materials used to promote—
+(I)physical activity with the intent of improving the current health, fitness, and wellness of preadolescent children (ages 6 through 12); and
+(II)lifelong physical activity.
+(C)Identifying, engaging, and mobilizing community leaders, decisionmakers, experts, and the media to raise awareness and educate the public about the importance of securing 60 minutes of physical activity every day, which may include increasing the number of—
+(i)school and after-school care faculty and staff, including coaches, who serve as positive role models for students regarding regular physical activity;
+(ii)businesses that serve as role models by providing physical space and incentives for employees to participate in physical activity;
+(iii)businesses that serve as role models to communities by—
+(I)providing support to intramural teams, clubs, sports leagues, playgrounds, trails, biking and walking paths, and fields and venues for sports, play, and physical activity;
+(II)incorporating built environment strategies into new construction of facilities;
+(III)adopting safe routes to school programs;
+(IV)providing bike racks at the office; and
+(V)encouraging the use of the stairs;
+(iv)insurers that cover obesity screening and prevention services in routine clinical practice;
+(v)groups representing low-income individuals or individuals with disabilities, that can promote and secure safer and more accessible sites for activity;
+(vi)consumer research-driven marketing strategies for ongoing initiatives and interventions that enhance physical activity for children and youth;
+(vii)products and opportunities provided or offered by leisure, entertainment, and recreation industries that promote regular physical activity and reduce sedentary behaviors;
+(viii)media advocacy training programs for public health and exercise scientists so as to empower the scientists to disseminate their knowledge to a broad audience; and
+(ix)campaigns to foster awareness about the health benefits of regular physical activity of not less than 60 minutes a day for all children and youth.
+(3)Support the evaluation of community action plans of community coalitions described in subsection (d) and activities carried out pursuant to this Act.
+(f)Definition
+In this section, the term State includes the District of Columbia and any commonwealth, territory, or possession of the United States.
+
+(g)Authorization of appropriations
+To carry out this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2014 through 2019.
+
+B
+Healthy Kids Outdoors
+
+211.Definitions
+In this subtitle:
+
+(1)Eligible entity
+The term eligible entity means—
+
+(A)a State; or
+(B)a consortium from one State that may include such State and municipalities, entities of local or tribal governments, parks and recreation departments or districts, school districts, institutions of higher education, or nonprofit organizations.
+(2)Local partners
+The term local partners means a municipality, entity of local or tribal government, parks and recreation departments or districts, Indian tribe, school district, institution of higher education, nonprofit organization, or a consortium of local partners.
+
+(3)Secretary
+The term Secretary means the Secretary of the Interior.
+
+(4)State
+The term State means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territory or possession of the United States, or any Indian tribe.
+
+212.Cooperative agreements for development or implementation of healthy kids outdoors State strategies
+(a)In general
+The Secretary is authorized to issue one cooperative agreement per State to eligible entities to develop, implement, and update a 5-year State strategy, to be known as a Healthy Kids Outdoors State Strategy, designed to encourage Americans, especially children, youth, and families, to be physically active outdoors.
+
+(b)Submission and approval of strategies
+(1)Applications
+An application for a cooperative agreement under subsection (a) shall—
+
+(A)be submitted not later than 120 days after the Secretary publishes guidelines under subsection (f)(1); and
+(B)include a Healthy Kids Outdoors State Strategy meeting the requirements of subsection (c) or a proposal for development and submission of such a strategy.
+(2)Approval of strategy; peer review
+Not later than 90 days after submission of a Healthy Kids Outdoors State Strategy, the Secretary shall, through a peer review process, approve or recommend changes to the strategy.
+
+(3)Strategy update
+An eligible entity receiving funds under this section shall update its Healthy Kids Outdoors State Strategy at least once every 5 years. Continued funding under this section shall be contingent upon submission of such updated strategies and reports that document impact evaluation methods consistent with the guidelines in subsection (f)(1) and lessons learned from implementing the strategy.
+
+(c)Comprehensive strategy requirements
+The Healthy Kids Outdoors State Strategy under subsection (a) shall include—
+
+(1)a description of how the eligible entity will encourage Americans, especially children, youth, and families, to be physically active in the outdoors through State, local, and tribal—
+(A)public health systems;
+(B)public parks and recreation systems;
+(C)public transportation and city planning systems; and
+(D)other public systems that connect Americans, especially children, youth, and families, to the outdoors;
+(2)a description of how the eligible entity will partner with nongovernmental organizations, especially those that serve children, youth, and families, including those serving military families and tribal agencies;
+(3)a description of how State agencies will collaborate with each other to implement the strategy;
+(4)a description of how funding will be spent through local planning and implementation subgrants under subsection (d);
+(5)a description of how the eligible entity will evaluate the effectiveness of, and measure the impact of, the strategy, including an estimate of the costs associated with such evaluation;
+(6)a description of how the eligible entity will provide opportunities for public involvement in developing and implementing the strategy;
+(7)a description of how the strategy will increase visitation to Federal public lands within the state; and
+(8)a description of how the eligible entity will leverage private funds to expand opportunities and further implement the strategy.
+(d)Local planning and implementation
+(1)In general
+A Healthy Kids Outdoors State Strategy shall provide for subgrants by the cooperative agreement recipient under subsection (a) to local partners to implement the strategy through one or more of the program activities described in paragraph (2).
+
+(2)Program activities
+Program activities may include—
+
+(A)implementing outdoor recreation and youth mentoring programs that provide opportunities to experience the outdoors, be physically active, and teach skills for lifelong participation in outdoor activities, including fishing, hunting, recreational shooting, archery, hiking, camping, outdoor play in natural environments, and wildlife watching;
+(B)implementing programs that connect communities with safe parks, green spaces, and outdoor recreation areas through affordable public transportation and trail systems that encourage walking, biking, and increased physical activity outdoors;
+(C)implementing school-based programs that use outdoor learning environments, such as wildlife habitats or gardens, and programs that use service learning to restore natural areas and maintain recreational assets; and
+(D)implementing education programs for parents and caregivers about the health benefits of active time outdoors to fight obesity and increase the quality of life for Americans, especially children, youth, and families.
+(e)Priority
+In making cooperative agreements under subsection (a) and subgrants under subsection (d)(1), the Secretary and the recipient under subsection (a), respectively, shall give preference to entities that serve individuals who have limited opportunities to experience nature, including those who are socioeconomically disadvantaged or have a disability or suffer disproportionately from physical and mental health stressors.
+
+(f)Guidelines
+Not later than 180 days after the date of the enactment of this Act, and after notice and opportunity for public comment, the Secretary shall publish in the Federal Register guidelines on the implementation of this subtitle, including guidelines for—
+
+(1)developing and submitting strategies and evaluation methods under subsection (b); and
+(2)technical assistance and dissemination of best practices under section 215.
+(g)Reporting
+Not later than 2 years after the Secretary approves the Healthy Kids Outdoors State Strategy of an eligible entity receiving funds under this section, and every year thereafter, the eligible entity shall submit to the Secretary a report on the implementation of the strategy based on the entity’s evaluation and assessment of meeting the goals specified in the strategy.
+
+(h)Allocation of funds
+An eligible entity receiving funding under subsection (a) for a fiscal year—
+
+(1)may use not more than 5 percent of the funding for administrative expenses; and
+(2)shall use at least 95 percent of the funding for subgrants to local partners under subsection (d).
+(i)Match
+An eligible entity receiving funding under subsection (a) for a fiscal year shall provide a 25-percent match through in-kind contributions or cash.
+
+213.National strategy for encouraging Americans to be active outdoors
+(a)In general
+Not later than September 30, 2013, the President, in cooperation with appropriate Federal departments and agencies, shall develop and issue a national strategy for encouraging Americans, especially children, youth, and families, to be physically active outdoors. Such a strategy shall include—
+
+(1)identification of barriers to Americans, especially children, youth, and families, spending healthy time outdoors and specific policy solutions to address those barriers;
+(2)identification of opportunities for partnerships with Federal, State, tribal, and local partners;
+(3)coordination of efforts among Federal departments and agencies to address the impacts of Americans, especially children, youth, and families, spending less active time outdoors on—
+(A)public health, including childhood obesity, attention deficit disorders and stress;
+(B)the future of conservation in the United States; and
+(C)the economy;
+(4)identification of ongoing research needs to document the health, conservation, economic, and other outcomes of implementing the national strategy and State strategies;
+(5)coordination and alignment with Healthy Kids Outdoors State Strategies; and
+(6)an action plan for implementing the strategy at the Federal level.
+(b)Strategy development
+(1)Public participation
+Throughout the process of developing the national strategy under subsection (a), the President may use, incorporate, or otherwise consider existing Federal plans and strategies that, in whole or in part, contribute to connecting Americans, especially children, youth, and families, with the outdoors and shall provide for public participation, including a national summit of participants with demonstrated expertise in encouraging individuals to be physically active outdoors in nature.
+
+(2)Updating the national strategy
+The President shall update the national strategy not less than 5 years after the date the first national strategy is issued under subsection (a), and every 5 years thereafter. In updating the strategy, the President shall incorporate results of the evaluation under section 214.
+
+214.National evaluation of health impacts
+The Secretary, in coordination with the Secretary of Health and Human Services, shall—
+
+(1)develop recommendations for appropriate evaluation measures and criteria for a study of national significance on the health impacts of the strategies under this subtitle; and
+(2)carry out such a study.
+215.Technical assistance and best practices
+The Secretary shall—
+
+(1)provide technical assistance to grantees under section 212 through cooperative agreements with national organizations with a proven track record of encouraging Americans, especially children, youth, and families, to be physically active outdoors; and
+(2)disseminate best practices that emerge from strategies funded under this subtitle.
+216.Authorization of appropriations
+(a)In general
+There are authorized to be appropriated to the Secretary to carry out this subtitle such sums as may be necessary for each of fiscal years 2014 through 2018.
+
+(b)Limitation
+Of the amounts made available to carry out this subtitle for a fiscal year, not more than 5 percent may be made available for carrying out section 215.
+
+(c)Supplement, not supplant
+Funds made available under this subtitle shall be used to supplement, and not supplant, any other Federal, State, or local funds available for activities that encourage Americans, especially children, youth, and families to be physically active outdoors.
+
+C
+Other provisions
+
+221.Physical education guidelines for elementary and secondary schools
+The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention—
+
+(1)not later than 1 year after the date of the enactment of this Act, shall issue and make available to the public guidelines for physical education in elementary and secondary schools; and
+(2)not less than every 5 years thereafter, update such guidelines as appropriate.
+222.Treating physical education as a core academic subject for elementary and secondary education grants
+Section 9101(11) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(11)) is amended by inserting physical education, after arts,.
+
+223.Physical activity guidelines for preschool children
+Not later than 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services, acting through the Centers for Disease Control and Prevention, shall—
+
+(1)issue physical activity guidelines for preschool children,
+(2)make such guidelines available to the public, and
+(3)make a recommendation to each Head Start agency that such agency implement such guidelines as appropriate in the Head Start program carried out by such agency.
+224.Tracking physical activity in schools
+(a)Report cards
+Section 1111(h) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(h)) is amended—
+
+(1)in paragraph (1)(C)—
+(A)in clause (vii), by striking and after the semicolon;
+(B)in clause (viii), by striking the period at the end and inserting a semicolon; and
+(C)by adding at the end the following:
+(ix)the amount of time students spend in required physical education as measured against the national standards of 150 minutes per week of required physical education for students in elementary school and 225 minutes per week of required physical education for students in middle school and secondary school;
+(x)the percentage of local educational agencies in the State that have a required, age-appropriate physical education curriculum for all students in elementary schools, middle schools, and secondary schools that adheres to national guidelines adopted by the Centers for Disease Control and Prevention and State standards;
+(xi)the percentage of elementary school and secondary school physical education teachers who are State licensed or certified as physical education teachers; and
+(xii)the percentage of schools that have a School Health Council that includes parents, students, representatives of the school food authority, representatives of the school board, school administrators and members of the public and that meets monthly to promote a healthy school environment.
+;
+
+(2)in paragraph (2)(B)(i)—
+(A)in subclause (I), by striking and after the semicolon;
+(B)in subclause (II), by striking and after the semicolon; and
+(C)by adding at the end the following:
+(III)the percentage of elementary school and secondary school physical education teachers who are State certified as physical education teachers; and
+(IV)the amount of square feet of indoor and outdoor facilities that are primarily used for physical education and the amount of square feet of indoor and outdoor facilities that are primarily used for physical activity; and
+; and
+
+(3)in paragraph (2)(B)(ii)—
+(A)in subclause (I), by striking and after the semicolon;
+(B)in subclause (II), by striking the period at the end and inserting a semicolon; and
+(C)by adding at the end the following:
+(III)the percentage of elementary school and secondary school physical education teachers who are State certified as physical education teachers; and
+(IV)the number of meetings of a School Health Council that includes parents, students, representatives of the school food authority, representatives of the school board, school administrators and members of the public during the school year.
+.
+
+(b)Promoting physical education and activity in school programs
+(1)Elementary and secondary school counseling programs
+Section 5421 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7245) is amended—
+
+(A)in subsection (b)(2)(H), by inserting , which design and implementation shall take into consideration the overall emotional and physical well-being of students after the program; and
+(B)in subsection (c)(2)(E), by inserting health, the importance of regular physical activity, after relationships,.
+(2)Smaller learning communities
+Section 5441(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7249(b)) is amended by adding at the end the following:
+
+(14)How the local educational agency will ensure that smaller learning communities support healthy lifestyles including participation in physical education and physical activity by all students and access to nutritious food and nutrition education.
+.
+
+(3)21st Century Community Learning Centers
+(A)Purpose; definitions
+Section 4201 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7171) is amended—
+
+(i)in subsection (a)(2), by inserting nutrition education programs, structured physical activity programs, after recreation programs,; and
+(ii)in subsection (b)(1)(A), by inserting nutrition education, structured physical activity, after recreation,.
+(B)Local competitive grant program
+Section 4204(b)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7174(b)(2))—
+
+(i)in subparagraph (M), by striking and after the semicolon;
+(ii)by redesignating subparagraph (N) as subparagraph (O); and
+(iii)by inserting after subparagraph (M) the following:
+(N)an assurance that the proposed program is coordinated with the physical education and health education programs offered during the school day; and
+.
+
+(C)Local activities
+Section 4205(a) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7175(a))—
+
+(i)in paragraph (11), by striking and after the semicolon;
+(ii)in paragraph (12), by striking the period at the end and inserting ; and; and
+(iii)by adding at the end the following:
+(13)programs that support a healthy, active lifestyle, including nutritional education and regular, structured physical activity programs.
+.
+
+(4)Parental involvement
+Section 1118 of the Elementary and Secondary Education Act of 1965 is amended—
+
+(A)in subsection (a)(2)—
+(i)in subparagraph (E), by striking and at the end;
+(ii)by redesignating subparagraph (F) as subparagraph (G); and
+(iii)by inserting after subparagraph (E) the following:
+(F)involve and train parents in encouraging and supporting a healthy and active lifestyle, including increased physical activity during and outside the school day, and nutritional eating habits in the home and at school; and
+;
+
+(B)in subsection (d)—
+(i)in the subsection heading, by inserting after Achievement the following: by Healthy, Active Students;
+(ii)in the matter preceding paragraph (1), by striking standards. and inserting standards and to ensure that the children lead healthy, active lives.; and
+(iii)in paragraph (1)—
+(I)by inserting after supportive the following: , healthy,;
+(II)by striking ; and participating and inserting ; participating; and
+(III)by inserting after extracurricular time the following: and supporting their children in leading a healthy and active life, such as by providing healthy meals and snacks, encouraging participation in physical education, and sharing in physical activity outside the school day; and
+(C)in subsection (e)—
+(i)by redesignating paragraphs (6) through (14) as paragraphs (7) through (15), respectively; and
+(ii)by inserting after paragraph (5) the following:
+(6)
+(A)shall ensure that parents and teachers have information about the importance of a healthy lifestyle, including nutritional eating habits, physical education, and physical activity, to an effective learning environment; and
+(B)shall coordinate activities with parents and teachers to ensure that children are provided with nutritious meals and snacks, and have ample opportunities for physical education and physical activity during and outside the school day;
+.
+
+(c)Professional development for teachers and principals
+(1)State applications
+Section 2112(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6612(b)) is amended by adding at the end the following:
+
+(13)A description of how the State educational agency will use funds under this part to provide professional development that is directly related to the fields of physical education and health education to physical education teachers and health education teachers to ensure that children are leading healthy, active lifestyles that are conducive to effective learning.
+.
+
+(2)State use of funds
+Section 2113(c)(6) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6613(c)(6)) is amended—
+
+(A)by striking , in cases in which a State educational agency determines support to be appropriate,; and
+(B)by inserting , physical education teachers, and health education teachers after pupil services personnel.
+(3)Local applications and needs assessment
+Section 2122(b)(9) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6622(b)(9)) is amended—
+
+(A)in subparagraph (C), by striking and after the semicolon;
+(B)in subparagraph (D), by striking the period at the end and inserting ; and; and
+(C)by adding at the end the following:
+(E)improve the health and eating habits of students and increase rates of physical activity of students.
+.
+
+(4)Local use of funds
+Section 2123(a)(3) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6623(a)(3)) is amended—
+
+(A)in subparagraph (A)—
+(i)in clause (i), by striking and after the semicolon; and
+(ii)by adding at the end the following:
+(iii)effective strategies for improving the healthy habits of students and the rates of physical activity by students that result in the ability to learn more effectively; and
+; and
+
+(B)in subparagraph (B)—
+(i)in clause (iv), by striking and after the semicolon;
+(ii)in clause (v), by striking the period at the end and inserting ; and; and
+(iii)by adding at the end the following:
+(vi)provide training, with curricula that is evidence-based, in how to teach physical education and health education that results in the ability of students to learn more effectively.
+.
+
+(d)National Research Council Study
+Not later than 180 days after the date of enactment of this Act, the Secretary of Education shall enter into a contract with the National Research Council of the National Academy of Sciences to—
+
+(1)examine and make recommendations regarding—
+(A)various means that may be employed to incorporate physical activity into Head Start and childcare settings, elementary, middle, and high school settings, and before- and after-school programs; and
+(B)innovative and effective ways to increase physical activity for all students;
+(2)study the impact of health, level of physical activity, and amount of physical education on students’ ability to learn and maximize performance in school; and
+(3)study and provide specific recommendations for—
+(A)effectively measuring the progress of students, at the school level, in improving their health and well-being, including improving their—
+(i)knowledge, awareness, and behavior changes, related to nutrition and physical activity;
+(ii)cognitive development, and fitness improvement, in physical education;
+(iii)knowledge of lifetime physical activity and health promotion;
+(iv)decrease in obesity; and
+(v)levels on overall health indicators; and
+(B)effectively measuring the progress of students, at the school level, in increasing physical activity.
+225.Employer-provided off-premises health club services
+(a)Treatment as fringe benefit
+Subparagraph (A) of section 132(j)(4) of the Internal Revenue Code of 1986 (relating to on-premises gyms and other athletic facilities) is amended to read as follows:
+
+(A)In general
+Gross income shall not include—
+
+(i)the value of any on-premises athletic facility provided by an employer to the employer’s employees, and
+(ii)so much of the fees, dues, or membership expenses paid by an employer to an athletic or fitness facility described in subparagraph (C) on behalf of the employer’s employees as does not exceed $900 per employer per year.
+.
+
+(b)Athletic facilities described
+Paragraph (4) of section 132(j) of such Code is amended by adding at the end the following new subparagraph:
+
+(C)Certain athletic or fitness facilities described
+For purposes of subparagraph (A)(ii), an athletic or fitness facility described in this subparagraph is a facility—
+
+(i)providing instruction in a program of physical exercise, offering facilities for the preservation, maintenance, encouragement, or development of physical fitness, or serving as the site of such a program of a State or local government,
+(ii)which is not a private club owned and operated by its members,
+(iii)which does not offer golf, hunting, sailing, or riding facilities,
+(iv)whose health or fitness facility is not incidental to its overall function and purpose, and
+(v)which is fully compliant with the State of jurisdiction and Federal anti-discrimination laws.
+.
+
+(c)Exclusion applies to highly compensated employees only if no discrimination
+Paragraph (1) of section 132(j) of such Code is amended—
+
+(1)by striking Paragraphs (1) and (2) of subsection (a) and inserting Paragraphs (1) and (2) of subsection (a) and paragraph (4) of this subsection, and
+(2)in the heading by striking Exclusions under subsection (a)(1) and (2) and inserting Certain exclusions.
+(d)Employer deduction for dues to certain athletic facilities
+(1)In general
+Paragraph (3) of section 274(a) of such Code (relating to denial of deduction for club dues) is amended by adding at the end the following new sentence: The preceding sentence shall not apply to so much of the fees, dues, or membership expenses paid to athletic or fitness facilities (within the meaning of section 132(j)(4)(C)) as does not exceed $900 per employee per year..
+
+(2)Conforming amendment
+Section 274(e)(4) of such Code is amended by inserting the first sentence of before subsection (a)(3).
+
+(e)Effective date
+The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+
+226.Certain amounts paid for physical activity, fitness, and exercise treated as amounts paid for medical care
+(a)In general
+Paragraph (1) of section 213(d) of the Internal Revenue Code of 1986 is amended by striking or at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting , or, and by adding at the end the following new subparagraph:
+
+(E)for qualified sports and fitness expenses.
+.
+
+(b)Qualified sports and fitness expenses
+Subsection (d) of section 213 of such Code is amended by adding at the end the following paragraph:
+
+(12)Qualified sports and fitness expenses
+(A)In general
+The term qualified sports and fitness expenses means amounts paid—
+
+(i)for membership at a fitness center,
+(ii)for participation or instruction in a program of physical exercise or physical activity, and
+(iii)for equipment for use in a program (including a self-directed program) of physical exercise or physical activity.
+(B)Overall dollar limitation
+The aggregate amount treated as qualified sports and fitness expenses with respect to any taxpayer for any taxable year shall not exceed $1,000 ($2,000 in the case of a joint return or a head of household (as defined in section 2(b))).
+
+(C)Fitness facility defined
+For purposes of subparagraph (A)(i), the term fitness facility means a facility—
+
+(i)providing instruction in a program of physical exercise, offering facilities for the preservation, maintenance, encouragement, or development of physical fitness, or serving as the site of such a program of a State or local government,
+(ii)which is not a private club owned and operated by its members,
+(iii)which does not offer golf, hunting, sailing, or riding facilities,
+(iv)whose health or fitness facility is not incidental to its overall function and purpose, and
+(v)which is fully compliant with the State of jurisdiction and Federal anti-discrimination laws.
+(D)Limitations related to sports and fitness equipment
+Amounts paid for equipment described in subparagraph (A)(iii) shall be treated as a qualified sports and fitness expense only—
+
+(i)if such equipment is utilized exclusively for participation in fitness, exercise, sport, or other physical activity programs,
+(ii)if such equipment is not apparel or footwear, and
+(iii)in the case of any item of sports equipment (other than exercise equipment), with respect to so much of the amount paid for such item as does not exceed $250.
+(E)Programs which include components other than physical exercise and physical activity
+Rules similar to the rules of section 213(d)(6) shall apply in the case of any program that includes physical exercise or physical activity and also other components. For purposes of the preceding sentence, travel and accommodations shall be treated as an other component.
+
+.
+
+(c)Exception for health savings accounts
+Subparagraph (A) of section 223(d)(2) of such Code is amended by inserting , determined without regard to paragraph (1)(E) thereof after section 213(d).
+
+(d)Effective date
+The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+
+227.National youth sports program revitalization
+Section 682(g) of the Community Services Block Grant Act (42 U.S.C. 9923(g)) is amended by striking $15,000,000 and all that follows through 2003, and inserting $20,000,000 for each of the fiscal years 2014 through 2024.
+
+III
+Improving access to nutritional information and healthy foods
+
+301.Consumer education
+Subsection (c) of section 2 of the Nutrition Labeling and Education Act of 1990 (Pub. L. 101–535; 104 Stat. 2353, 2357; 21 U.S.C. 343 note) is amended to read as follows:
+
+(c)Consumer education
+(1)In general
+The Secretary of Health and Human Services shall carry out activities which educate consumers about—
+
+(A)the availability of nutrition information in the label or labeling of food;
+(B)the importance of that information in maintaining healthy dietary practices;
+(C)the importance of physical activity and healthy lifestyles; and
+(D)the importance of maintaining an energy balance in consumption and activity.
+(2)Certain activities
+Activities under paragraph (1) shall include the use of public education campaigns, public statements, and other resources designed to educate consumers about the subjects described in subparagraphs (A) through (D) of such paragraph.
+
+.
+
+302.Expand team nutrition training grants
+Section 19 of the Child Nutrition Act of 1966 (20 U.S.C. 1788) is amended—
+
+(1)by redesignating subsection (l) as subsection (m); and
+(2)by inserting after subsection (k), the following:
+(l)Infrastructure improvement grants
+(1)In general
+Subject to the availability of funds to carry out this subsection, the Secretary shall award one-time grants, on a competitive basis, to eligible State agencies to assist such State agencies in carrying out infrastructure improvements for the purpose of improving children’s lifelong eating and physical habits, consistent with the most recent Dietary Guidelines for Americans published under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 (7 U.S.C. 5341).
+
+(2)Eligible State agency
+For purposes of this subsection, an eligible State agency means—
+
+(A)a State agency that participates in—
+(i)the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.);
+(ii)the school breakfast program under section 4 of this Act; or
+(iii)the child and adult care food program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1766); or
+(B)a consortium of 2 or more such State agencies—
+(i)located in the same State; or
+(ii)located in different States.
+(3)Application
+To receive a grant under this subsection, an eligible State agency shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(4)Uses of funds
+(A)Required uses
+An eligible State agency that receives a grant under this subsection shall use such funds to cover the costs of infrastructure improvements related to the school lunch program, school breakfast program, or the child and adult food care program, including improvements in kitchen equipment and other foodservice equipment used to serve or store food offered to children under any such program.
+
+(B)Authorized uses
+An eligible State agency that receives a grant under this subsection may use such funds to award subgrants to local educational agencies to carry out the activities described in subparagraph (A).
+
+(5)Recordkeeping
+An eligible State agency receiving a grant under this subsection shall keep a record of the use of the grant funds.
+
+.
+
+303.Urban and Native-American Community Garden Grant Program
+(a)Program established
+From the amounts appropriated to carry out this section, the Secretary of Agriculture shall award grants to eligible entities to expand, establish, or maintain urban community gardens.
+
+(b)Eligible entity
+For purposes of this section, an eligible entity means—
+
+(1)a private or for-profit organization; or
+(2)a unit of general local government, or tribal government, located on tribal land or in a low-income community.
+(c)Application
+In order to receive a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
+
+(1)an assurance that priority for hiring for jobs created by the expansion, establishment, or maintenance of an urban community garden funded with a grant received under this section will be given to individuals who reside in the community where the garden is located; and
+(2)a demonstration that the eligible entity is committed to providing non-Federal financial or in-kind support (such as providing a water supply) for the urban community garden for which the entity receives funds under this section.
+(d)Definitions
+In this section:
+
+(1)Low-income community
+The term low-income communities includes—
+
+(A)communities with a high percentage of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.); and
+(B)any other communities determined by the Secretaries to be low-income for purposes of this section.
+(2)Unit of general local government
+The term unit of general local government has the meaning given such term in section 102 of the Housing and Community Development Act of 1974 (42 U.S.C. 5302).
+
+(e)Authorization of appropriations
+For each of fiscal years 2014 through 2018, there are authorized to be appropriated to the Secretary such sums as may be necessary to award grants under this section.
+
+IV
+Realigning Transportation Policy to Help Promote Healthy Lifestyles
+
+401.Grants to promote planning decisions and policies that increase access to physical activity
+(a)Grants
+The Secretary of Transportation may make grants to eligible entities for the purpose of assisting local planning decisions and policies that increase the access of individuals to physical activity.
+
+(b)Activities under grants
+The activities of eligible entities that may be funded by a grant under subsection (a) include the following:
+
+(1)The coordination of activities carried out by local government officials (including planning, public works, housing, and transportation officials), school boards, and others to increase the access of individuals to physical activity through—
+(A)improved integration of land use, housing, transportation, and infrastructure planning; and
+(B)consideration of impacts on physical activity levels during such planning.
+(2)The formulation of strategies to establish and implement—
+(A)plans and policies that increase infrastructure for pedestrians and bicyclists to connect such individuals to schools, recreation opportunities, jobs, and retail opportunities, including policies requiring developers to build sidewalks and bicycle lanes; or
+(B)plans and policies that place schools within neighborhoods and provide bike paths, sidewalks, trails, and other infrastructure to encourage and make possible the walking and bicycling to school of students and staff.
+(3)The carrying out of health impact assessments with respect to proposals for the placement or construction of buildings, sidewalks, roads, trails, schools, or other aspects of the built environment.
+(c)Reporting
+(1)In general
+An eligible entity that receives a grant under subsection (a) shall submit to Congress and the Secretary of Transportation a report on the extent to which such grant has—
+
+(A)led to planning decisions and policies that increase the access of individuals to physical activity; and
+(B)led to an improvement in the health of individuals.
+(2)Timing
+A report under paragraph (1) shall be made not less than 3 years and not more than 5 years after the date on which such grant is received.
+
+(d)Definitions
+In this section, the following definitions apply:
+
+(1)Built environment
+The term built environment means any buildings or spaces that are created or modified by individuals, including homes, schools, workplaces, parks and other recreation areas, greenways, business areas, and transportation areas.
+
+(2)Eligible entity
+The term eligible entity means a local government agency or group of such agencies with jurisdiction over planning or land use decisions.
+
+(3)Health impact assessment
+The term health impact assessment means, in relation to a proposal, an assessment of the impact that the proposal will have on the health of individuals if implemented.
+
+402.Joint use agreements
+(a)Grants
+The Secretary may make a grant to any eligible school or other public or nonprofit entity for the purposes of meeting either or both of the following:
+
+(1)Costs incurred by the school or other entity in negotiating or entering into a joint use agreement.
+(2)Costs payable under a joint use agreement during the first year in which the joint use agreement is in force.
+(b)Priority
+In making grants under subsection (a), the Secretary shall give priority to schools or other public or nonprofit entities in areas—
+
+(1)where obesity rates are above the national average;
+(2)where at least 50 percent of the residents are below the poverty line; or
+(3)that lack safe, accessible, and affordable fitness and recreational facilities.
+(c)Definitions
+In this section, the following definitions apply:
+
+(1)Eligible school
+The term eligible school means any elementary school or secondary school within the meaning of section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+
+(2)Joint use agreement
+The term joint use agreement means an agreement between an eligible school and another public or nonprofit entity relating to the use of a school’s facilities or equipment by people other than the school’s students or staff.
+
+(3)Poverty line
+The term poverty line has the meaning given such term in section 673 of the Community Services Block Grant Act (42 U.S.C. 9902).
+
+(4)Secretary
+The term Secretary means the Secretary of Health and Human Services acting through the Director of the Centers for Disease Control and Prevention.
+
+V
+Research and Assessment Tools
+
+501.National Center for Health Statistics
+Section 306 of the Public Health Service Act (42 U.S.C. 242k) is amended—
+
+(1)in subsection (m)(4)(B), by striking subsection (n) each place it appears and inserting subsection (o);
+(2)by redesignating subsection (n) as subsection (o); and
+(3)by inserting after subsection (m) the following:
+(n)
+(1)The Secretary, acting through the Center, may provide for the—
+(A)collection of data for determining the fitness levels and energy expenditure of children and youth; and
+(B)analysis of data collected as part of the National Health and Nutrition Examination Survey and other data sources.
+(2)In carrying out paragraph (1), the Secretary, acting through the Center, may make grants to States, public entities, and nonprofit entities.
+(3)The Secretary, acting through the Center, may provide technical assistance, standards, and methodologies to grantees supported by this subsection in order to maximize the data quality and comparability with other studies.
+.
+
+502.Report on obesity research
+(a)In general
+Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on research conducted on causes and health implications (including mental health implications) of obesity and being overweight.
+
+(b)Content
+The report described in subsection (a) shall contain—
+
+(1)descriptions on the status of relevant, current, ongoing research being conducted in the Department of Health and Human Services including research at the National Institutes of Health, the Centers for Disease Control and Prevention, the Agency for Healthcare Research and Quality, the Health Resources and Services Administration, and other offices and agencies;
+(2)information about what these studies have shown regarding the causes, prevention, and treatment of, obesity and being overweight; and
+(3)recommendations on further research that is needed, including research among diverse populations, the plan of the Department of Health and Human Services for conducting such research, and how current knowledge can be disseminated.

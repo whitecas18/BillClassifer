@@ -1,6 +1,11 @@
 from gensim.summarization.summarizer import summarize
 import WebsiteInfoGetter
-
+import collections
+import re
+import matplotlib.pyplot as plt 
+from gensim.parsing.preprocessing import remove_stopwords
+from gensim.parsing.preprocessing import strip_numeric
+from gensim.parsing.preprocessing import strip_short
 
 #summarizer parameters are the dates of the documents, first is the start date, second is the end date. Dates are in 4,2,2 format (yyyy,mm,dd,yyyy,mm,dd,).
 def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,nb):
@@ -181,7 +186,7 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         
         #Check the length of the Bill and choose the correct summary to word ratio depending on length
         if 1 < len(splitText):
-            if len(splitText[1]) > 30:
+            if len(splitText[1]) > 20:
                 if len(splitText[1]) > 60:
                     print("\n" + (summarize(splitText[1], .10)) + "\n")
                 else:
@@ -189,13 +194,16 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
             else:
                 print("\n" + (summarize(splitText[1], .50)) + "\n")
         else:
-            if len(splitText[0]) > 30:
+            if len(splitText[0]) > 20:
                 if len(splitText[0]) > 60:
                     print("\n" + (summarize(splitText[0], .10)) + "\n")
                 else:
                     print("\n" + (summarize(splitText[0], .25)) + "\n")
             else:
                 print("\n" + (summarize(splitText[0], .50)) + "\n")
+                
+        topText = topWords(text,5)
+        createPlot(topText,5)
         
         userChoice = '0'
 
@@ -204,6 +212,30 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         input('\nExiting program...press enter to continue\n')
         quit()       
 
+def topWords(billText, numberWords):
+    
+    text = remove_stopwords(billText)
+    text = strip_numeric(text)
+    text = strip_short(text,minsize=2)
+    words = re.findall(r'\w+', text)
+    topW = collections.Counter(words).most_common(numberWords)
+    
+    return topW
+
+def createPlot(topW, numberWords):
+        
+    labels = []
+    numbers = []
+    for l,n in topW:
+        labels.append(l)
+        numbers.append(n) 
+    
+    plt.xticks(range(len(numbers)), labels)
+    plt.xlabel('WORDS')
+    plt.ylabel('WORD COUNTS')
+    plt.title('TOP ' + str(numberWords) + ' WORDS IN BILL')
+    plt.bar(range(len(numbers)), numbers) 
+    plt.show()
 '''
 #Function to check if a date falls within the correct start and end date
 def dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate):
