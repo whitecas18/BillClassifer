@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 from gensim.parsing.preprocessing import remove_stopwords
 from gensim.parsing.preprocessing import strip_numeric
 from gensim.parsing.preprocessing import strip_short
+import asciiplotlib as apl
+import numpy
+
 
 #summarizer parameters are the dates of the documents, first is the start date, second is the end date. Dates are in 4,2,2 format (yyyy,mm,dd,yyyy,mm,dd,).
 def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,nb):
@@ -71,31 +74,34 @@ def jointResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         #Print the information for current Bill being looked at.
         #If certain information is unavailable, it is not printed.
         if(('title' in newDict) and ('sponsor' in newDict)):
-            print("        Formal Title: " + newDict['title'] + "\n        " + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + "\n        Bill Sponsor and Pol. Party: " + newDict['sponsor'] + " " + newDict['sponsorAff'])
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print("Formal Title: " + newDict['title'] + "\n" + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + "\nBill Sponsor and Pol. Party: " + newDict['sponsor'] + " " + newDict['sponsorAff'])
+            print('Bill type based on classifier: ' + billTypeDict[billType])
         elif( ('title' in newDict) and ('sponsor' not in newDict)):
-            print("        Formal Title: " + newDict['title'] + "\n        " + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + "\n        No Sponsor")
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print("Formal Title: " + newDict['title'] + "\n" + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + "\nNo Sponsor")
+            print('Bill type based on classifier: ' + billTypeDict[billType])
         elif(('sponsor' in newDict) and ('title' not in newDict)):
-            print('        No Formal Title:\n        '  + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + '\n        No Sponsor')
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print('No Formal Title' + "\n" + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + '\nNo Sponsor')
+            print('Bill type based on classifier: ' + billTypeDict[billType])
         else:       
-            print('        No Formal Title:\n        ' + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + newDict['date'] + '\n        No Sponsor')
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print('No Formal Title\n ' + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + newDict['date'] + '\nNo Sponsor')
+            print('Bill type based on classifier: ' + billTypeDict[billType])
+            
+        topText = topWords(text,5)
+        createPlot(topText,5)
         # print summarization to console, always summarize from index 1.
         #Check where the Bill was split based on length of list
         #Summarize and print current Bill text
+        
+        print("\n[BILL SUMMARY]")
         if 1 < len(splitText):
             print("\n" + (summarize(splitText[1], .75)) + "\n")
         else:
             print("\n" + (summarize(splitText[0], .75)) + "\n")
         
-        topText = topWords(text,5)
-        createPlot(topText,5)
         
         userChoice = '0'
         
@@ -169,24 +175,28 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
         #Print the information for current Bill being looked at.
         #If certain information is unavailable, it is not printed.    
         if(('title' in newDict) and ('sponsor' in newDict)):
-            print("        Formal Title: " + newDict['title'] + "\n        " + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + "\n        Bill Sponsor and Pol. Party: " + newDict['sponsor'] + " " + newDict['sponsorAff'])
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print("Formal Title: " + newDict['title'] + "\n" + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + "\nBill Sponsor and Pol. Party: " + newDict['sponsor'] + " " + newDict['sponsorAff'])
+            print('Bill type based on classifier: ' + billTypeDict[billType])
         elif( ('title' in newDict) and ('sponsor' not in newDict)):
-            print("        Formal Title: " + newDict['title'] + "\n        " + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + "\n        No Sponsor")
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print("Formal Title: " + newDict['title'] + "\n" + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + "\nNo Sponsor")
+            print('Bill type based on classifier: ' + billTypeDict[billType])
         elif(('sponsor' in newDict) and ('title' not in newDict)):
-            print('        No Formal Title:\n        ' + "\n        " + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + '\n        No Sponsor')
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print('No Formal Title' + "\n" + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + '\nNo Sponsor')
+            print('Bill type based on classifier: ' + billTypeDict[billType])
         else:       
-            print('        No Formal Title:\n        ' + newDict['congress'] + "th Congress" + "\n        Session: " + newDict['session'] + "\n        Resolution: " + newDict['billNumber'])
-            print('        Date Issued: ' + newDict['date'] + newDict['date'] + '\n        No Sponsor')
-            print('        Bill type based on classifier: ' + billTypeDict[billType])
+            print('No Formal Title\n ' + newDict['congress'] + "th Congress" + "\nSession: " + newDict['session'] + "\nResolution: " + newDict['billNumber'])
+            print('Date Issued: ' + newDict['date'] + newDict['date'] + '\nNo Sponsor')
+            print('Bill type based on classifier: ' + billTypeDict[billType])
         
         
+        topText = topWords(text,5)
+        createPlot(topText,5)
         
+        
+        print("\n[BILL SUMMARY]")
         #Check the length of the Bill and choose the correct summary to word ratio depending on length
         if 1 < len(splitText):
             if len(splitText[1]) > 20:
@@ -204,9 +214,6 @@ def houseResolutionSumm(startYear,startMonth,startDay,endYear,endMonth,endDay,pa
                     print("\n" + (summarize(splitText[0], .25)) + "\n")
             else:
                 print("\n" + (summarize(splitText[0], .50)) + "\n")
-                
-        topText = topWords(text,5)
-        createPlot(topText,5)
         
         userChoice = '0'
 
@@ -226,19 +233,26 @@ def topWords(billText, numberWords):
     return topW
 
 def createPlot(topW, numberWords):
-        
+       
     labels = []
     numbers = []
     for l,n in topW:
         labels.append(l)
-        numbers.append(n) 
+        numbers.append(n)
     
+    print('\n[TOP ' + str(numberWords) + ' WORDS IN BILL]\n')    
+    fig = apl.figure()
+    fig.barh(numbers,labels,force_ascii=True)
+    fig.show()    
+     
+def createMatPlot(topW, numberWords):   
     plt.xticks(range(len(numbers)), labels)
     plt.xlabel('WORDS')
     plt.ylabel('WORD COUNTS')
     plt.title('TOP ' + str(numberWords) + ' WORDS IN BILL')
     plt.bar(range(len(numbers)), numbers) 
     plt.show()
+
 '''
 #Function to check if a date falls within the correct start and end date
 def dateChecker(startYear,startMonth,startDay,endYear,endMonth,endDay,pageSize,billDate):
