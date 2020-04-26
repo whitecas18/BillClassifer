@@ -1,0 +1,342 @@
+To amend the Toxic Substances Control Act relating to certain mercury compounds, products, and processes.
+
+1.Short title
+This Act may be cited as the Mercury Use Reduction Act of 2012.
+
+2.Regulation of mercury
+Section 6(f) of the Toxic Substances Control Act (15 U.S.C. 2605(f)) is amended—
+
+(1)by redesignating paragraphs (1) through (3) as paragraphs (2) through (4), respectively;
+(2)by inserting before paragraph (2) (as redesignated by paragraph (1)) the following:
+(1)Definition of mercury
+In this subsection, notwithstanding section 3(2)(B), the term mercury means—
+
+(A)elemental mercury;
+(B)a mercury compound; and
+(C)a mixture that contains elemental mercury or a mercury compound that is mixed with any other material.
+;
+
+(3)in paragraph (2) (as so redesignated), by striking paragraph (2) and inserting paragraph (3);
+(4)in paragraph (3) (as so redesignated), by striking Paragraph (1) and inserting Paragraph (2); and
+(5)by adding at the end the following
+(5)Prohibition on primary mercury mining
+(A)Prohibition on production
+Notwithstanding any other provision of law and subject to subparagraph (B), effective beginning January 1, 2014, the production of mercury from the extraction, beneficiation, and processing of mercury-containing ores and minerals is prohibited.
+
+(B)Incidental mercury mining
+Nothing in this subsection prohibits the production of mercury from mining of other ores if the mercury is produced incidentally from the beneficiation or processing of that ore or related pollution control activities.
+
+(6)Prohibition on production of vinyl chloride monomer using mercury
+Effective beginning January 1, 2014, the production of vinyl chloride monomer using a mercury-added feedstock or catalyst is prohibited.
+
+(7)Prohibition on mercury-added batteries
+(A)Definition of mercury-added battery
+In this paragraph, the term mercury-added battery means a battery that contains mercury that is intentionally introduced to the battery in the production process, as distinguished from a battery that contains mercury that may be incidentally present in other materials used to produce the battery.
+
+(B)Prohibition on mercury-added batteries
+(i)In general
+Notwithstanding any other provision of law and effective beginning January 1, 2015, the manufacturing, processing, or distribution in commerce of a mercury-added battery, individually or as a component of a product, is prohibited.
+
+(ii)Exemption
+Clause (i) does not apply to a battery manufactured before January 1, 2015.
+
+(C)Repeal
+Effective beginning January 1, 2015, title II of the Mercury-Containing and Rechargeable Battery Management Act (42 U.S.C. 14331 et seq.) is repealed.
+
+(8)Prohibition on certain mercury-added measuring devices
+(A)Prohibition on measuring devices
+Notwithstanding any other provision of law and subject to subparagraph (B), effective beginning January 1, 2014, the manufacturing, processing, or distribution in commerce of any of the following mercury-added measuring devices is prohibited:
+
+(i)Fever thermometer.
+(ii)Nonfever thermometer.
+(iii)Barometer.
+(iv)Esophageal dilator, bougie tube, or gastrointestinal tube.
+(v)Flow meter or regulator.
+(vi)Hydrometer.
+(vii)Hygrometer or psychrometer.
+(viii)Manometer.
+(ix)Pyrometer.
+(x)Sphygmomanometer.
+(B)Exemptions
+(i)Button cell batteries
+The prohibition under subparagraph (A) shall not apply to a mercury-added measuring device listed under that subparagraph if the only mercury-added component of the device is a button cell battery.
+
+(ii)Medical use exemption
+The Administrator shall authorize the production and distribution in commerce of limited quantities of a mercury-added medical measuring device, if the Administrator determines that—
+
+(I)in consultation with the Commissioner of the Food and Drug Administration, the use of the mercury-added medical measuring device is necessary in medical contexts;
+(II)no safe and effective alternative to the use of mercury in the mercury-added medical measuring device is available; and
+(III)the mercury-added medical measuring device has, after notice and opportunity for comment, been approved for use by the Commissioner of the Food and Drug Administration.
+(iii)Effect on other Federal law
+The prohibition under subparagraph (A) shall not apply if the use of mercury in a specific mercury-added measuring device is required by other Federal law (including regulations).
+
+(9)Prohibition on mercury-added pesticides
+(A)Definition of mercury-added pesticide
+In this paragraph, the term mercury-added pesticide means a pesticide (as that term is defined in section 2 of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136)) that is produced by the intentional addition of mercury in the manufacturing process.
+
+(B)Prohibition
+Notwithstanding any other provision of law and effective beginning January 1, 2014, the manufacturing, processing, or distribution in commerce of a mercury-added pesticide is prohibited.
+
+(10)Prohibition on mercury-added relays, switches, and thermostats
+(A)Definitions
+In this paragraph:
+
+(i)Mercury-added relay
+(I)In general
+The term mercury-added relay means a product or device that—
+
+(aa)opens or closes electrical contacts to effect the operation of other devices in the same or another electrical circuit; and
+(bb)is produced by the intentional addition of mercury in the manufacturing process of that product or device.
+(II)Inclusions
+The term mercury-added relay includes a mercury displacement relay, a mercury wetted reed relay, and a mercury contact relay.
+
+(ii)Mercury-added switch
+(I)In general
+The term mercury-added switch means a product or device that—
+
+(aa)is used for measuring, controlling, or regulating the flow of gas, other fluids, or electricity; and
+(bb)is produced by the intentional addition of mercury in the manufacturing process of that product or device.
+(II)Inclusions
+The term mercury-added switch includes—
+
+(aa)a mercury float switch actuated by rising or falling liquid levels;
+(bb)a mercury tilt switch actuated by a change in the switch position;
+(cc)a mercury pressure switch actuated by a change in pressure;
+(dd)a mercury temperature switch activated by a change in temperature;
+(ee)a mercury flame sensor;
+(ff)a mercury connector that makes, breaks, or changes the connection in an electrical circuit; and
+(gg)a thermostat that is used to sense and control temperature as part of a manufacturing process.
+(III)Exclusions
+The term mercury-added switch does not include a mercury-added thermostat, as that term is defined in clause (iii).
+
+(iii)Mercury-added thermostat
+(I)In general
+The term mercury-added thermostat means a product or device that uses a mercury-added switch to sense and control room temperature through communication with heating, ventilating, or air-conditioning equipment.
+
+(II)Inclusions
+The term mercury-added thermostat includes a thermostat that is used to sense and control room temperature in residential, commercial, industrial, and other buildings.
+
+(III)Exclusions
+The term mercury-added thermostat does not include a thermostat that is used to sense and control temperature as part of a manufacturing process.
+
+(B)Prohibition
+(i)Mercury-added thermostats
+Effective beginning January 1, 2014, the manufacturing, processing, or distribution in commerce of a mercury-added thermostat is prohibited.
+
+(ii)Mercury-added relay; mercury-added switch
+(I)In general
+Effective beginning January 1, 2014, and subject to subclause (II), the manufacturing, processing, or distribution in commerce (individually or as a product component) of a mercury-added relay or mercury-added switch is prohibited.
+
+(II)Exemptions
+(aa)In general
+The prohibition under subclause (I) does not apply to a mercury-added relay or mercury-added switch if—
+
+(AA)the relay or switch replaces a relay or switch that is a component of a larger product that is used in manufacturing and is in use prior to January 1, 2014;
+(BB)the relay or switch replaces a relay or switch that is integrated in, and not physically separate from, other components of a larger product in use prior to January 1, 2014;
+(CC)the use of mercury in a specific relay or switch is required by other Federal law (including regulations); or
+(DD)the relay or switch is a component of a larger product that is manufactured and in use prior to January 1, 2014, and sold after January 1, 2014, by the original or subsequent user of the larger product.
+(bb)Refurbished products
+(AA)In general
+Subject to subitem (BB), the prohibition under subclause (I) shall not apply to the distribution in commerce of a refurbished product manufactured before January 1, 2014, if the mercury-added relay or mercury-added switch is integrated in, and not physically separate from, other components of a larger product.
+
+(BB)Restriction
+The exemption under this item shall apply only if the manufacturer of the mercury-added relay or mercury-added switch maintains records, individually or in conjunction with an industry or trade group, that would demonstrate to the Administrator, if the records were inspected or reported under subitem (CC), that the manufacturer has developed and implemented a system for the proper collection, transportation, and management of the larger product at the end of the useful life of the larger product that is protective of human health and the environment and maintains records that show that the manufacturer has provided purchasers with sufficient information to ensure that users of the larger product are aware that the larger product contains a mercury-added relay or mercury-added switch and that users may access the manufacturer-developed collection program.
+
+(CC)Access to records
+On the request of any duly authorized representative of the Administrator, each person who is required to maintain records under this item shall submit to the representative copies of those records and permit the representative to inspect those records.
+
+(DD)Expiration
+The exemption under this item shall expire on December 31, 2022.
+
+(11)Essential use exemptions
+(A)In general
+Any person may petition the Administrator for an exemption from a prohibition under paragraphs (7) through (10), and the Administrator may grant an exemption by rule, after notice and opportunity for comment, for a mercury-added product if the Administrator determines that—
+
+(i)a safe and effective nonmercury alternative to the mercury-added product is unavailable;
+(ii)a system exists in the United States for the proper collection, transportation, and management of the product at the end of the useful life of the product that is protective of human health and the environment; and
+(iii)appropriate and substantial efforts are ongoing to develop and produce a nonmercury alternative to the mercury-added product in a timely manner.
+(B)Terms
+(i)In general
+An exemption granted by the Administrator under this paragraph shall contain such terms and conditions as the Administrator may prescribe, but shall, at a minimum, include such terms and conditions as the Administrator determines necessary—
+
+(I)to minimize the manufacture and distribution in commerce of restricted mercury-added products; and
+(II)to ensure that the conditions for granting the exemption will be fully met.
+(ii)Duration
+An exemption under this paragraph shall not exceed 5 years in duration.
+
+(C)Consultation
+(i)In general
+Prior to providing notice and opportunity for comment under subparagraph (A), the Administrator shall consult with relevant State agencies and organizations, including the Interstate Mercury Education and Reduction Clearinghouse.
+
+(ii)Process
+If the Administrator proposes granting an exemption under this paragraph for a mercury-added product that has previously been denied an exemption under State law by one or more State agencies in States that have mercury product bans for similar products, the Administrator shall include in the proposed exemption an explanation of the basis of the decision of the Administrator.
+
+(12)Report on use of mercury to produce polyurethane products
+(A)In general
+Not later than January 1, 2015, the Administrator shall publish and submit to Congress a report on the use of mercury to produce polyurethane products.
+
+(B)Contents
+The report under subparagraph (A) shall include an analysis of—
+
+(i)the extent to which mercury is used to produce polyurethane products in the United States, including—
+(I)the quantity of mercury used;
+(II)the number of polyurethane manufacturing facilities; and
+(III)the quantity of polyurethane product that is manufactured using mercury;
+(ii)the types of polyurethane products, if any, that are manufactured using mercury;
+(iii)the availability of nonmercury alternative products or processes for those polyurethane products that are manufactured using mercury;
+(iv)the relative proportion of polyurethane products that are manufactured using mercury in the domestic manufacturing sector;
+(v)any ongoing efforts being made to terminate the use of mercury in the manufacture of polyurethane products;
+(vi)any information available on the historic uses of mercury to produce polyurethane products in the United States, including—
+(I)the nature and extent of potential risks to human health or the environment posed by the those polyurethane products that are still being used and were produced using mercury; and
+(II)any mitigation measures that may be used to reduce the associated risk to, and protect, human health and the environment; and
+(vii)other relevant information that the Administrator determines Congress should consider in determining whether—
+(I)to prohibit the manufacture or distribution in commerce of polyurethane compounds using mercury; or
+(II)further action is needed to address polyurethane products that are in use and were produced using mercury.
+.
+
+3.Mercury inventory
+Section 8(b) of the Toxic Substances Control Act (42 U.S.C. 2607(b)) is amended by adding at the end the following:
+
+(3)Mercury
+(A)Definition of mercury
+In this subsection, the term mercury has the meaning given the term in section 6(f)(1).
+
+(B)Publication
+Not later than April 1, 2014, and every 3 years thereafter, the Administrator shall publish in the Federal Register an inventory of mercury supply, use, and trade in the United States.
+
+(C)Process
+In carrying out the inventory under subparagraph (B), the Administrator shall—
+
+(i)identify any remaining manufacturing processes or products that intentionally add mercury; and
+(ii)recommend actions, including proposed revisions of Federal law (including regulations), to achieve further reductions in mercury use.
+(D)Reporting
+(i)In general
+To assist in the preparation of the inventory under subparagraph (B), any person who manufactures mercury or mercury-added products or otherwise intentionally uses mercury in a manufacturing process shall make periodic reports to the Administrator, at such time and including such information as the Administrator shall determine by rule.
+
+(ii)Coordination
+To avoid duplication, the Administrator shall coordinate the reporting under this subparagraph with the Interstate Mercury Education and Reduction Clearinghouse.
+
+(iii)Exemption
+This subparagraph shall not apply to a person engaged in the generation, handling, or management of mercury-containing waste, unless that person manufactures or recovers mercury in the management of that waste.
+
+.
+
+4.Prohibition on export of certain mercury compounds and products
+(a)In general
+Section 12(c) of the Toxic Substances Control Act (15 U.S.C. 2611(c)) is amended—
+
+(1)in the subsection heading, by inserting before the period at the end and mercury compounds;
+(2)by striking paragraph (3) and inserting the following:
+(3)Prohibition on export of certain mercury compounds
+(A)In general
+Effective beginning January 1, 2014, the export of the following mercury compounds is prohibited:
+
+(i)Mercury (I) chloride or calomel.
+(ii)Mercury (II) oxide.
+(iii)Mercury (II) sulfate.
+(iv)Mercury (II) nitrate.
+(v)Cinnabar ore.
+(vi)Any mercury compound that the Administrator, at the discretion of the Administrator, adds to the list by rule, on determining that exporting that mercury compound for the purpose of regenerating elemental mercury is technically feasible.
+(B)Publication
+Not later than 90 days after the date of enactment of the Mercury Use Reduction Act of 2012, and as appropriate thereafter, the Administrator shall publish in the Federal Register a list of the mercury compounds that are prohibited from export under this paragraph.
+
+(C)Petition
+Any person may petition the Administrator to add to the list of mercury compounds prohibited from export.
+
+;
+
+(3)in paragraph (4)—
+(A)by striking elemental mercury each place it appears and inserting mercury; and
+(B)in subparagraph (A), by inserting or paragraph (3) after paragraph (1);
+(4)by redesignating paragraphs (5) and (6) as paragraphs (6) and (7), respectively; and
+(5)by inserting after paragraph (4) the following:
+(5)Mercury-added products
+(A)In general
+Effective beginning January 1, 2014, the export of a mercury-added product described in paragraphs (8) through (11) of section 6(f) is prohibited.
+
+(B)Mercury-added batteries
+Effective beginning January 1, 2015, the export of mercury-added batteries described in section 6(f)(7) is prohibited.
+
+(C)Exemption
+(i)In general
+Any person residing in the United States may petition the Administrator for an exemption from the prohibition under subparagraph (A) or (B), and the Administrator may, after notice and opportunity for comment, grant an exemption by rule for the export of a mercury-added product to an identified country if the Administrator finds that—
+
+(I)a nonmercury alternative to the mercury-added product is not available in the identified country;
+(II)the identified country certifies the support of that country for the exemption;
+(III)a chain of custody for the exported product exists to ensure that the mercury-added product will be used only in the identified country; and
+(IV)the export of the mercury-added product is consistent with international obligations of the United States intended to reduce global mercury supply, use, and pollution.
+(ii)Terms
+(I)In general
+An exemption granted by the Administrator under this paragraph shall contain such terms and conditions as the Administrator may prescribe, but shall, at a minimum, include such terms and conditions as the Administrator determines necessary—
+
+(aa)to minimize the export of restricted mercury-added products; and
+(bb)to ensure that the conditions for granting the exemption will be fully met.
+(II)Duration
+An exemption under this paragraph shall not exceed 3 years in duration.
+
+(III)Quantity
+An exemption under this paragraph shall not exceed 5 metric tons of the mercury-added product.
+
+(iii)Violations
+The Administrator may, by order, suspend or void an exemption under this paragraph in the event of a violation of this subsection.
+
+.
+
+(b)Violations; petitions
+(1)Violations
+Section 15 of the Toxic Substances Control Act (15 U.S.C. 2614) is amended—
+
+(A)in paragraph (3), by striking or after the semicolon at the end;
+(B)in paragraph (4), by striking the period at the end and inserting ; or; and
+(C)by adding at the end the following:
+(5)violate any provision of section 12(c), including any rule issued under that section, the terms and conditions under section 12(c)(5)(C)(ii), or the submission of false information in connection with that section.
+.
+
+(2)Petitions
+Section 21 of the Toxic Substances Control Act (15 U.S.C. 2620) is amended—
+
+(A)in subsection (a), by inserting or to add to or remove from the list of mercury compounds prohibited from export under section 12(c)(3) before the period at the end; and
+(B)in subsection (b)—
+(i)in paragraph (1), by inserting or to add to or remove from the list of mercury compounds prohibited from export under section 12(c)(3) before the period at the end;
+(ii)in paragraph (3), in the first sentence, by striking or 8 and inserting 8, or 12; and
+(iii)in paragraph (4)(B)—
+(I)in the first sentence, by inserting or to add to the list of mercury compounds prohibited from export under section 12(c)(3) after or 6(b)(2); and
+(II)in clause (ii) of the second sentence—
+(aa)by inserting or add to or remove from the list under section 12(c)(3) after section 6(b)(2); and
+(bb)by striking the period at the end of the clause and inserting a semicolon.
+5.State programs limiting mercury use in products
+Section 18 of the Toxic Substances Control Act (15 U.S.C. 2617) is amended by adding at the end the following:
+
+(c)Mercury
+Nothing in this Act prohibits or affects the authority of a State or political subdivision to establish or continue in effect any requirements that are more restrictive than those established by paragraphs (5) through (11) of section 6(f).
+
+.
+
+6.Judicial review
+Section 19 of the Toxic Substances Control Act (15 U.S.C. 2618) is amended—
+
+(1)in subsection (a)(1), by inserting 6(f), after 6(e),; and
+(2)in subsection (c)(1)(B)(i), by striking or 6(e) and inserting 6(e), or 6(f).
+7.Elemental mercury storage at private facilities
+Section 5(g)(2) of the Mercury Export Ban Act of 2008 (Public Law 110–414; 122 Stat. 4347) is amended—
+
+(1)in subparagraph (B), by striking Elemental mercury and inserting the following:
+(B)Temporary storage
+Elemental mercury
+
+; and
+
+(2)by adding at the end the following:
+(C)Long-term storage
+Elemental mercury may be stored on a long-term basis at a facility for which a permit has been issued for that purpose under section 3005(c) of the Solid Waste Disposal Act (42 U.S.C. 6925(c)), and shall not be subject to the storage prohibition of section 3004(j) of the Solid Waste Disposal Act (42 U.S.C. 6924(j)), if—
+
+(i)the owner or operator of the permitted facility certifies in writing to the Administrator (and authorized State) that the owner or operator will not sell, or otherwise place into commerce at any future time, the mercury;
+(ii)the permit includes terms and conditions for elemental mercury storage that—
+(I)appropriately reflect procedures and standards developed pursuant to subsection (d); and
+(II)the Administrator (or authorized State) determines are necessary to protect human health and the environment; and
+(iii)the owner or operator of the permitted facility meets any qualifications for elemental mercury storage determined to be necessary by the Administrator (or the authorized State) to protect human health and the environment, including qualifications relating to—
+(I)training;
+(II)continuity of operation; and
+(III)financial responsibility (including financial responsibility for closure and corrective action).
+(D)Applicability
+Subparagraph (C) shall not apply to mercury with respect to which the owner or operator of the permitted facility fails to comply with a certification under that subparagraph.

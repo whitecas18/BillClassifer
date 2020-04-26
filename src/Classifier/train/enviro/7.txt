@@ -1,0 +1,871 @@
+Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Science, Space, and Technology, Agriculture, Natural Resources, Foreign Affairs, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+
+AN ACT
+
+To improve efforts to combat marine debris, and for other purposes.
+
+1.Short title; table of contents
+(a)Short title
+This Act may be cited as the Save Our Seas 2.0 Act.
+
+(b)Table of contents
+The table of contents of this Act is as follows:
+
+Sec. 1. Short title; table of contents.
+
+Sec. 2. Definitions.
+
+TITLE I—Combating Marine Debris
+
+Subtitle A—Marine Debris Foundation
+
+Sec. 111. Establishment and purposes of Foundation.
+
+Sec. 112. Board of Directors of the Foundation.
+
+Sec. 113. Rights and obligations of the Foundation.
+
+Sec. 114. Administrative services and support.
+
+Sec. 115. Volunteer status.
+
+Sec. 116. Report requirements; petition of attorney general for equitable relief.
+
+Sec. 117. United States release from liability.
+
+Sec. 118. Authorization of appropriations.
+
+Sec. 119. Termination of authority.
+
+Subtitle B—Genius Prize for Save Our Seas Innovations
+
+Sec. 121. Definitions.
+
+Sec. 122. Genius prize for Save Our Seas Innovations.
+
+Sec. 123. Agreement with the marine debris foundation.
+
+Sec. 124. Judges.
+
+Sec. 125. Report to Congress.
+
+Sec. 126. Authorization of appropriations.
+
+Sec. 127. Termination of authority.
+
+Subtitle C—Other measures relating to combating marine debris
+
+Sec. 131. Prioritization of marine debris in existing innovation and entrepreneurship programs.
+
+Sec. 132. Expansion of derelict vessel recycling.
+
+Sec. 133. Incentive for fishermen to collect and dispose of plastic found at sea.
+
+Sec. 134. Amendments to Marine Debris Program.
+
+Sec. 135. Marine debris on National Forest System land.
+
+Subtitle D—Studies and reports
+
+Sec. 141. Report on opportunities for innovative uses of plastic waste.
+
+Sec. 142. Report on microfiber pollution.
+
+Sec. 143. Study on United States plastic pollution data.
+
+Sec. 144. Study on mass balance methodologies to certify circular polymers.
+
+Sec. 145. Report on sources and impacts of derelict fishing gear.
+
+TITLE II—Enhanced Global Engagement to Combat Marine Debris
+
+Sec. 201. Statement of policy on international cooperation to combat marine debris.
+
+Sec. 202. Prioritization of efforts and assistance to combat marine debris and improve plastic waste management.
+
+Sec. 203. United States leadership in international fora.
+
+Sec. 204. Enhancing international outreach and partnership of United States agencies involved in marine debris activities.
+
+Sec. 205. Negotiation of new international agreements.
+
+Sec. 206. Consideration of marine debris in negotiating international agreements.
+
+TITLE III—Improving Domestic Infrastructure to Prevent Marine Debris
+
+Sec. 301. Strategy for improving post-consumer materials management and water management.
+
+Sec. 302. Sense of the Senate for issues to be included in strategy for post-consumer materials management and water management.
+
+Sec. 303. Grant programs.
+
+Sec. 304. Study on repurposing plastic waste in infrastructure.
+
+Sec. 305. Study on effects of microplastics in food supplies and sources of drinking water.
+
+Sec. 306. Report on eliminating barriers to increase the collection of recyclable materials.
+
+Sec. 307. Report on economic incentives to spur development of new end-use markets for recycled plastics.
+
+Sec. 308. Report on minimizing the creation of new plastic waste.
+
+2.Definitions
+In this Act:
+
+(1)Circular economy
+The term circular economy means an economy that uses a systems-focused approach and involves industrial processes and economic activities that—
+
+(A)are restorative or regenerative by design;
+(B)enable resources used in such processes and activities to maintain their highest values for as long as possible; and
+(C)aim for the elimination of waste through the superior design of materials, products, and systems (including business models).
+(2)EPA Administrator
+The term EPA Administrator means the Administrator of the Environmental Protection Agency.
+
+(3)Indian Tribe
+The term Indian Tribe has the meaning given the term Indian tribe in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304), without regard to capitalization.
+
+(4)Interagency Marine Debris Coordinating Committee
+The term Interagency Marine Debris Coordinating Committee means the Interagency Marine Debris Coordinating Committee established under section 5 of the Marine Debris Act (33 U.S.C. 1954).
+
+(5)Marine debris
+The term marine debris has the meaning given that term in section 7 of the Marine Debris Act (33 U.S.C. 1956).
+
+(6)Marine debris event
+The term marine debris event means an event or related events that affects or may imminently affect the United States involving—
+
+(A)marine debris caused by a natural event, including a tsunami, flood, landslide, hurricane, or other natural source;
+(B)distinct, nonrecurring marine debris, including derelict vessel groundings and container spills, that have immediate or long-term impacts on habitats with high ecological, economic, or human-use values; or
+(C)marine debris caused by an intentional or grossly negligent act or acts that causes substantial economic or environmental harm.
+(7)Non-Federal funds
+The term non-Federal funds means funds provided by—
+
+(A)a State;
+(B)an Indian Tribe;
+(C)a territory of the United States;
+(D)one or more units of local governments or Tribal organizations (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304));
+(E)a foreign government;
+(F)a private for-profit entity;
+(G)a nonprofit organization; or
+(H)a private individual.
+(8)Nonprofit organization
+The term nonprofit organization means an organization that is described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code.
+
+(9)Post-consumer materials management
+The term post-consumer materials management means the systems, operation, supervision, and long-term management of processes and equipment used for post-use material (including packaging, goods, products, and other materials), including—
+
+(A)collection;
+(B)transport;
+(C)safe disposal of waste that cannot be recovered, reused, recycled, repaired, or refurbished; and
+(D)systems and processes related to post-use materials that can be recovered, reused, recycled, repaired, or refurbished.
+(10)State
+The term State means—
+
+(A)a State;
+(B)an Indian Tribe;
+(C)the District of Columbia;
+(D)a territory or possession of the United States; or
+(E)any political subdivision of an entity described in subparagraphs (A) through (D).
+(11)Under Secretary
+The term Under Secretary means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+
+I
+Combating Marine Debris
+
+A
+Marine Debris Foundation
+
+111.Establishment and purposes of Foundation
+(a)Establishment
+There is established the Marine Debris Foundation (in this title referred to as the Foundation). The Foundation is a charitable and nonprofit organization and is not an agency or establishment of the United States.
+
+(b)Purposes
+The purposes of the Foundation are—
+
+(1)to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the National Oceanic and Atmospheric Administration under the Marine Debris Program established under section 3 of the Marine Debris Act (33 U.S.C. 1952), and other relevant programs and agencies;
+(2)to undertake and conduct such other activities as will further the efforts of the National Oceanic and Atmospheric Administration to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris on the economy of the United States, the marine environment, and navigation safety;
+(3)to participate with, and otherwise assist, State, local, and Tribal governments, foreign governments, entities, and individuals in undertaking and conducting activities to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris and its root causes on the economy of the United States, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety;
+(4)to administer the Genius Prize for Save Our Seas Innovation as described in title II; and
+(5)to support other Federal actions to reduce marine debris.
+112.Board of Directors of the Foundation
+(a)Establishment and membership
+(1)In general
+The Foundation shall have a governing Board of Directors (in this title referred to as the Board), which shall consist of the Under Secretary and 12 additional Directors appointed in accordance with subsection (b) from among individuals who are United States citizens.
+
+(2)Representation of diverse points of view
+To the maximum extent practicable, the membership of the Board shall represent diverse points of view relating to the assessment, prevention, reduction, and removal of marine debris.
+
+(3)Not Federal employees
+Appointment as a Director of the Foundation shall not constitute employment by, or the holding of an office of, the United States for the purpose of any Federal law.
+
+(b)Appointment and terms
+(1)Appointment
+Subject to paragraph (2), after consulting with the EPA Administrator, the Director of the United States Fish and Wildlife Service, the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, and the Administrator of the United States Agency for International Development, and considering the recommendations submitted by the Board, the Under Secretary shall appoint 12 Directors who meet the criteria established by subsection (a), of whom—
+
+(A)at least 4 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris, which may include an individual with expertise in post-consumer materials management or a circular economy;
+(B)at least 2 shall be educated or experienced in the assessment, prevention, reduction, or removal of marine debris outside the United States;
+(C)at least 2 shall be educated or experienced in ocean and coastal resource conservation science or policy; and
+(D)at least 2 shall be educated or experienced in international trade or foreign policy.
+(2)Terms
+(A)In general
+Subject to subparagraph (B), each Director (other than the Under Secretary) shall be appointed for a term of 6 years.
+
+(B)Initial appointments to new member positions
+Of the Directors appointed by the Under Secretary under paragraph (1), the Secretary shall appoint, not later than 180 days after the date of the enactment of this Act—
+
+(i)4 Directors for a term of 6 years;
+(ii)4 Directors for a term of 4 years; and
+(iii)4 Directors for a term of 2 years.
+(3)Vacancies
+(A)In general
+The Under Secretary shall fill a vacancy on the Board.
+
+(B)Term of appointments to fill unexpired terms
+An individual appointed to fill a vacancy that occurs before the expiration of the term of a Director shall be appointed for the remainder of the term.
+
+(4)Reappointment
+An individual (other than an individual described in paragraph (1)) shall not serve more than 2 consecutive terms as a Director, excluding any term of less than 6 years.
+
+(5)Request for removal
+The executive committee of the Board may submit to the Under Secretary a letter describing the nonperformance of a Director and requesting the removal of the Director from the Board.
+
+(6)Consultation before removal
+Before removing any Director from the Board, the Under Secretary shall consult with the Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, the Director of the United States Fish and Wildlife Service, and the EPA Administrator.
+
+(c)Chairman
+The Chairman shall be elected by the Board from its members for a 2-year term.
+
+(d)Quorum
+A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
+
+(e)Meetings
+The Board shall meet at the call of the Chairman at least once a year. If a Director misses 3 consecutive regularly scheduled meetings, that individual may be removed from the Board and that vacancy filled in accordance with subsection (b).
+
+(f)Reimbursement of expenses
+Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+
+(g)General powers
+(1)In general
+The Board may complete the organization of the Foundation by—
+
+(A)appointing officers and employees;
+(B)adopting a constitution and bylaws consistent with the purposes of the Foundation and the provisions of this title; and
+(C)undertaking of other such acts as may be necessary to carry out the provisions of this title.
+(2)Limitations on appointment
+The following limitations apply with respect to the appointment of officers and employees of the Foundation:
+
+(A)Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+(B)The first officer or employee appointed by the Board shall be the Secretary of the Board who—
+(i)shall serve, at the direction of the Board, as its chief operating officer; and
+(ii)shall be knowledgeable and experienced in matters relating to the assessment, prevention, reduction, and removal of marine debris.
+113.Rights and obligations of the Foundation
+(a)In general
+The Foundation—
+
+(1)shall have perpetual succession;
+(2)may conduct business throughout the several States, territories, and possessions of the United States and abroad; and
+(3)shall at all times maintain a designated agent authorized to accept service of process for the Foundation.
+(b)Service of process
+The serving of notice to, or service of process upon, the agent required under subsection (a)(3), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
+
+(c)Powers
+(1)In general
+To carry out its purposes under section 111, the Foundation shall have, in addition to the powers otherwise given it under this title, the usual powers of a corporation acting as a trustee in the District of Columbia, including the power—
+
+(A)to accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property or any income therefrom or other interest therein;
+(B)to acquire by purchase or exchange any real or personal property or interest therein;
+(C)to invest any funds provided to the Foundation by the Federal Government in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States;
+(D)to deposit any funds provided to the Foundation by the Federal Government into accounts that are insured by an agency or instrumentality of the United States;
+(E)to make use of any interest or investment income that accrues as a consequence of actions taken under subparagraph (C) or (D) to carry out the purposes of the Foundation;
+(F)to use Federal funds to make payments under cooperative agreements to provide substantial long-term benefits for the assessment, prevention, reduction, and removal of marine debris;
+(G)unless otherwise required by the instrument of transfer, to sell, donate, lease, invest, reinvest, retain or otherwise dispose of any property or income therefrom;
+(H)to borrow money and issue bonds, debentures, or other debt instruments;
+(I)to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
+(J)to enter into contracts or other arrangements with, or provide financial assistance to, public agencies and private organizations and persons and to make such payments as may be necessary to carry out its functions; and
+(K)to do any and all acts necessary and proper to carry out the purposes of the Foundation.
+(2)Non-Federal contributions to the Fund
+A gift, devise, or bequest may be accepted by the Foundation without regard to whether the gift, devise, or bequest is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Foundation.
+
+(d)Notice to Members of Congress
+The Foundation may not make a grant of Federal funds in an amount greater than $100,000 unless, by not later than 15 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
+
+(e)Coordination of international efforts
+Any efforts of the Foundation carried out in a foreign country, and any grants provided to an individual or entity in a foreign country, shall be made only with the concurrence of the Secretary of State, in consultation, as appropriate, with the Administrator of the United States Agency for International Development.
+
+(f)Consultation with NOAA
+The Foundation shall consult with the Under Secretary during the planning of any restoration or remediation action using funds resulting from judgments or settlements relating to the damage to trust resources of the National Oceanic and Atmospheric Administration.
+
+114.Administrative services and support
+(a)Provision of services
+The Under Secretary may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses, not to exceed the current Federal Government per diem rates, for a period of up to 5 years beginning on the date of the enactment of this Act.
+
+(b)Reimbursement
+The Under Secretary shall require reimbursement from the Foundation for any administrative service provided under subsection (a). The Under Secretary shall deposit any reimbursement received under this subsection into the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services.
+
+115.Volunteer status
+The Secretary of Commerce may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Department of Commerce, as volunteers in the performance of the functions authorized in this title.
+
+116.Report requirements; petition of attorney general for equitable relief
+(a)Report
+The Foundation shall, as soon as practicable after the end of each fiscal year, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources and the Committee on Energy and Commerce of the House of Representatives a report—
+
+(1)describing the proceedings and activities of the Foundation during that fiscal year, including a full and complete statement of its receipts, expenditures, and investments; and
+(2)including a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.
+(b)Relief with respect to certain foundation acts or failure To act
+If the Foundation—
+
+(1)engages in, or threatens to engage in, any act, practice, or policy that is inconsistent with its purposes set forth in section 111(b), or
+(2)refuses, fails, or neglects to discharge its obligations under this title, or threatens to do so,
+the Attorney General may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
+117.United States release from liability
+The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligation of the Foundation.
+
+118.Authorization of appropriations
+(a)Authorization of appropriations
+(1)In general
+The Secretary of Commerce shall carry out this title using existing amounts that are appropriated or otherwise made available to the Department of Commerce.
+
+(2)Use of appropriated funds
+Subject to paragraph (3), amounts made available under paragraph (1) shall be provided to the Foundation to match contributions (whether in currency, services, or property) made to the Foundation, or to a recipient of a grant provided by the Foundation, by private persons and State and local government agencies.
+
+(3)Prohibition on use for administrative expenses
+(A)In general
+Except as provided in subparagraph (B), no Federal funds made available under paragraph (1) may be used by the Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses.
+
+(B)Exception
+The Secretary may allow the use of Federal funds made available under paragraph (1) to pay for salaries during the 18-month period beginning on the date of the enactment of this Act.
+
+(b)Additional authorization
+(1)In general
+In addition to the amounts made available under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the assessment, prevention, reduction, and removal of marine debris in accordance with the requirements of this title.
+
+(2)Use of funds accepted from Federal agencies
+Federal funds provided to the Foundation under paragraph (1) shall be used by the Foundation for matching, in whole or in part, contributions (whether in currency, services, or property) made to the Foundation by private persons and State and local government agencies.
+
+(c)Prohibition on use of grant amounts for litigation and lobbying expenses
+Amounts provided as a grant by the Foundation shall not be used for—
+
+(1)any expense related to litigation consistent with Federal-wide cost principles; or
+(2)any activity the purpose of which is to influence legislation pending before Congress consistent with Federal-wide cost principles.
+119.Termination of authority
+The authority of the Foundation under this subtitle shall terminate on the date that is 10 years after the establishment of the Foundation, unless the Foundation is reauthorized by an Act of Congress.
+
+B
+Genius Prize for Save Our Seas Innovations
+
+121.Definitions
+In this subtitle:
+
+(1)Prize competition
+The term prize competition means the competition for the award of the Genius Prize for Save Our Seas Innovations established under section 122.
+
+(2)Secretary
+The term Secretary means the Secretary of Commerce.
+
+122.Genius prize for Save Our Seas Innovations
+(a)In general
+(1)In General
+Not later than 1 year after the date of the enactment of this Act, the Secretary shall establish under section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) a prize competition—
+
+(A)to encourage technological innovation with the potential to reduce plastic waste, and associated and potential pollution, and thereby prevent marine debris; and
+(B)to award 1 or more prizes biennially for projects that advance human understanding and innovation in removing and preventing plastic waste, in one of the categories described in paragraph (2).
+(2)Categories for projects
+The categories for projects are:
+
+(A)Advancements in materials used in packaging and other products that, if such products enter the coastal or ocean environment, will fully degrade without harming the environment, wildlife, or human health.
+(B)Innovations in production and packaging design that reduce the use of raw materials, increase recycled content, encourage reusability and recyclability, and promote a circular economy.
+(C)Improvements in marine debris detection, monitoring, and cleanup technologies and processes.
+(D)Improvements or improved strategies to increase solid waste collection, processing, sorting, recycling, or reuse.
+(E)New designs or strategies to reduce overall packaging needs and promote reuse.
+(b)Designation
+The prize competition established under subsection (a) shall be known as the Genius Prize for Save Our Seas Innovations.
+
+(c)Prioritization
+In selecting awards for the prize competition, priority shall be given to projects that—
+
+(1)have a strategy, submitted with the application or proposal, to move the new technology, process, design, material, or other product supported by the prize to market-scale deployment;
+(2)support the concept of a circular economy; and
+(3)promote development of materials that—
+(A)can fully degrade in the ocean without harming the environment, wildlife, or human health; and
+(B)are to be used in fishing gear or other maritime products that have an increased likelihood of entering the coastal or ocean environment as unintentional waste.
+123.Agreement with the marine debris foundation
+(a)In general
+The Secretary shall offer to enter into an agreement, which may include a grant or cooperative agreement, under which the Marine Debris Foundation established under title I shall administer the prize competition.
+
+(b)Requirements
+An agreement entered into under subsection (a) shall comply with the following requirements:
+
+(1)Duties
+The Marine Debris Foundation shall—
+
+(A)advertise the prize competition;
+(B)solicit prize competition participants;
+(C)administer funds relating to the prize competition;
+(D)receive Federal and non-Federal funds—
+(i)to administer the prize competition; and
+(ii)to award a cash prize;
+(E)carry out activities to generate contributions of non-Federal funds to offset, in whole or in part—
+(i)the administrative costs of the prize competition; and
+(ii)the costs of a cash prize;
+(F)in the design and award of the prize, consult, as appropriate with experts from—
+(i)Federal agencies with jurisdiction over the prevention of marine debris or the promotion of innovative materials;
+(ii)State agencies with jurisdiction over the prevention of marine debris or the promotion of innovative materials;
+(iii)State, regional, or local conservation or post-consumer materials management organizations, the mission of which relates to the prevention of marine debris or the promotion of innovative materials;
+(iv)conservation groups, technology companies, research institutions, scientists (including those with expertise in marine environments) institutions of higher education, industry, or individual stakeholders with an interest in the prevention of marine debris or the promotion of innovative materials;
+(v)experts in the area of standards development regarding the degradation, breakdown, or recycling of polymers; and
+(vi)other relevant experts of the Board’s choosing;
+(G)in consultation with, and subject to final approval by, the Secretary, develop criteria for the selection of prize competition winners;
+(H)provide advice and consultation to the Secretary on the selection of judges under section 124 based on criteria developed in consultation with, and subject to the final approval of, the Secretary;
+(I)announce 1 or more annual winners of the prize competition;
+(J)subject to paragraph (2), award 1 or more cash prizes biennially of not less than $100,000; and
+(K)protect against unauthorized use or disclosure by the Marine Debris Foundation of any trade secret or confidential business information of a prize competition participant.
+(2)Additional cash prizes
+The Marine Debris Foundation may award more than 1 cash prize in a year—
+
+(A)if the initial cash prize referred to in paragraph (1)(I) and any additional cash prizes are awarded using only non-Federal funds; and
+(B)consisting of an amount determined by the Under Secretary after the Secretary is notified by the Marine Debris Foundation that non-Federal funds are available for an additional cash prize.
+(3)Solicitation of funds
+The Marine Debris Foundation—
+
+(A)may request and accept Federal funds and non-Federal funds for a cash prize or administration of the prize competition;
+(B)may accept a contribution for a cash prize in exchange for the right to name the prize; and
+(C)shall not give special consideration to any Federal agency or non-Federal entity in exchange for a donation for a cash prize awarded under this section.
+124.Judges
+(a)Appointment
+The Secretary shall appoint not fewer than 3 judges who shall, except as provided in subsection (b), select the 1 or more annual winners of the prize competition.
+
+(b)Determination by the secretary
+The judges appointed under subsection (a) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+
+125.Report to Congress
+Not later than 60 days after the date on which a cash prize is awarded under this title, the Secretary shall post on a publicly available website a report on the prize competition that includes—
+
+(1)a statement by the Committee that describes the activities carried out by the Committee relating to the duties described in section 123;
+(2)if the Secretary has entered into an agreement under section 123, a statement by the Marine Debris Foundation that describes the activities carried out by the Marine Debris Foundation relating to the duties described in section 123; and
+(3)a statement by 1 or more of the judges appointed under section 124 that explains the basis on which the winner of the cash prize was selected.
+126.Authorization of appropriations
+The Secretary of Commerce shall carry out this title using existing amounts that are appropriated or otherwise made available to the Department of Commerce.
+
+127.Termination of authority
+The prize program will terminate after 5 prize competition cycles have been completed.
+
+C
+Other measures relating to combating marine debris
+
+131.Prioritization of marine debris in existing innovation and entrepreneurship programs
+The Secretary of Commerce, the Secretary of Energy, the EPA Administrator, and the heads of other relevant Federal agencies, shall prioritize efforts to combat marine debris in innovation and entrepreneurship programs established before the date of the enactment of this Act, including by using such programs to increase innovation in and the effectiveness of post-consumer materials management, monitoring, detection, and data-sharing related to the prevalence and location of marine debris, demand for recycled content, alternative uses for plastic waste, product design, reduction of disposable plastic consumer products and packaging, ocean biodegradable materials development, waste prevention, and cleanup.
+
+132.Expansion of derelict vessel recycling
+Not later than 1 year after the date of the enactment of this Act, the Under Secretary and the EPA Administrator shall jointly conduct a study to determine the feasibility of developing a nationwide derelict vessel recycling program—
+
+(1)using as a model the fiberglass boat recycling program from the pilot project in Rhode Island led by Rhode Island Sea Grant and its partners; and
+(2)including, if possible, recycling of vessels made from materials other than fiberglass.
+133.Incentive for fishermen to collect and dispose of plastic found at sea
+(a)In general
+The Under Secretary shall establish a pilot program to assess the feasibility and advisability of providing incentives, such as grants, to fishermen based in the United States who incidentally capture marine debris while at sea—
+
+(1)to track or keep the debris on board; and
+(2)to dispose of the debris properly on land.
+(b)Support for collection and removal of derelict gear
+The Under Secretary shall encourage United States efforts, such as the Fishing for Energy net disposal program, that support—
+
+(1)collection and removal of derelict fishing gear and other fishing waste;
+(2)disposal or recycling of such gear and waste; and
+(3)prevention of the loss of such gear.
+134.Amendments to Marine Debris Program
+(a)Authorization of appropriations
+Section 9(a) of the Marine Debris Act (33 U.S.C. 1958(a)) is amended by—
+
+(1)striking $10,000,000 and inserting $15,000,000; and
+(2)striking 5 percent and inserting 7 percent.
+(b)Enhancement of purpose
+Section 2 of the Marine Debris Act (33 U.S.C. 1951) is amended by striking marine environment, and inserting marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries),.
+
+(c)Technical corrections
+Section 3(d)(2) of the Marine Debris Act (33 U.S.C. 1952(d)(2)) is amended—
+
+(1)in subparagraph (B), by striking the matching requirement under subparagraph (A) and inserting a matching requirement under subparagraph (A) or (C); and
+(2)in subparagraph (C), in the matter preceding clause (i), by striking Notwithstanding subparagraph (A) and inserting Notwithstanding subparagraph (A) and except as provided in subparagraph (B).
+135.Marine debris on National Forest System land
+(a)Special-use authorization
+The Secretary of Agriculture (referred to in this section as the Secretary) shall not require a volunteer organization to obtain a special-use authorization for the removal of any marine debris being stored on National Forest System land.
+
+(b)Temporary storage
+Marine debris may be stored on National Forest System land in a location determined by the Secretary for a period of not more than to 90 days, which may be extended in 90-day increments with approval by the relevant U.S. Forest Service District Ranger.
+
+(c)Requirements
+Except as otherwise provided in this section, any activities related to the removal of marine debris from National Forest System land shall be conducted in a manner consistent with applicable law and regulations and subject to such reasonable terms and conditions as the Secretary may require.
+
+D
+Studies and reports
+
+141.Report on opportunities for innovative uses of plastic waste
+Not later than 2 years after the date of enactment of this Act, the Interagency Marine Debris Coordinating Committee shall submit to Congress a report on innovative uses for plastic waste in consumer products.
+
+142.Report on microfiber pollution
+Not later than 2 years after the date of the enactment of this Act, the Interagency Marine Debris Coordinating Committee shall submit to Congress a report on microfiber pollution that includes—
+
+(1)a definition for microfiber;
+(2)an assessment of the sources, prevalence, and causes of microfiber pollution;
+(3)a recommendation for a standardized methodology to measure and estimate the prevalence of microfiber pollution;
+(4)recommendations for reducing microfiber pollution; and
+(5)a plan for how Federal agencies, in partnership with other stakeholders, can lead on opportunities to reduce microfiber pollution during the 5-year period beginning on such date of enactment.
+143.Study on United States plastic pollution data
+(a)In general
+The Under Secretary, in consultation with the EPA Administrator and the Secretary of the Interior, shall seek to enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine under which the National Academies will undertake a multifaceted study that includes the following:
+
+(1)An evaluation of United States contributions to global ocean plastic waste, including types, sources, and geographic variations.
+(2)An assessment of the prevalence of marine debris and mismanaged plastic waste in saltwater and freshwater United States navigable waterways and tributaries.
+(3)An examination of the import and export of plastic waste to and from the United States, including the destinations of the exported plastic waste and the waste management infrastructure and environmental conditions of these locations.
+(4)Potential means to reduce United States contributions to global ocean plastic waste.
+(b)Report
+Not later than 18 months after the date of the enactment of this Act, the Under Secretary shall submit to Congress a report on the study conducted under subsection (a) that includes—
+
+(1)the findings of the National Academies;
+(2)recommendations on knowledge gaps that warrant further scientific inquiry; and
+(3)recommendations on the potential value of a national marine debris tracking and monitoring system and how such a system might be designed and implemented.
+144.Study on mass balance methodologies to certify circular polymers
+(a)In general
+The National Institute of Standards and Technology shall conduct a study of available mass balance methodologies that are or could be readily standardized to certify circular polymers.
+
+(b)Report
+Not later than 1 year after the date of enactment of this Act, the Institute shall submit to Congress a report on the study conducted under subsection (a) that includes—
+
+(1)an identification and assessment of existing mass balance methodologies, standards, and certification systems that are or may be applicable to supply chain sustainability of polymers, considering the full life cycle of the polymer, and including an examination of—
+(A)the International Sustainability and Carbon Certification; and
+(B)the Roundtable on Sustainable Biomaterials; and
+(2)an assessment of any legal or regulatory barriers to developing a standard and certification system for circular polymers.
+(c)Definitions
+In this section:
+
+(1)Circular polymers
+The term circular polymers means polymers that can be reused multiple times or converted into a new, higher-quality product.
+
+(2)Mass balance methodology
+The term mass balance methodology means the method of chain of custody accounting designed to track the exact total amount of certain content in products or materials through the production system and to ensure an appropriate allocation of this content in the finished goods based on auditable bookkeeping.
+
+145.Report on sources and impacts of derelict fishing gear
+Not later than 2 years after the date of the enactment of this Act, the Under Secretary shall submit to Congress a report that includes—
+
+(1)an analysis of the scale of fishing gear losses by domestic and foreign fisheries, including—
+(A)how the amount of gear lost varies among—
+(i)domestic and foreign fisheries;
+(ii)types of fishing gear; and
+(iii)methods of fishing;
+(B)how lost fishing gear is transported by ocean currents; and
+(C)common reasons fishing gear is lost;
+(2)an evaluation of the ecological, human health, and maritime safety impacts of derelict fishing gear, and how those impacts vary across—
+(A)types of fishing gear;
+(B)materials used to construct fishing gear; and
+(C)geographic location;
+(3)recommendations on management measures—
+(A)to prevent fishing gear losses; and
+(B)to reduce the impacts of lost fishing gear;
+(4)an assessment of the cost of implementing such management measures; and
+(5)an assessment of the impact of fishing gear loss attributable to foreign countries.
+II
+Enhanced Global Engagement to Combat Marine Debris
+
+201.Statement of policy on international cooperation to combat marine debris
+It is the policy of the United States to partner, consult, and coordinate with foreign governments (at the national and subnational levels), civil society, international organizations, international financial institutions, subnational coastal communities, commercial and recreational fishing industry leaders, and the private sector, in a concerted effort—
+
+(1)to increase knowledge and raise awareness about—
+(A)the linkages between the sources of plastic waste, mismanaged waste and post-consumer materials, and marine debris; and
+(B)the upstream and downstream causes and effects of plastic waste, mismanaged waste and post-consumer materials, and marine debris on marine environments, marine wildlife, human health, and economic development;
+(2)to support—
+(A)strengthening systems for reducing the generation of plastic waste and recovering, managing, reusing, and recycling plastic waste, marine debris, and microfiber pollution in the world’s oceans, emphasizing upstream post-consumer materials management solutions—
+(i)to decrease plastic waste at its source; and
+(ii)to prevent leakage of plastic waste into the environment;
+(B)advancing the utilization and availability of safe and affordable reusable alternatives to disposable plastic products in commerce, to the extent practicable, and with consideration for the potential impacts of such alternatives, and other efforts to prevent marine debris;
+(C)deployment of and access to advanced technologies to capture value from post-consumer materials and municipal solid waste streams through mechanical and other recycling systems;
+(D)access to information on best practices in post-consumer materials management, options for post-consumer materials management systems financing, and options for participating in public-private partnerships; and
+(E)implementation of management measures to reduce derelict fishing gear, the loss of fishing gear, and other sources of pollution generated from marine activities and to increase proper disposal and recycling of fishing gear; and
+(3)to work cooperatively with international partners—
+(A)on establishing—
+(i)measurable targets for reducing marine debris, lost fishing gear, and plastic waste from all sources; and
+(ii)action plans to achieve those targets with a mechanism to provide regular reporting;
+(B)to promote consumer education, awareness, and outreach to prevent marine debris;
+(C)to reduce marine debris by improving advance planning for marine debris events and responses to such events; and
+(D)to share best practices in post-consumer materials management systems to prevent the entry of plastic waste into the environment.
+202.Prioritization of efforts and assistance to combat marine debris and improve plastic waste management
+(a)In general
+The Secretary of State shall, in coordination with the Administrator of the United States Agency for International Development, as appropriate, and the officials specified in subsection (b)—
+
+(1)lead and coordinate efforts to implement the policy described in section 201; and
+(2)develop strategies and implement programs that prioritize engagement and cooperation with foreign governments, subnational and local stakeholders, and the private sector to expedite efforts and assistance in foreign countries—
+(A)to partner with, encourage, advise and facilitate national and subnational governments on the development and execution, where practicable, of national projects, programs and initiatives to—
+(i)improve the capacity, security, and standards of operations of post-consumer materials management systems;
+(ii)monitor and track how well post-consumer materials management systems are functioning nationwide, based on uniform and transparent standards developed in cooperation with municipal, industrial, and civil society stakeholders;
+(iii)identify the operational challenges of post-consumer materials management systems and develop policy and programmatic solutions;
+(iv)end intentional or unintentional incentives for municipalities, industries, and individuals to improperly dispose of plastic waste; and
+(v)conduct outreach campaigns to raise public awareness of the importance of proper waste disposal and the reduction of plastic waste;
+(B)to facilitate the involvement of municipalities and industries in improving solid waste reduction, collection, disposal, and reuse and recycling projects, programs, and initiatives;
+(C)to partner with and provide technical assistance to investors, and national and local institutions, including private sector actors, to develop new business opportunities and solutions to specifically reduce plastic waste and expand solid waste and post-consumer materials management best practices in foreign countries by—
+(i)maximizing the number of people and businesses, in both rural and urban communities, receiving reliable solid waste and post-consumer materials management services;
+(ii)improving and expanding the capacity of foreign industries to responsibly employ post-consumer materials management practices;
+(iii)improving and expanding the capacity and transparency of tracking mechanisms for marine debris to reduce the impacts on the marine environment;
+(iv)eliminating incentives that undermine responsible post-consumer materials management practices and lead to improper waste disposal practices and leakage;
+(v)building the capacity of countries—
+(I)to reduce, monitor, regulate, and manage waste, post-consumer materials and plastic waste, and pollution appropriately and transparently, including imports of plastic waste from the United States and other countries;
+(II)to encourage private investment in post-consumer materials management and reduction; and
+(III)to encourage private investment, grow opportunities, and develop markets for recyclable, reusable, and repurposed plastic waste and post-consumer materials, and products with high levels of recycled plastic content, at both national and local levels; and
+(vi)promoting safe and affordable reusable alternatives to disposable plastic products, to the extent practicable; and
+(D)to research, identify, and facilitate opportunities to promote collection and proper disposal of damaged or derelict fishing gear.
+(b)Officials specified
+The officials specified in this subsection are the following:
+
+(1)The United States Trade Representative.
+(2)The Under Secretary.
+(3)The EPA Administrator.
+(4)The Director of the Trade and Development Agency.
+(5)The President and the Board of Directors of the Overseas Private Investment Corporation or the Chief Executive Officer and the Board of Directors of the United States International Development Finance Corporation, as appropriate.
+(6)The Chief Executive Officer and the Board of Directors of the Millennium Challenge Corporation.
+(7)The heads of such other agencies as the Secretary of State considers appropriate.
+(c)Prioritization
+In carrying out subsection (a), the officials specified in subsection (b) shall prioritize assistance to countries with, and regional organizations in regions with—
+
+(1)rapidly developing economies; and
+(2)rivers and coastal areas that are the most severe sources of marine debris, as identified by the best available science.
+(d)Effectiveness measurement
+In prioritizing and expediting efforts and assistance under this section, the officials specified in subsection (b) shall use clear, accountable, and metric-based targets to measure the effectiveness of guarantees and assistance in achieving the policy described in section 201.
+
+(e)Rule of construction
+Nothing in this section may be construed to authorize the modification of or the imposition of limits on the portfolios of any agency or institution led by an official specified in subsection (b).
+
+203.United States leadership in international fora
+In implementing the policy described in section 201, the President shall direct the United States representatives to appropriate international bodies and conferences (including the United Nations Environment Programme, the Association of Southeast Asian Nations, the Asia Pacific Economic Cooperation, the Group of 7, the Group of 20, the Organization for Economic Co-Operation and Development (OECD), and the Our Ocean Conference) to use the voice, vote, and influence of the United States, consistent with the broad foreign policy goals of the United States, to advocate that each such body—
+
+(1)commit to significantly increasing efforts to promote investment in well-designed post-consumer materials management and plastic waste elimination and mitigation projects and services that increase access to safe post-consumer materials management and mitigation services, in partnership with the private sector and consistent with the constraints of other countries;
+(2)address the post-consumer materials management needs of individuals and communities where access to municipal post-consumer materials management services is historically impractical or cost-prohibitive;
+(3)enhance coordination with the private sector—
+(A)to increase access to solid waste and post-consumer materials management services;
+(B)to utilize safe and affordable reusable alternatives to disposable plastic products, to the extent practicable;
+(C)to encourage and incentivize the use of recycled content; and
+(D)to grow economic opportunities and develop markets for recyclable, reusable, and repurposed plastic waste materials and other efforts that support the circular economy;
+(4)provide technical assistance to foreign regulatory authorities and governments to remove unnecessary barriers to investment in otherwise commercially-viable projects related to—
+(A)post-consumer materials management;
+(B)the use of safe and affordable reusable alternatives to disposable plastic products; or
+(C)beneficial reuse of solid waste, plastic waste, post-consumer materials, plastic products, and refuse;
+(5)use clear, accountable, and metric-based targets to measure the effectiveness of such projects; and
+(6)engage international partners in an existing multilateral forum (or, if necessary, establish through an international agreement a new multilateral forum) to improve global cooperation on—
+(A)creating tangible metrics for evaluating efforts to reduce plastic waste and marine debris;
+(B)developing and implementing best practices at the national and subnational levels of foreign countries, particularly countries with little to no solid waste or post-consumer materials management systems, facilities, or policies in place for—
+(i)collecting, disposing, recycling, and reusing plastic waste and post-consumer materials, including building capacity for improving post-consumer materials management; and
+(ii)integrating alternatives to disposable plastic products, to the extent practicable;
+(C)encouraging the development of standards and practices, and increasing recycled content percentage requirements for disposable plastic products;
+(D)integrating tracking and monitoring systems into post-consumer materials management systems;
+(E)fostering research to improve scientific understanding of—
+(i)how microfibers and microplastics may affect marine ecosystems, human health and safety, and maritime activities;
+(ii)changes in the amount and regional concentrations of plastic waste in the ocean, based on scientific modeling and forecasting;
+(iii)the role rivers, streams, and other inland waterways play in serving as conduits for mismanaged waste traveling from land to the ocean;
+(iv)effective means to eliminate present and future leakages of plastic waste into the environment; and
+(v)other related areas of research the United States representatives deem necessary;
+(F)encouraging the World Bank and other international finance organizations to prioritize efforts to reduce plastic waste and combat marine debris;
+(G)collaborating on technological advances in post-consumer materials management and recycled plastics;
+(H)growing economic opportunities and developing markets for recyclable, reusable, and repurposed plastic waste and post-consumer materials and other efforts that support the circular economy; and
+(I)advising foreign countries, at both the national and subnational levels, on the development and execution of regulatory policies, services, including recycling and reuse of plastic, and laws pertaining to reducing the creation and the collection and safe management of—
+(i)solid waste;
+(ii)post-consumer materials;
+(iii)plastic waste; and
+(iv)marine debris.
+204.Enhancing international outreach and partnership of United States agencies involved in marine debris activities
+(a)Findings
+Congress recognizes the success of the marine debris program of the National Oceanic and Atmospheric Administration and the Trash-Free Waters program of the Environmental Protection Agency.
+
+(b)Authorization of efforts To build foreign partnerships
+The Under Secretary and the EPA Administrator shall work with the Secretary of State and the Administrator of the United States Agency for International Development to build partnerships, as appropriate, with the governments of foreign countries and to support international efforts to combat marine debris.
+
+205.Negotiation of new international agreements
+Not later than 1 year after the date of the enactment of this Act, the Secretary of State shall submit to Congress a report—
+
+(1)assessing the potential for negotiating new international agreements or creating a new international forum to reduce land-based sources of marine debris and derelict fishing gear, consistent with section 203;
+(2)describing the provisions that could be included in such agreements; and
+(3)assessing potential parties to such agreements.
+206.Consideration of marine debris in negotiating international agreements
+In negotiating any relevant international agreement with any country or countries after the date of the enactment of this Act, the President shall, as appropriate—
+
+(1)consider the impact of land-based sources of plastic waste and other solid waste from that country on the marine and aquatic environment; and
+(2)ensure that the agreement strengthens efforts to eliminate land-based sources of plastic waste and other solid waste from that country that impact the marine and aquatic environment.
+III
+Improving Domestic Infrastructure to Prevent Marine Debris
+
+301.Strategy for improving post-consumer materials management and water management
+(a)In general
+Not later than 1 year after the date of enactment of this Act, the EPA Administrator shall, in consultation with stakeholders, develop a strategy to improve post-consumer materials management and infrastructure for the purpose of reducing plastic waste and other post-consumer materials in waterways and oceans.
+
+(b)Release
+On development of the strategy under subsection (a), the EPA Administrator shall—
+
+(1)distribute the strategy to States; and
+(2)make the strategy publicly available for use by—
+(A)for-profit private entities involved in post-consumer materials management; and
+(B)other nongovernmental entities.
+302.Sense of the Senate for issues to be included in strategy for post-consumer materials management and water management
+It is the sense of the Senate that the strategy under section 301 should address, for the purpose of reducing plastic waste and other post-consumer materials in waterways and oceans—
+
+(1)the harmonization of post-consumer materials management protocols, including—
+(A)an evaluation of waste streams to determine which waste streams are most likely to become marine debris; and
+(B)a determination of how to reduce the generation of products that contribute to those waste streams;
+(2)best practices for the collection of post-consumer recyclables;
+(3)improved quality and sorting of post-consumer recyclable materials through opportunities such as—
+(A)education and awareness programs;
+(B)improved infrastructure, including new equipment and innovative technologies for processing of recyclable materials;
+(C)enhanced markets for recycled material; and
+(D)standardized measurements;
+(4)increasing capacity, where practicable, for more types of plastic (including plastic films) and other materials to be reduced, collected, processed, and recycled or repurposed into usable materials or products;
+(5)the development of new strategies and programs that prioritize engagement and cooperation with States and the private sector to expedite efforts and assistance for States to partner with, encourage, advise, and facilitate the development and execution, where practicable, of projects, programs, and initiatives—
+(A)to improve operations for post-consumer materials management and reduce the generation of plastic waste;
+(B)to monitor how well post-consumer materials management entities are functioning;
+(C)
+(i)to identify the operational challenges of post-consumer materials management; and
+(ii)to develop policy and programmatic solutions to those challenges; and
+(D)to end intentional and unintentional incentives to improperly dispose of post-consumer materials;
+(6)strengthening markets for products with high levels of recycled plastic content; and
+(7)the consideration of complementary activities, such as—
+(A)reducing waste upstream and at the source of the waste, including anti-litter initiatives;
+(B)developing effective post-consumer materials management provisions in stormwater management plans;
+(C)capturing post-consumer materials at stormwater inlets, at stormwater outfalls, or in bodies of water;
+(D)providing education and outreach relating to post-consumer materials movement and reduction;
+(E)monitoring or modeling post-consumer material flows and the reduction of post-consumer materials resulting from the implementation of best management practices; and
+(F)incentives for manufacturers to design packaging and consumer goods that can more easily be reused, recycled, repurposed, or otherwise removed from the waste stream after their initial use.
+303.Grant programs
+(a)Post-Consumer Materials Management Infrastructure Grant Program
+(1)In general
+The EPA Administrator may provide grants to States, as defined in section 2, to implement the strategy developed under section 301(a) and—
+
+(A)to support improvements to local post-consumer materials management, including municipal recycling programs;
+(B)to assist local waste management authorities in making improvements to local waste management systems;
+(C)to deploy waste interceptor technologies, such as trash wheels and litter traps, to manage the collection and cleanup of aggregated waste from waterways; and
+(D)for such other purposes as the EPA Administrator determines to be appropriate.
+(2)Applications
+To be eligible to receive a grant under paragraph (1), the applicant State shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require.
+
+(3)Contents of applications
+In developing application requirements, the EPA Administrator shall consider requesting that a State applicant provide—
+
+(A)a description of—
+(i)the project or projects to be carried out by entities receiving the grant; and
+(ii)how the project or projects would result in the generation of less plastic waste;
+(B)a description of how the funds will support disadvantaged communities; and
+(C)an explanation of any limitations, such as flow control measures, that restrict access to reusable or recyclable materials.
+(4)Report to Congress
+Not later than January 1, 2023, the EPA Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+
+(A)a description of the activities carried out under this subsection;
+(B)estimates as to how much plastic waste was prevented from entering the oceans and other waterways as a result of activities funded by the grant; and
+(C)a recommendation on the utility of evolving the grant program into a new waste management State revolving fund.
+(b)Drinking water infrastructure grants
+(1)In general
+The EPA Administrator may provide competitive grants to units of local government, including units of local government that own treatment works (as defined in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292)), Indian Tribes, and public water systems (as defined in section 1401 of the Safe Drinking Water Act (42 U.S.C. 300f)), as applicable, to support improvements in reducing and removing plastic waste and post-consumer materials, including microplastics and microfibers, from drinking water, including planning, design, construction, technical assistance, and planning support for operational adjustments.
+
+(2)Applications
+To be eligible to receive a grant under paragraph (1), an applicant shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require.
+
+(c)Wastewater infrastructure grants
+(1)In general
+The EPA Administrator may provide grants to units of local government, including units of local government that own treatment works (as defined in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292)), Indian Tribes, and public water systems (as defined in section 1401 of the Safe Drinking Water Act (42 U.S.C. 300f)), as applicable, to support improvements in reducing and removing plastic waste and post-consumer materials, including microplastics and microfibers, from wastewater.
+
+(2)Applications
+To be eligible to receive a grant under paragraph (1), an applicant shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require.
+
+(d)Trash-free waters grants
+(1)In general
+The EPA Administrator may provide grants to units of local government, Indian Tribes, and nonprofit organizations—
+
+(A)to support projects to reduce the quantity of solid waste in bodies of water by reducing the quantity of waste at the source, including through anti-litter initiatives;
+(B)to enforce local post-consumer materials management ordinances;
+(C)to implement State or local policies relating to solid waste;
+(D)to capture post-consumer materials at stormwater inlets, at stormwater outfalls, or in bodies of water;
+(E)to provide education and outreach about post-consumer materials movement and reduction; and
+(F)to monitor or model flows of post-consumer materials, including monitoring or modeling a reduction in trash as a result of the implementation of best management practices for the reduction of plastic waste and other post-consumer materials in sources of drinking water.
+(2)Applications
+To be eligible to receive a grant under paragraph (1), an applicant shall submit to the EPA Administrator an application at such time, in such manner, and containing such information as the EPA Administrator may require.
+
+(e)Applicability of Federal law
+(1)In general
+The EPA Administrator shall ensure that all laborers and mechanics employed on projects funded directly, or assisted in whole or in part, by a grant established by this section shall be paid wages at rates not less than those prevailing on projects of a character similar in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of part A of subtitle II of title 40, United States Code.
+
+(2)Authority
+With respect to the labor standards specified in paragraph (1), the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40, United States Code.
+
+(f)Limitation on use of funds
+A grant under this section may not be used (directly or indirectly) as a source of payment (in whole or in part) of, or security for, an obligation the interest on which is excluded from gross income under section 103 of the Internal Revenue Code of 1986.
+
+(g)Authorization of appropriations
+(1)In general
+Subject to paragraph (2), there are authorized to be appropriated—
+
+(A)for the program described subsection (a), $55,000,000 for each of fiscal years 2021 through 2025; and
+(B)for each of the programs described subsections (b), (c), and (d), $10,000,000 for each of fiscal years 2021 through 2025.
+(2)No impact on other Federal funds
+(A)In general
+No funds shall be made available under paragraph (1) to carry out subsections (b) and (c) in a fiscal year if the total amount made available to carry out the programs described in subparagraph (B) for that fiscal year is less than the total amount made available to carry out the programs described in subparagraph (B) for fiscal year 2019.
+
+(B)Programs described
+The programs referred to in subparagraph (A) are—
+
+(i)State drinking water treatment revolving loan funds established under section 1452 of the Safe Drinking Water Act (42 U.S.C. 300j–1242 U.S.C. 300j–1242 U.S.C. 300j–1242 U.S.C. 300j–1242 U.S.C. 300j–12);
+(ii)programs for assistance for small and disadvantaged communities under subsections (a) through (j) of section 1459A of the Safe Drinking Water Act (42 U.S.C. 300j–19a42 U.S.C. 300j–19a42 U.S.C. 300j–19a42 U.S.C. 300j–19a42 U.S.C. 300j–19a); and
+(iii)State water pollution control revolving funds established under title VI of the Federal Water Pollution Control Act (33 U.S.C. 1381 et seq.).
+304.Study on repurposing plastic waste in infrastructure
+(a)In general
+The Secretary of Transportation (referred to in this section as the Secretary) and the EPA Administrator shall jointly enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine under which the National Academies will—
+
+(1)conduct a study on the uses of plastic waste in infrastructure; and
+(2)as part of the study under paragraph (1)—
+(A)identify domestic and international examples of—
+(i)the use of plastic waste materials described in that paragraph;
+(ii)infrastructure projects in which the use of plastic waste has been applied; and
+(iii)projects in which the use of plastic waste has been incorporated into or with other infrastructure materials;
+(B)assess—
+(i)the effectiveness and utility of the uses of plastic waste described in that paragraph;
+(ii)the extent to which plastic waste materials are consistent with recognized specifications for infrastructure construction and other recognized standards;
+(iii)relevant impacts of plastic waste materials compared to non-waste plastic materials;
+(iv)the health, safety, and environmental impacts of—
+(I)plastic waste on humans and animals; and
+(II)the increased use of plastic waste for infrastructure;
+(v)the ability of plastic waste infrastructure to withstand natural disasters, extreme weather events, and other hazards; and
+(vi)plastic waste in infrastructure through an economic analysis; and
+(C)make recommendations with respect to what standards or matters may need to be addressed with respect to ensuring human and animal health and safety from the use of plastic waste in infrastructure.
+(b)Report required
+Not later than 2 years after the date of enactment of this Act and subject to the availability of appropriations, the Secretary and the EPA Administrator shall submit to Congress a report on the study conducted under subsection (a).
+
+305.Study on effects of microplastics in food supplies and sources of drinking water
+(a)In general
+The EPA Administrator, in consultation with the Under Secretary, shall seek to enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine under which the National Academies will conduct a human health and environmental risk assessment on microplastics, including microfibers, in food supplies and sources of drinking water.
+
+(b)Report required
+Not later than 2 years after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report on the study conducted under subsection (a) that includes—
+
+(1)a science-based definition of microplastics that can be adopted in federally supported monitoring and future assessments supported or conducted by a Federal agency;
+(2)recommendations for standardized monitoring, testing, and other necessary protocols relating to microplastics;
+(3)
+(A)an assessment of whether microplastics are currently present in the food supplies and sources of drinking water of United States consumers; and
+(B)if the assessment under subparagraph (A) is positive—
+(i)the extent to which microplastics are present in the food supplies and sources of drinking water; and
+(ii)an assessment of the type, source, prevalence, and risk of microplastics in the food supplies and sources of drinking water;
+(4)an assessment of the risk posed, if any, by the presence of microplastics in the food supplies and sources of drinking water of United States consumers that includes—
+(A)an identification of the most significant sources of those microplastics; and
+(B)a review of the best available science to determine any potential hazards of microplastics in the food supplies and sources of drinking water of United States consumers; and
+(5)a measurement of—
+(A)the quantity of environmental chemicals that absorb to microplastics; and
+(B)the quantity described in subparagraph (A) that would be available for human exposure through food supplies or sources of drinking water.
+306.Report on eliminating barriers to increase the collection of recyclable materials
+Not later than 1 year after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report describing—
+
+(1)the economic, educational, technological, resource availability, legal, or other barriers to increasing the collection, processing, and use of recyclable materials; and
+(2)recommendations to overcome the barriers described under paragraph (1).
+307.Report on economic incentives to spur development of new end-use markets for recycled plastics
+Not later than 1 year after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report describing the most efficient and effective economic incentives to spur the development of additional new end-use markets for recyclable plastics (including plastic film), including the use of increased recycled content by manufacturers in the production of plastic goods and packaging.
+
+308.Report on minimizing the creation of new plastic waste
+(a)In general
+The EPA Administrator, in coordination with the Interagency Marine Debris Coordinating Committee and the National Institute of Standards and Technology, shall conduct a study on minimizing the creation of new plastic waste.
+
+(b)Report
+Not later than 2 years after the date of enactment of this Act, the EPA Administrator shall submit to Congress a report on the study conducted under subsection (a) that includes—
+
+(1)an estimate of the current and projected United States consumption of plastics, by type of plastic, including consumer food products;
+(2)an estimate of the environmental effects and impacts of plastic use in relation to other materials;
+(3)an estimate of current and projected future recycling rates of plastics, by type of plastic;
+(4)an assessment of opportunities to minimize the creation of new plastic waste, including consumer food products, by reducing, recycling, reusing, refilling, refurbishing, or capturing plastic that would otherwise be part of a waste stream; and
+(5)an assessment of what recycled content standards for plastic are technologically and economically feasible, and the impact of the standards on recycling rates.

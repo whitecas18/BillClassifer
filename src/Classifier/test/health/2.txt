@@ -1,0 +1,486 @@
+(a)Short title
+This Act may be cited as the Telehealth Promotion Act of 2012.
+
+(b)Table of contents
+The table of contents of this Act is as follows:
+
+Sec. 1. Short title; table of contents.
+
+Title I—Removing arbitrary coverage restrictions on telehealth from Federal health care programs
+
+Sec. 101. Medicare; Medicaid; CHIP.
+
+Sec. 102. Federal employees health, dental, and vision benefits programs.
+
+Sec. 103. TRICARE.
+
+Sec. 104. Health care provided by the Department of Veterans Affairs.
+
+Sec. 105. Effective date.
+
+Title II—Additional Improvements to Medicare
+
+Sec. 201. Positive incentive for Medicare’s hospital readmissions reduction program.
+
+Sec. 202. Health homes and medical homes.
+
+Sec. 203. Flexibility in accountable care organizations coverage of telehealth.
+
+Sec. 204. Recognizing telehealth services and remote patient monitoring in national pilot program on payment bundling.
+
+Sec. 205. Adjustment in Medicare home health payments to account for use of remote patient monitoring.
+
+Sec. 206. Including telehealth and remote patient monitoring services as part of an intervention proposal under the Medicare Community-Based Care Transitions Program.
+
+Title III—Additional Improvement to Medicaid
+
+Sec. 301. Medicaid option for high-risk pregnancies and births.
+
+I
+Removing arbitrary coverage restrictions on telehealth from Federal health care programs
+
+101.Medicare; Medicaid; CHIP
+(a)In general
+Title XI of the Social Security Act is amended by inserting after section 1150B the following new section:
+
+1150C.Removal of limitation on coverage of services provided via a telecommunications system under Medicare, Medicaid, and CHIP
+(a)Medicare
+An item or service under part A or part B of title XVIII furnished to a Medicare beneficiary by an individual or entity via a telecommunications system shall be covered to the same extent the item or service would be covered if furnished in the same location of the beneficiary, and benefits shall not be denied under either such part solely on the basis that the item or service is being furnished via a telecommunications system.
+
+(b)Medicaid
+Medical assistance under a State plan under title XIX for an item or service furnished to a Medicaid beneficiary by an individual or entity via a telecommunications system shall be available to the same extent as such assistance would be available if furnished in the same location as the beneficiary, and medical assistance shall not be denied under such plan solely on the basis that the item or service is being furnished via a telecommunications system, except as a State may otherwise provide in its State plan under this title. For the purposes of reimbursement, licensure, professional liability, and other purposes under such title with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+
+(c)CHIP
+Child health assistance under a State child health plan under title XXI for an item or service furnished to a CHIP beneficiary by an individual or entity via a telecommunications system shall be available to the same extent as such assistance would be available if furnished in the same location as the beneficiary, and child health assistance shall not be denied under such plan solely on the basis that the item or service is being furnished via a telecommunications system, except as a State may otherwise provide in its State child health plan under this title. The previous sentence applies with respect to items and services furnished through coverage provided in the form described in section 2101(a)(1). For the purposes of reimbursement, licensure, professional liability, and other purposes under such title with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+
+.
+
+(b)Conforming Medicare part B coverage provisions
+(1)Removal of limitation on telehealth services
+Section 1834(m)(4) of the Social Security Act (42 U.S.C. 1395m(m)(4)) is amended by striking subparagraph (F).
+
+(2)Expansion of telecommunications system
+The second sentence of section 1834(m)(1) of the Social Security Act (42 U.S.C. 1835m(m)(1)) is amended by striking in the case of any Federal telemedicine demonstration program conducted in Alaska or Hawaii,.
+
+(3)Expansion of telehealth providers to all health care professionals
+Section 1834(m) of such Act (42 U.S.C. 1395m(m)) is amended—
+
+(A)in paragraph (1)—
+(i)by inserting or other health care professional after (described in section 1842(b)(18)(C)); and
+(ii)by inserting or other health care professional after individual physician or practitioner; and
+(B)in paragraphs (2)(A), (2)(C), (3)(A), and (4)(A) by inserting or other health care professional after physician or practitioner each place it appears.
+(4)Removal of limitations on originating sites
+Section 1834(m)(4)(C) of such Act (42 U.S.C. 1395m(m)(4)(C)) is amended—
+
+(A)by inserting The term originating site means one of the following sites: after Originating site.—;
+(B)by striking clause (i) and all that follows up to subclause (I) of clause (ii); and
+(C)by redesignating subclauses (I) through (VIII) of clause (ii) as clauses (i) through (viii), respectively.
+(5)Location of furnishing telehealth services
+Section 1834(m) of such Act is further amended by adding at the end the following new paragraph:
+
+(5)Treatment of location in furnishing telehealth services
+For purposes of reimbursement, licensure, professional liability, and other purposes under this title with respect to the provision of telehealth services, physicians, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+
+.
+
+(6)Payment methods for other patient sites
+Section 1834(m)(2) of such Act is further amended by adding at the end the following new subparagraph:
+
+(D)Payment methods for other patient sites
+The Secretary may develop and implement payment methods that would apply under this subsection in the case of an individual who would be an eligible telehealth individual except that the telehealth services are furnished the individual at a site other than an originating site. Such methods shall be designed to take into account the costs related to the site involved and reduced costs for the distant site.
+
+.
+
+102.Federal employees health, dental, and vision benefits programs
+(a)Health benefits (FEHBP)
+Section 8904 of title 5, United States Code, is amended by adding at the end the following:
+
+(c)Benefits for an item or service furnished by an individual or entity via a telecommunications system shall be covered under a health benefits plan under this chapter as if it were furnished in person at the location of the beneficiary, and benefits shall not be denied under such a plan solely on the basis that the item or service is being furnished via a telecommunications system. For the purposes of reimbursement, licensure, professional liability, and other purposes under this chapter with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+.
+
+(b)Dental benefits
+Section 8954 of title 5, United States Code, is amended by adding at the end the following:
+
+(f)Benefits for an item or service furnished by an individual or entity via a telecommunications system shall be covered under an enhanced dental benefits plan under this chapter as if it were furnished in person at the location of the beneficiary, and benefits shall not be denied under such a plan solely on the basis that the item or service is being furnished via a telecommunications system. For the purposes of reimbursement, licensure, professional liability, and other purposes under this chapter with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+.
+
+(c)Vision benefits
+Section 8984 of title 5, United States Code, is amended by adding at the end the following:
+
+(f)Benefits for an item or service furnished by an individual or entity via a telecommunications system shall be covered under an enhanced vision benefits plan under this chapter as if it were furnished in person at the location of the beneficiary, and benefits shall not be denied under such a plan solely on the basis that the item or service is being furnished via a telecommunications system. For the purposes of reimbursement, licensure, professional liability, and other purposes under this chapter with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+.
+
+103.TRICARE
+(a)Care provided at military medical treatment facilities
+Section 1077 of title 10, United States Code, is amended by adding at the end the following new subsection:
+
+(g)In providing health care to a covered beneficiary under section 1076 of this title at a military medical treatment facility, the Secretary may furnish an item or service to the covered beneficiary via a telecommunications system.
+.
+
+(b)Care provided at private facilities
+(1)Certain dependents
+Section 1079 of title 10, United States Code, is amended by adding at the end the following new subsection:
+
+(r)
+(1)An item or service furnished to a covered beneficiary via a telecommunications system shall be covered by a plan described in paragraph (2) to the same extent the item or service would be covered if furnished in the same location of the covered beneficiary, and benefits shall not be denied under such a plan solely on the basis that the item or service is being furnished via a telecommunications system. For the purposes of reimbursement, licensure, professional liability, and other purposes under this section with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+(2)A plan described in this paragraph is a plan for which the Secretary enters into a contract under subsection (a) to provide dependents with medical care.
+.
+
+(2)Certain members and former members
+Section 1086 of title 10, United States Code, is amended by adding at the end the following new subsection:
+
+(i)
+(1)An item or service furnished to a covered beneficiary via a telecommunications system shall be covered by a plan described in paragraph (2) to the same extent the item or service would be covered if furnished in the same location of the covered beneficiary, and benefits shall not be denied under such a plan solely on the basis that the item or service is being furnished via a telecommunications system. For the purposes of reimbursement, licensure, professional liability, and other purposes under this section with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+(2)A plan described in this paragraph is a plan for which the Secretary enters into a contract under subsection (a) to provide persons covered by subsection (c) with health benefits.
+.
+
+104.Health care provided by the Department of Veterans Affairs
+(a)In general
+Subchapter I of chapter 17 of title 38, United States Code, is amended by inserting after section 1709A the following new section:
+
+1709B.Provision of health care via telecommunications system
+(a)Direct care
+In providing health care directly to an individual under this chapter or chapter 18 of this title, the Secretary may furnish an item or service to the individual via a telecommunications system.
+
+(b)Contracted care
+(1)An item or service furnished to an individual covered by a plan described in paragraph (2) via a telecommunications system shall be covered by such a plan to the same extent the item or service would be covered if furnished in the same location of the individual, and benefits shall not be denied under such a plan solely on the basis that the item or service is being furnished via a telecommunications system. For the purposes of reimbursement, licensure, professional liability, and other purposes under this chapter and chapter 18 with respect to the provision of telehealth services, practitioners, suppliers, and providers of such services are considered to be furnishing such services at their location and not at the originating site.
+(2)A plan described in this paragraph is a plan for which the Secretary enters into a contract or agreement under this chapter or chapter 18 of this title to furnish health care to an individual.
+.
+
+(b)Clerical amendment
+The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1709A the following new item:
+
+1709B. Provision of health care via telecommunications system.
+
+.
+
+105.Effective date
+The amendments made by this title shall take effect on January 1, 2013, and shall apply to items and services furnished on or after such date and contracts for health plans entered into on or after such date, except that such amendments shall not apply to health plans for plan years for which bids were submitted before the date of the enactment of this Act.
+
+II
+Additional Improvements to Medicare
+
+201.Positive incentive for Medicare’s hospital readmissions reduction program
+Section 1886(q) of the Social Security Act (42 U.S.C. 1395ww(q)) is amended by adding at the end the following new paragraph:
+
+(9)Positive incentive for reduced readmissions
+(A)In general
+With respect to payment for discharges occurring during a fiscal year beginning on or after October 1, 2013, in order to provide a positive incentive for hospitals described in subparagraph (B) to lower their excess readmission ratios, the Secretary shall make an additional payment to a hospital in such proportion as provides for a sharing of the savings from such better-than-expected performance between the hospital and the program under this title.
+
+(B)Hospital described
+A hospital described in this subparagraph is an applicable hospital (as defined in paragraph (5)(C)) not subject to a payment change under paragraph (1) and for which the positive readmission ratio (described in subparagraph (C)) is greater than 1.
+
+(C)Positive readmission ratio
+The positive readmission ratio described in this subparagraph for a hospital is the ratio of—
+
+(i)the risk adjusted expected readmissions (described in subclause (II) of paragraph (4)(C)(i)); to
+(ii)the risk adjusted readmissions based on actual readmissions (described in subclause (I) of such paragraph).
+.
+
+202.Health homes and medical homes
+(a)Medicare chronic care counterpart to Medicaid health home
+(1)In general
+Title XVIII of the Social Security Act is amended by adding at the end the following new section:
+
+1899B.Medicare health home for individuals with chronic conditions
+(a)In general
+In the case of a State that has amended its State plan under title XIX in accordance with the option described in section 1945, the Secretary may contract with the State medical assistance agency with a program under such section to serve eligible individuals with chronic conditions who select a designated provider, a team of health care professionals operating with such a provider, or a health team as the individual’s health home for purposes of providing the individual with health home services in the same manner as provided under its State plan amendment.
+
+(b)Health home qualification standards
+The standards established by the Secretary under section 1945(b) for qualification as a designated provider shall apply under this section for the purpose of being eligible to be a health home for purposes of section 1945.
+
+(c)Payments
+Payments shall be made under this section in the same manner to a provider or team as payments are made under subsection (c) of section 1945, including the use of the payment methodology described in paragraph (2) of such subsection.
+
+(d)Hospital referrals
+Hospitals that are participating providers under this section shall establish procedures for referring any eligible individuals with chronic conditions who seek or need treatment in a hospital emergency department to designated providers in the same manner as required under section 1945(d).
+
+(e)Monitoring and report on quality
+The methodology and proposal required under subsection (f) of section 1945 and the report on quality measures under subsection (f) of such section shall also apply under this section.
+
+(f)Report on quality measures
+As a condition for receiving payment for health home services provided to an eligible individual with chronic conditions, a designated provider shall report, in accordance with such requirements as the Secretary shall specify, including a plan for the use of remote patient monitoring, on all applicable measures for determining the quality of such services. When appropriate and feasible, a designated provider shall use health information technology in providing the Secretary with such information.
+
+(g)Definitions
+In this section, the provisions and definitions contained in subsection (h) of section 1945 shall also apply for purposes of this section except that, instead of the requirement specified in clause (i) of subsection (h)(1)(A) of such section, an individual must be eligible for services under parts A and B and covered for medical assistance for health home services under section 1945 in order to be an eligible individual with chronic conditions.
+
+(h)Evidence-Based and reporting
+In contracting with a State under this section, the State—
+
+(1)shall follow evidence-based guidelines for chronic care; and
+(2)shall report at least by the end of every month data specified by the Secretary, including an assessment of the use of remote patient monitoring and quality measures of process, outcome, and structure.
+(i)Waiver authority
+(1)In general
+The limitations on telehealth under section 1834(m) shall not apply for purposes of this section.
+
+(2)Secretary authority
+The Secretary may waive such other requirements of this title and title XIX as may be necessary to carry out the provisions of this section.
+
+.
+
+(2)Reporting
+(A)In general
+Not later than 2 years after the date of the enactment of this Act, the Secretary of Health and Human Services shall survey States contracting under section 1899B of the Social Security Act, as added by paragraph (1), on the nature, extent, and use of the option under such section particularly as it pertains to—
+
+(i)hospital admission rates;
+(ii)chronic disease management;
+(iii)coordination of care for individuals with chronic conditions;
+(iv)assessment of program implementation;
+(v)processes and lessons learned (as described in subparagraph (B));
+(vi)assessment of quality improvements and clinical outcomes under such option; and
+(vii)estimates of cost savings.
+(B)Implementation reporting
+Such a State shall report to the Secretary, as necessary, on processes that have been developed and lessons learned regarding provision of coordinated care through a health home for beneficiaries with chronic conditions under such option.
+
+(b)Specialty medical homes
+Title XVIII of the Social Security Act, as amended by subsection (a), is further amended by adding at the end the following new section:
+
+1899C.Specialty medical homes
+(a)In general
+Beginning not later than 30 days after the date of the enactment of this section, the Secretary may contract with a national or multi-state regional center of excellence with a network of affiliated local providers to provide through one or more medical homes for targeted, accessible, continuous, and coordinated care to individuals under this title and title XIX with a long-term illness or medical condition that requires regular medical treatment, advising, and monitoring.
+
+(b)Medical home defined
+In this section, the term medical home means a medical entity that—
+
+(1)specializes in the care for a specific long-term illness or medical condition, including related comorbidities;
+(2)leads the development of related evidence-based clinical standards and research;
+(3)has a network of affiliated personal physicians and patient treatment facilities;
+(4)maintains an online Web Site for patient and provider communication and collaboration and patient access to the patient’s health information;
+(5)has a plan for use of health information technology in providing services under this section and improving service delivery and coordination across the care continuum (including the use of wireless patient technology to improve coordination and remote patient monitoring management of care and patient adherence to recommendations made by their provider);
+(6)provides deidentified demographic data sets for clinical, statistical, and social science research to develop culturally-competent best practices and clinical decision support mechanisms for the long-term illness or medical condition;
+(7)uses a health assessment tool for the individuals targeted, including a means for identifying those most likely to benefit from remote patient monitoring; and
+(8)provides training programs for personnel involved in the coordination of care.
+(c)Personal physician defined
+(1)In general
+In this section, the term personal physician means a physician (as defined in section 1861(r)(1)) who meets the requirements described in paragraphs (2) and (3). Nothing in this paragraph shall be construed as preventing a personal physician from being a specialist or subspecialist for an individual requiring ongoing care for a specific chronic condition or multiple chronic conditions or for an individual with a long-term illness or medical condition.
+
+(2)General requirements
+The requirements described in this paragraph for a personal physician for care of an individual are as follows:
+
+(A)The physician is board certified for care of the specific illness or condition of the individual and manages continuous care for the individual.
+(B)The physician has the staff and resources to manage the comprehensive and coordinated health care of such individual.
+(3)Service-related requirements
+The requirements described in this paragraph for a personal physician are as follows:
+
+(A)The personal physician advocates for and provides ongoing support, oversight, and guidance to implement a plan of care that provides an integrated, coherent, cross-discipline plan for ongoing medical care developed in partnership with patients and including all other physicians furnishing care to the patient involved and other appropriate medical personnel or agencies (such as home health agencies).
+(B)The personal physician uses evidence-based medicine and clinical decision support tools to guide decisionmaking at the point-of-care based on patient-specific factors.
+(C)The personal physician is in compliance with the standards for meaningful use of electronic health records under this title.
+(D)The personal physician participates with the State’s health information exchange, as available, or the federally-sponsored Direct Project.
+(E)The personal physician uses health information technology, including appropriate remote monitoring, to monitor and track the health status of patients and to provide patients with enhanced and convenient access to health care services.
+(F)The personal physician uses electronic prescribing and provides medication management.
+(G)The personal physician encourages patients to engage in the management of their own health through education and support systems.
+(H)The personal physician utilizes the services of related health professionals, including nurse practitioners and physician assistants.
+(d)Long-Term illness or medical condition defined
+In this section, the term long-term illness or medical condition—
+
+(1)includes a chronic condition which meets criteria specified by the Secretary for a specialized MA plan for special needs individuals; and
+(2)also includes another condition that the Secretary determines would provide a beneficial focus for an effective and efficient medical home.
+(e)Payment mechanisms
+(1)Medical home care management fee and medical home sharing in savings
+Except as provided in paragraph (2)—
+
+(A)Medical home care management fee
+Under this section the Secretary shall provide for payment under section 1848 of a care management fee to the medical home and may include performance incentives. The medical home shall arrange for payment for the services of affiliated physicians and facilities.
+
+(B)Medical home sharing in savings
+The Secretary shall provide for payment under this section of a medical home based on the payment methodology applied to health group practices under section 1866A. Under such methodology, 80 percent of the reductions in expenditures under this title and title XIX resulting from participation of individuals that are attributable to the medical home (as reduced by the total care management fees paid to the medical home under this section) shall be paid to the medical home. The amount of such reductions in expenditures shall be determined by using assumptions with respect to reductions in the occurrence of health complications, hospitalization rates, medical errors, and adverse drug reactions.
+
+(2)Alternative payment model
+(A)In general
+The Secretary may provide for payment under this paragraph instead of the amounts otherwise payable under paragraph (1).
+
+(B)Establishment of target spending level
+For purposes of this paragraph, the Secretary shall compute an estimated annual spending target based on the amount the Secretary estimates would have been spent in the absence of this section, for items and services covered under parts A and B furnished to applicable beneficiaries for each qualifying medical home under this section. Such spending targets shall be determined on a per capita basis. Such spending targets shall include a risk corridor that takes into account normal variation in expenditures for items and services covered under parts A and B furnished to such beneficiaries with the size of the corridor being related to the number of applicable beneficiaries furnished services by each medical home. The spending targets may also be adjusted for such other factors as the Secretary determines appropriate.
+
+(C)Incentive payments
+Subject to performance on quality measures, a qualifying medical home is eligible to receive an incentive payment under this section if actual expenditures for a year for the applicable beneficiaries it enrolls are less than the estimated spending target established under subparagraph (B) for such year. An incentive payment for such year shall be equal to a portion (as determined by the Secretary) of the amount by which actual expenditures (including incentive payments under this paragraph) for applicable beneficiaries under parts A and B for such year are estimated to be less than 95 percent of the estimated spending target for such year, as determined under subparagraph (B).
+
+(3)Source
+Payments paid under this section shall be made in appropriate proportions (as specified by the Secretary) from the Hospital Insurance Trust Fund, the Federal Supplementary Medical Insurance Trust Fund, and funds appropriated to carry out title XIX.
+
+(f)Evidence-Based
+The contracting entity shall follow evidence-based guidelines for care of the long-term illness or medical condition under this section.
+
+(g)Patient services quality and performance reporting
+The contracting entity shall report at least by the end of every month data specified by the Secretary on the operation of this section, including quality measures of process, outcome, and structure.
+
+(h)Waiver authority
+(1)In general
+The limitations on telehealth under section 1834(m) shall not apply for purposes of this section.
+
+(2)Secretary authority
+The Secretary may waive such other requirements of this title and title XIX as may be necessary to carry out the provisions of this section.
+
+.
+
+203.Flexibility in accountable care organizations coverage of telehealth
+Section 1899 of the Social Security Act (42 U.S.C. 1395jjj) is amended by adding at the end the following new subsection:
+
+(l)Flexibility for telehealth
+(1)Provision as supplemental benefits
+Notwithstanding any other provision of this section, an ACO may include coverage of telehealth and remote patient monitoring services as supplemental health care benefits to the same extent as a Medicare Advantage plan is permitted to provide coverage of such services as supplemental health care benefits under 1852(a)(3)(A).
+
+(2)Provision in connection with home health services
+Nothing in this section shall be construed as preventing an ACO from including payments for remote patient monitoring and home-based video conferencing services in connection with the provision of home health services (under conditions for which payment for such services would not be made under section 1895 for such services) in a manner that is financially equivalent to the furnishing of a home health visit.
+
+.
+
+204.Recognizing telehealth services and remote patient monitoring in national pilot program on payment bundling
+Section 1866D(a)(2) of the Social Security Act (42 U.S.C. 1395cc–4(a)(2)42 U.S.C. 1395cc–4(a)(2)42 U.S.C. 1395cc–4(a)(2)42 U.S.C. 1395cc–4(a)(2)42 U.S.C. 1395cc–4(a)(2)) is amended—
+
+(1)in subparagraph (B), by striking 10 conditions and inserting the conditions;
+(2)in subparagraph (C)—
+(A)by redesignating clause (v) as clause (vi); and
+(B)by inserting after clause (iv) the following new clause:
+(v)Telehealth and remote patient monitoring services.
+; and
+
+(3)in subparagraph (D)(i)(III), by inserting before the period at the end the following: (and such longer period in the case of the use of telehealth and remote patient monitoring services as the Secretary may specify).
+205.Adjustment in Medicare home health payments to account for use of remote patient monitoring
+(a)In general
+Section 1895(b) of the Social Security Act (42 U.S.C. 1395fff(b)) is amended by adding at the end the following new paragraph:
+
+(7)Increase for the use of remote patient monitoring
+(A)In general
+The Secretary shall provide for an increase in the standard prospective payment amount (or amounts) under paragraph (3) applicable to home health services furnished using remote patient monitoring. No such increase shall be provided unless the agency furnishing the services provides the Secretary with such additional information on outcomes from the use of such monitoring as the Secretary may require.
+
+(B)Limitation
+The increase under this paragraph shall be—
+
+(i)applied only in 2014, 2015, and 2016; and
+(ii)reduced in the case of 2016.
+(C)Using remote patient monitoring defined
+In this paragraph, the term using remote patient monitoring means using devices and communications networks to remotely collect and send diagnostic data to a monitoring station for interpretation.
+
+.
+
+(b)Application on a budget neutral basis
+Paragraph (3) of such section is amended by adding at the end the following new subparagraph:
+
+(D)Budget-neutrality adjustment to offset cost of increased payment for using remote patient monitoring
+The Secretary shall reduce the standard prospective payment amount (or amounts) under this paragraph applicable to home health services furnished during a period by such proportion as the Secretary estimates will result in an aggregate reduction in payments for the period equal to the total increase in payments estimated to be made based on the application of paragraph (7) for the period.
+
+.
+
+206.Including telehealth and remote patient monitoring services as part of an intervention proposal under the Medicare Community-Based Care Transitions Program
+Section 3026(c)(2)(B) of the Patient Protection and Affordable Care Act of 2010 (Public Law 111–148; 42 U.S.C. 1395b–1 note42 U.S.C. 1395b–1 note42 U.S.C. 1395b–1 note42 U.S.C. 1395b–1 note42 U.S.C. 1395b–1 note) is amended by adding at the end the following new clause:
+
+(vi)Monitoring a high-risk Medicare beneficiary through the use of telehealth or remote patient monitoring services.
+.
+
+III
+Additional Improvement to Medicaid
+
+301.Medicaid option for high-risk pregnancies and births
+(a)In general
+Title XIX of the Social Security Act is amended by adding at the end the following new section:
+
+1947.State option to provide coordinated care for enrollees with high-risk pregnancies and births
+(a)In general
+Notwithstanding section 1902(a)(1) (relating to statewideness), section 1902(a)(10)(B) (relating to comparability), and any other provision of this title for which the Secretary determines it is necessary to waive in order to implement this section, beginning 6 months after the date of the enactment of this section, a State, at its option as a State plan amendment, may provide for medical assistance under this title to eligible individuals for maternal-fetal and neonatal care who select a designated provider (as described under subsection (h)(5)), a team of health care professionals (as described under subsection (h)(6)) operating with such a provider, or a health team (as described under subsection (h)(7)) as the individual’s birthing network for purposes of providing the individual with pregnancy-related services.
+
+(b)Qualification standards
+The Secretary shall establish standards for qualification as a designated provider for the purpose of being eligible to be a birthing network for purposes of this section.
+
+(c)Payments
+(1)In general
+A State shall provide a designated provider, a team of health care professionals operating with such a provider, or a health team with payments for the provision of birthing network services to each eligible individual for maternal-fetal and neonatal care that selects such provider, team of health care professionals, or health team as the individual’s birthing network. Payments made to a designated provider, a team of health care professionals operating with such a provider, or a health team for such services shall be treated as medical assistance for purposes of section 1903(a), except that, during the first 8 fiscal year quarters that the State plan amendment is in effect, the Federal medical assistance percentage applicable to such payments shall be equal to 90 percent.
+
+(2)Savings target
+As a condition for approval of a State plan amendment and payment methodology under this section, the State shall provide the Secretary with assurances that the amendment and methodology shall be projected to reduce the amount of expenditures for pregnancy-related services otherwise made under this title by one percent for each 4-calendar-quarter period during the first 40 calendar quarters in which the amendment is in effect.
+
+(3)Methodology
+(A)In general
+The State shall specify in the State plan amendment the methodology the State will use for determining payment for the provision of birthing network services. Such methodology for determining payment shall be established consistent with section 1902(a)(30)(A).
+
+(B)Innovative models of payment
+The methodology for determining payment for provision of birthing network services under this section shall not be limited to a per-member per-month basis and may provide (as proposed by the State and subject to approval by the Secretary) for alternate models of payment, including bundled per episode, performance incentives, and shared savings.
+
+(4)Planning grants
+(A)In general
+Beginning 30 days after the date of the enactment of this section, the Secretary may award planning grants to States for purposes of developing a State plan amendment under this section. A planning grant awarded to a State or a multi-state collaborative under this paragraph shall remain available until expended.
+
+(B)Limitation
+The total amount of payments made to States under this paragraph shall not exceed $25,000,000.
+
+(d)Report on quality measures
+As a condition for receiving payment for birthing network services provided to an eligible individual for maternal-fetal and neonatal care, a designated provider shall report monthly to the State, in accordance with such requirements as the Secretary shall specify, on all applicable measures for determining the quality of such services. When appropriate and feasible, a designated provider shall use health information technology in providing the State with such information.
+
+(e)Evidence-Based
+The birthing network shall adapt, update, and follow evidence-based guidelines for maternal-fetal and neonatal care.
+
+(f)Definitions
+In this section:
+
+(1)Eligible individual for maternal-fetal and neonatal care
+(A)In general
+Subject to subparagraph (B), the term eligible individual means an individual who—
+
+(i)is eligible for medical assistance under the State plan or under a waiver of such plan; and
+(ii)
+(I)is pregnant (or was pregnant during the immediately preceding 30 day period); or
+(II)is the child of an individual described in clause (i) and under 30 days old.
+(B)Rule of construction
+Nothing in this paragraph shall prevent the Secretary from establishing other requirements for purposes of determining eligibility for receipt of birthing network services under this section.
+
+(2)Birthing network
+The term birthing network means a designated provider (including a provider that operates in coordination with a team of health care professionals) or a health team selected by an eligible individual to provide birthing network services.
+
+(3)Birthing network services
+(A)In general
+The term birthing network services means comprehensive and timely high-quality services described in subparagraph (B) that are provided by a designated provider, a team of health care professionals operating with such a provider, or a health team and are identified in a provider registry.
+
+(B)Services described
+The services described in this subparagraph are—
+
+(i)comprehensive care coordination;
+(ii)health promotion;
+(iii)a call center to offer 24-hour physician support for consultations with maternal-fetal medicine specialists, when requested, regarding patient management issues;
+(iv)newborn screening, including for heart defects and to reduce newborn hospital readmissions;
+(v)patient and family support (including authorized representatives);
+(vi)referral to community and social support services, if relevant; and
+(vii)use of health information technology to link services and provide monitoring, as feasible and appropriate.
+(4)Designated provider
+The term designated provider means a physician, clinical practice or clinical group practice, rural clinic, community health center, public health agency, home health agency, or any other entity or provider (including pediatricians, gynecologists, and obstetricians) that is determined by the State and approved by the Secretary to be qualified to be a birthing network for eligible individuals on the basis of documentation evidencing that the physician, practice, or clinic—
+
+(A)has the systems and infrastructure in place to provide birthing network services; and
+(B)satisfies the qualification standards established by the Secretary under subsection (b) and paragraph (7)(B).
+(5)Team of health care professionals
+The term team of health care professionals means a team of health professionals (as described in the State plan amendment) that may—
+
+(A)include physicians and other professionals, such as a nurse care coordinator, midwife, nutritionist, social worker, behavioral health professional, or any professionals deemed appropriate by the State; and
+(B)be free standing, virtual, or based at a hospital, community health center, rural clinic, clinical practice or clinical group practice, academic health center, or any entity deemed appropriate by the State and approved by the Secretary.
+(6)Health team
+The term health team has the meaning given such term for purposes of section 3502 of the Patient Protection and Affordable Care Act.
+
+(7)Birthing data and exchange
+(A)Proposal for use of health information technology
+A State shall include in the State plan amendment a proposal for use of health information technology in providing birthing network services under this section and improving service delivery and coordination across the care continuum (including the use of wireless patient technology to improve coordination and management of care and patient adherence to recommendations made by their provider).
+
+(B)Information requirements for birthing networks
+The birthing network shall—
+
+(i)be in compliance with the Medicaid standards for meaningful use of electronic health records;
+(ii)participate with the State’s health information exchange, as available, or operate an exchange among the birthing network;
+(iii)collect demographic information on participating newborns and mothers;
+(iv)use demographic and event-based data to identify patients that are likely going to need short or long-term follow-up; and
+(v)providing de-identified demographic data sets for statistical and social science research to develop culturally-competent best practices and clinical decision support mechanisms for maternal-fetal and neonatal care.
+.
+
+(b)Patient services quality and performance reporting
+(1)In general
+Not later than 3 years after the date of the enactment of this Act, the Secretary of Health and Human Services shall survey States that have elected the option under section 1947 of the Social Security Act, as added by section (a), on the nature, extent, and use of such option, particularly as it pertains to—
+
+(A)terms of pregnancies;
+(B)use of prenatal fetal monitoring;
+(C)use of Caesarean section procedures;
+(D)use of neonatal intensive care services;
+(E)incidence of birthing complications;
+(F)incidence of infant and maternal mortality;
+(G)coordination of maternal-fetal and neonatal care for individuals;
+(H)assessment of program implementation;
+(I)processes and lessons learned (as described in subparagraph (B));
+(J)assessment of quality improvements and clinical outcomes under such option; and
+(K)participating mothers’ assessment of performance, quality, convenience, and satisfaction.
+(2)Implementation reporting
+A State that has elected the option under such section shall report to the Secretary, as necessary, on processes that have been developed and lessons learned regarding provision of coordinated care through a birthing network for Medicaid beneficiaries for maternal-fetal and neonatal care under such option.
