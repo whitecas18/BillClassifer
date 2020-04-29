@@ -27,3 +27,5 @@ General bills can be searched by bill issue/creation date.
 -Some very large bills summaries take a few minutes to load, if it seems like the program hangs up, it is probably loading a summary so be patient.
 
 -Some summaries have repeated sentences, this is a known issue, and is due to quirks in the .gov api.
+
+-All folder's(train and test folder) must remain in their location. They must be in the working directory for the program to work as intended.
